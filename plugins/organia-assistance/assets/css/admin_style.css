@@ -1,0 +1,47 @@
+.alert {
+    position: relative;
+    padding: .75rem 1.25rem;
+    margin-bottom: 1rem;
+    border: 1px solid transparent;
+    border-radius: .25rem;
+}
+.alert-warning {
+    color: #856404;
+    background-color: #fff3cd;
+    border-color: #ffeeba;
+}
+.alert-danger {
+    color: #721c24;
+    background-color: #f8d7da;
+    border-color: #f5c6cb;
+}
+.alert-success {
+    color: #155724;
+    background-color: #d4edda;
+    border-color: #c3e6cb;
+}
+.upbuttons{
+    display: block;
+    position: relative;
+    margin-top: 5px;
+}
+.upbuttons input{
+    padding-right: 50px;
+}
+.file_linkeds, .up_btn{
+    position: absolute;
+    right: 0;
+    top: 0;
+    font-weight: bold;
+}
+.gallery_holders{
+    display: none;
+}
+.gallery_holders.show{
+    display: block;
+}
+.gallery_holders img{
+    width: 80px;
+    height: 80px;
+    margin: 0 2px 2px 0;
+}

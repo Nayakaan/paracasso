@@ -1,0 +1,1 @@
+<a href="<?php echo esc_url($video_url) ?>" class="popup_video onlybtn"><i class="<?php echo esc_attr($video_icons); ?>"></i><?php if($v_title != ''): ?><span><?php echo wp_kses_post($v_title); ?></span><?php endif; ?></a>

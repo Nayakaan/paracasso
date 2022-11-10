@@ -1,0 +1,8 @@
+/*
+    Custom css for editor.
+*/
+.elementor-panel .elementor-panel-category#elementor-panel-category-pro-elements, 
+.elementor-panel .elementor-panel-category#elementor-panel-category-theme-elements,
+.elementor-panel .elementor-panel-category#elementor-panel-category-woocommerce-elements{
+    display: none !important;
+}

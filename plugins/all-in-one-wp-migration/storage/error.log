@@ -1,0 +1,6 @@
+Nov 10 2022 11:48:03
+{"type":8192,"message":"Required parameter $zip_path follows optional parameter $full","file":"E:\\xampp\\htdocs\\kbm_projects\\paracasso\\wp-content\\plugins\\unyson\\framework\\extensions\\backups\\includes\\module\\tasks\\class--fw-ext-backups-module-tasks.php","line":985}
+
+Nov 10 2022 11:48:03
+{"type":8192,"message":"Required parameter $zip_path follows optional parameter $full","file":"E:\\xampp\\htdocs\\kbm_projects\\paracasso\\wp-content\\plugins\\unyson\\framework\\extensions\\backups\\includes\\module\\tasks\\class--fw-ext-backups-module-tasks.php","line":985}
+

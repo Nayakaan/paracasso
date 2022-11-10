@@ -1,0 +1,5979 @@
+# Copyright (C) 2022 WP Delicious
+# This file is distributed under the same license as the Delicious Recipes plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Delicious Recipes 1.4.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/delicious-recipes\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-08-25T07:08:53+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.5.0\n"
+
+#. Plugin Name of the plugin
+#: src/blocks/init.php:128
+#: src/DeliciousAdmin.php:154
+#: src/DeliciousAdmin.php:1153
+#: assets/admin/components/onboarding/startBanner.jsx:26
+#: assets/build/onboard.js:1
+msgid "Delicious Recipes"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://wpdelicious.com/docs/"
+msgstr ""
+
+#. Description of the plugin
+msgid "A powerful recipe plugin to create and display recipes for bloggers. SEO optimized and Schema-friendly to rank recipes higher on search engines."
+msgstr ""
+
+#. Author of the plugin
+msgid "WP Delicious"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://wpdelicious.com"
+msgstr ""
+
+#: src/admin/partials/dr-category-widget-form.php:7
+#: src/widgets/categories.php:45
+msgid "Recipe Categories"
+msgstr ""
+
+#: src/admin/partials/dr-category-widget-form.php:14
+msgid "Recipe Course"
+msgstr ""
+
+#: src/admin/partials/dr-category-widget-form.php:15
+msgid "Recipe Cuisine"
+msgstr ""
+
+#: src/admin/partials/dr-category-widget-form.php:16
+msgid "Recipe Cooking Method"
+msgstr ""
+
+#: src/admin/partials/dr-category-widget-form.php:22
+#: src/widgets/featured.php:107
+#: src/widgets/popular-tags.php:90
+#: src/widgets/popular.php:139
+#: src/widgets/recent.php:99
+#: src/widgets/recipe-keys.php:101
+msgid "Title:"
+msgstr ""
+
+#: src/admin/partials/dr-category-widget-form.php:26
+msgid "Recipe Taxonomy:"
+msgstr ""
+
+#: src/admin/partials/dr-category-widget-form.php:29
+msgid "--Select Taxonomy--"
+msgstr ""
+
+#: src/admin/partials/dr-category-widget-form.php:48
+msgid "Choose Categories:"
+msgstr ""
+
+#: src/admin/partials/dr-category-widget-form.php:61
+msgid "No Terms available."
+msgstr ""
+
+#: src/admin/partials/dr-category-widget-form.php:72
+msgid "Show as dropdown"
+msgstr ""
+
+#: src/admin/partials/dr-category-widget-form.php:76
+msgid "Show recipe counts"
+msgstr ""
+
+#: src/admin/partials/dr-import-recipe-screen.php:9
+#: src/classes/class-delicious-recipes-import.php:40
+#: src/classes/class-delicious-recipes-import.php:41
+msgid "Import Recipes"
+msgstr ""
+
+#. translators: %1$s: importer plugin name
+#: src/admin/partials/dr-import-recipe-screen.php:34
+msgid "Import recipes from %1$s"
+msgstr ""
+
+#. translators: %1$s: importer plugin name %2$s: importer plugin name
+#: src/admin/partials/dr-import-recipe-screen.php:41
+msgid "%1$s plugin is not installed or activated. Please activate the %2$s plugin first to start import."
+msgstr ""
+
+#. translators: %1$s: importer plugin name %2$s: importer plugin name
+#: src/admin/partials/dr-import-recipe-screen.php:57
+msgid "All the recipes from %1$s plugin has been imported. You can now deactivate the %2$s plugin."
+msgstr ""
+
+#. translators: %d: recipes count
+#: src/admin/partials/dr-import-recipe-screen.php:63
+msgid "%d recipe found"
+msgid_plural "%d recipes found"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/admin/partials/dr-import-recipe-screen.php:65
+msgid " recipes found"
+msgstr ""
+
+#: src/admin/partials/dr-import-recipe-screen.php:82
+msgid "Recipes to Import"
+msgstr ""
+
+#: src/admin/partials/dr-import-recipe-screen.php:87
+#: src/admin/partials/dr-import-recipe-screen.php:97
+msgid "Recipe Title"
+msgstr ""
+
+#: src/admin/partials/dr-import-recipe-screen.php:88
+#: src/admin/partials/dr-import-recipe-screen.php:98
+msgid "Recipe ID"
+msgstr ""
+
+#: src/admin/partials/dr-import-recipe-screen.php:89
+#: src/admin/partials/dr-import-recipe-screen.php:99
+#: src/Functions/CoreFunctions.php:407
+#: src/Functions/CoreFunctions.php:907
+#: assets/admin/components/global-settings/global-tabs/global-tabs-content.jsx:34
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:631
+#: assets/build/blocks.js:1
+#: assets/build/global.js:3
+msgid "Author"
+msgstr ""
+
+#: src/admin/partials/dr-import-recipe-screen.php:90
+#: src/admin/partials/dr-import-recipe-screen.php:100
+msgid "Date Published"
+msgstr ""
+
+#: src/admin/partials/dr-import-recipe-screen.php:91
+#: src/admin/partials/dr-import-recipe-screen.php:101
+msgid "Featured Image"
+msgstr ""
+
+#: src/admin/partials/dr-import-recipe-screen.php:116
+#: assets/build/global.js:1
+msgid "Edit"
+msgstr ""
+
+#: src/admin/partials/dr-import-recipe-screen.php:117
+msgid "View"
+msgstr ""
+
+#: src/admin/partials/dr-import-recipe-screen.php:151
+msgid "Import Selected Recipes / Taxonomies"
+msgstr ""
+
+#: src/admin/partials/dr-taxonomy-metas-add.php:10
+#: src/admin/partials/dr-taxonomy-metas-edit.php:13
+msgid "Taxonomy Color"
+msgstr ""
+
+#: src/admin/partials/dr-taxonomy-metas-add.php:12
+#: src/admin/partials/dr-taxonomy-metas-edit.php:15
+msgid "Choose color for the taxonomy."
+msgstr ""
+
+#: src/admin/partials/dr-taxonomy-metas-add.php:15
+#: src/admin/partials/dr-taxonomy-metas-edit.php:19
+msgid "Taxonomy Image"
+msgstr ""
+
+#: src/admin/partials/dr-taxonomy-metas-add.php:19
+#: assets/admin/components/global-settings/global-tabs/global-author.jsx:360
+#: assets/build/global.js:1
+#: assets/build/global.js:3
+#: assets/build/recipe.js:1
+#: assets/build/recipe.js:3
+msgid "Add Image"
+msgstr ""
+
+#: src/admin/partials/dr-taxonomy-metas-add.php:20
+#: src/admin/partials/dr-taxonomy-metas-edit.php:31
+msgid "Remove Image"
+msgstr ""
+
+#: src/admin/partials/dr-taxonomy-metas-add.php:24
+#: src/admin/partials/dr-taxonomy-metas-edit.php:37
+msgid "Taxonomy SVG Icon"
+msgstr ""
+
+#: src/admin/partials/dr-taxonomy-metas-add.php:29
+#: src/admin/partials/dr-taxonomy-metas-edit.php:56
+msgid "Recipe Icons"
+msgstr ""
+
+#: src/admin/partials/dr-taxonomy-metas-add.php:30
+#: src/admin/partials/dr-taxonomy-metas-edit.php:57
+msgid "FontAwesome Icons"
+msgstr ""
+
+#: src/admin/partials/dr-taxonomy-metas-add.php:31
+#: src/admin/partials/dr-taxonomy-metas-edit.php:58
+msgid "PNG Icons"
+msgstr ""
+
+#: src/admin/partials/dr-taxonomy-metas-add.php:76
+#: src/admin/partials/dr-taxonomy-metas-edit.php:105
+msgid "Choose svg icon for the taxonomy."
+msgstr ""
+
+#: src/admin/partials/dr-taxonomy-metas-edit.php:30
+msgid "Add/Replace Image"
+msgstr ""
+
+#: src/admin/partials/dr-taxonomy-metas-edit.php:32
+msgid "Choose image for the taxonomy."
+msgstr ""
+
+#: src/api/inc/endpoints/class-delicious-recipes-rest-auth-controller.php:39
+msgid "User Authentication Successful."
+msgstr ""
+
+#: src/api/inc/endpoints/class-delicious-recipes-rest-auth-controller.php:56
+msgid "User Not Found."
+msgstr ""
+
+#: src/api/inc/endpoints/class-delicious-recipes-rest-controller.php:41
+#: src/api/inc/endpoints/class-delicious-recipes-rest-controller.php:53
+#: src/api/inc/endpoints/class-delicious-recipes-rest-controller.php:66
+msgid "You cannot view the post resource."
+msgstr ""
+
+#: src/api/inc/endpoints/class-delicious-recipes-rest-controller.php:79
+msgid "You cannot update the site settings."
+msgstr ""
+
+#: src/api/inc/endpoints/class-delicious-recipes-rest-global-settings-controller.php:74
+msgid "Recipe Settings not found."
+msgstr ""
+
+#: src/api/inc/endpoints/class-delicious-recipes-rest-global-settings-controller.php:82
+msgid "Recipe Settings Found."
+msgstr ""
+
+#: src/api/inc/endpoints/class-delicious-recipes-rest-global-settings-controller.php:121
+msgid "Recipe Global Settings Saved Successfully."
+msgstr ""
+
+#: src/api/inc/endpoints/class-delicious-recipes-rest-global-settings-controller.php:148
+msgid "Recipe Onboarding Settings Saved Successfully."
+msgstr ""
+
+#: src/api/inc/endpoints/class-delicious-recipes-rest-global-settings-controller.php:267
+#: src/api/inc/endpoints/class-delicious-recipes-rest-recipe-controller.php:270
+msgid "Current page of the collection."
+msgstr ""
+
+#: src/api/inc/endpoints/class-delicious-recipes-rest-global-settings-controller.php:275
+#: src/api/inc/endpoints/class-delicious-recipes-rest-recipe-controller.php:278
+msgid "Maximum number of items to be returned in result set."
+msgstr ""
+
+#: src/api/inc/endpoints/class-delicious-recipes-rest-global-settings-controller.php:326
+#: src/api/inc/endpoints/class-delicious-recipes-rest-recipe-controller.php:329
+msgid "Unique identifier for the object."
+msgstr ""
+
+#: src/api/inc/endpoints/class-delicious-recipes-rest-global-settings-controller.php:332
+#: src/api/inc/endpoints/class-delicious-recipes-rest-recipe-controller.php:335
+msgid "The date the object was published, in the site's timezone."
+msgstr ""
+
+#: src/api/inc/endpoints/class-delicious-recipes-rest-global-settings-controller.php:338
+#: src/api/inc/endpoints/class-delicious-recipes-rest-recipe-controller.php:341
+msgid "The title for the object."
+msgstr ""
+
+#: src/api/inc/endpoints/class-delicious-recipes-rest-global-settings-controller.php:347
+#: src/api/inc/endpoints/class-delicious-recipes-rest-recipe-controller.php:350
+msgid "Title for the object, as it exists in the database."
+msgstr ""
+
+#: src/api/inc/endpoints/class-delicious-recipes-rest-global-settings-controller.php:352
+#: src/api/inc/endpoints/class-delicious-recipes-rest-recipe-controller.php:355
+msgid "HTML title for the object, transformed for display."
+msgstr ""
+
+#: src/api/inc/endpoints/class-delicious-recipes-rest-global-settings-controller.php:360
+#: src/api/inc/endpoints/class-delicious-recipes-rest-recipe-controller.php:363
+msgid "URL to the object."
+msgstr ""
+
+#: src/api/inc/endpoints/class-delicious-recipes-rest-global-settings-controller.php:367
+#: src/api/inc/endpoints/class-delicious-recipes-rest-recipe-controller.php:370
+msgid "The date the object was last modified, in the site's timezone."
+msgstr ""
+
+#: src/api/inc/endpoints/class-delicious-recipes-rest-global-settings-controller.php:374
+#: src/api/inc/endpoints/class-delicious-recipes-rest-recipe-controller.php:377
+msgid "The date the object was last modified, as GMT."
+msgstr ""
+
+#: src/api/inc/endpoints/class-delicious-recipes-rest-global-settings-controller.php:381
+#: src/api/inc/endpoints/class-delicious-recipes-rest-recipe-controller.php:384
+msgid "A named status for the object."
+msgstr ""
+
+#: src/api/inc/endpoints/class-delicious-recipes-rest-global-settings-controller.php:387
+#: src/api/inc/endpoints/class-delicious-recipes-rest-recipe-controller.php:390
+msgid "Type of Post for the object."
+msgstr ""
+
+#: src/api/inc/endpoints/class-delicious-recipes-rest-recipe-controller.php:88
+msgid "Recipes Found."
+msgstr ""
+
+#: src/api/inc/endpoints/class-delicious-recipes-rest-recipe-controller.php:96
+msgid "No Recipes Found."
+msgstr ""
+
+#: src/api/inc/endpoints/class-delicious-recipes-rest-recipe-controller.php:127
+msgid "Recipe Found."
+msgstr ""
+
+#: src/api/inc/endpoints/class-delicious-recipes-rest-recipe-controller.php:133
+#: src/api/inc/endpoints/class-delicious-recipes-rest-recipe-controller.php:156
+#: src/api/inc/endpoints/class-delicious-recipes-rest-recipe-controller.php:174
+msgid "Recipe not found by ID."
+msgstr ""
+
+#: src/api/inc/endpoints/class-delicious-recipes-rest-recipe-controller.php:167
+msgid "Recipe Settings Saved Successfully."
+msgstr ""
+
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-details.php:97
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-details.php:183
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-recipe-card.php:160
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-recipe-card.php:314
+#: src/Functions/CoreFunctions.php:439
+#: src/Functions/CoreFunctions.php:809
+#: src/Functions/CoreFunctions.php:923
+#: templates/global/block-print.php:74
+#: templates/global/block-print.php:204
+#: assets/admin/components/global-settings/global-tabs/global-tabs-content.jsx:58
+#: assets/admin/components/global-settings/global-tabs/global-tabs-content.jsx:330
+#: assets/blocks/details/Inspector.js:256
+#: assets/blocks/details/Inspector.js:268
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:863
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:875
+#: assets/build/blocks.js:1
+#: assets/build/global.js:3
+msgid "Difficulty"
+msgstr ""
+
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-details.php:106
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-details.php:184
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-recipe-card.php:169
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-recipe-card.php:315
+#: src/Functions/CoreFunctions.php:503
+#: src/Functions/CoreFunctions.php:955
+#: templates/global/block-print.php:75
+#: templates/global/block-print.php:278
+#: assets/admin/components/global-settings/global-tabs/global-tabs-content.jsx:106
+#: assets/blocks/details/Inspector.js:660
+#: assets/blocks/details/Inspector.js:670
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:1267
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:1277
+#: assets/build/blocks.js:1
+#: assets/build/global.js:3
+#: assets/build/recipe.js:3
+msgid "Best Season"
+msgstr ""
+
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-details.php:210
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-recipe-card.php:844
+#: assets/blocks/details/block.js:53
+#: assets/blocks/details/block.js:89
+#: assets/blocks/recipe-card-dynamic/components/DetailItem.js:124
+#: assets/build/blocks.js:1
+msgid "Prep time"
+msgstr ""
+
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-details.php:211
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-details.php:218
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-details.php:225
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-details.php:232
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-recipe-card.php:845
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-recipe-card.php:852
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-recipe-card.php:859
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-recipe-card.php:866
+#: assets/blocks/recipe-card-dynamic/components/DetailItem.js:126
+#: assets/blocks/recipe-card-dynamic/components/DetailItem.js:131
+#: assets/blocks/recipe-card-dynamic/components/DetailItem.js:136
+#: assets/blocks/recipe-card-dynamic/components/DetailItem.js:141
+#: assets/build/blocks.js:1
+msgid "minutes"
+msgstr ""
+
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-details.php:217
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-recipe-card.php:851
+msgid "Cook time"
+msgstr ""
+
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-details.php:224
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-recipe-card.php:858
+#: assets/blocks/recipe-card-dynamic/components/DetailItem.js:134
+#: assets/build/blocks.js:1
+msgid "Rest time"
+msgstr ""
+
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-details.php:231
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-recipe-card.php:865
+#: assets/blocks/details/block.js:104
+#: assets/blocks/recipe-card-dynamic/components/DetailItem.js:139
+#: assets/build/blocks.js:1
+msgid "Total time"
+msgstr ""
+
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-details.php:238
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-nutrition.php:338
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-recipe-card.php:872
+#: src/Functions/CoreFunctions.php:487
+#: src/Functions/CoreFunctions.php:947
+#: src/Functions/HelperFunctions.php:497
+#: templates/recipe/recipe-block/ingredients.php:16
+#: assets/admin/components/global-settings/global-tabs/global-tabs-content.jsx:94
+#: assets/blocks/details/block.js:63
+#: assets/blocks/details/block.js:109
+#: assets/blocks/details/Inspector.js:544
+#: assets/blocks/recipe-card-dynamic/components/DetailItem.js:144
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:1151
+#: assets/build/blocks.js:1
+#: assets/build/global.js:3
+#: assets/build/recipe.js:3
+msgid "Servings"
+msgstr ""
+
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-details.php:239
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-recipe-card.php:873
+#: assets/blocks/recipe-card-dynamic/components/DetailItem.js:146
+#: assets/build/blocks.js:1
+msgid "servings"
+msgstr ""
+
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-details.php:245
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-nutrition.php:342
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-recipe-card.php:879
+#: src/Functions/CoreFunctions.php:495
+#: src/Functions/CoreFunctions.php:951
+#: src/Functions/HelperFunctions.php:504
+#: assets/admin/components/global-settings/global-tabs/global-tabs-content.jsx:100
+#: assets/blocks/details/block.js:68
+#: assets/blocks/details/block.js:114
+#: assets/blocks/details/Inspector.js:608
+#: assets/blocks/recipe-card-dynamic/components/DetailItem.js:149
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:1215
+#: assets/build/blocks.js:1
+#: assets/build/global.js:3
+#: assets/build/recipe.js:3
+msgid "Calories"
+msgstr ""
+
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-details.php:246
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-recipe-card.php:880
+#: assets/blocks/recipe-card-dynamic/components/DetailItem.js:151
+#: assets/build/blocks.js:1
+msgid "kcal"
+msgstr ""
+
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-nutrition.php:114
+#: src/Functions/CoreFunctions.php:768
+#: assets/admin/components/global-settings/global-tabs/global-tabs-content.jsx:299
+#: assets/blocks/nutrition/Nutrition.js:171
+#: assets/build/blocks.js:1
+#: assets/build/global.js:3
+#: assets/build/recipe.js:3
+msgid "Nutrition Facts"
+msgstr ""
+
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-nutrition.php:146
+#: src/Functions/CoreFunctions.php:770
+#: templates/recipe/recipe-block/nutrition.php:11
+#: assets/admin/components/global-settings/global-tabs/global-tabs-content.jsx:301
+#: assets/build/global.js:3
+msgid "Percent Daily Values are based on a 2,000 calorie diet. Your daily value may be higher or lower depending on your calorie needs."
+msgstr ""
+
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-nutrition.php:283
+#: templates/recipe/recipe-block/nutrition.php:155
+#: assets/blocks/nutrition/Nutrition.js:204
+#: assets/build/blocks.js:1
+#: assets/build/recipe.js:3
+msgid "Amount Per Serving"
+msgstr ""
+
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-nutrition.php:293
+#: templates/recipe/recipe-block/nutrition.php:165
+#: assets/blocks/nutrition/Nutrition.js:242
+#: assets/build/blocks.js:1
+#: assets/build/recipe.js:3
+msgid "% Daily Value *"
+msgstr ""
+
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-nutrition.php:333
+#: src/Functions/HelperFunctions.php:493
+#: assets/build/recipe.js:3
+msgid "Serving Size"
+msgstr ""
+
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-nutrition.php:346
+#: src/Functions/HelperFunctions.php:508
+#: assets/build/recipe.js:3
+msgid "Calories from Fat"
+msgstr ""
+
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-nutrition.php:350
+#: src/Functions/HelperFunctions.php:515
+#: assets/build/recipe.js:3
+msgid "Total Fat"
+msgstr ""
+
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-nutrition.php:355
+#: src/Functions/HelperFunctions.php:521
+#: assets/build/recipe.js:3
+msgid "Saturated Fat"
+msgstr ""
+
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-nutrition.php:360
+#: src/Functions/HelperFunctions.php:527
+#: assets/build/recipe.js:3
+msgid "Trans Fat"
+msgstr ""
+
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-nutrition.php:364
+#: src/Functions/HelperFunctions.php:534
+#: assets/build/recipe.js:3
+msgid "Cholesterol"
+msgstr ""
+
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-nutrition.php:369
+#: src/Functions/HelperFunctions.php:540
+#: assets/build/recipe.js:3
+msgid "Sodium"
+msgstr ""
+
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-nutrition.php:374
+#: src/Functions/HelperFunctions.php:546
+#: assets/build/recipe.js:3
+msgid "Potassium"
+msgstr ""
+
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-nutrition.php:379
+#: src/Functions/HelperFunctions.php:552
+#: assets/build/recipe.js:3
+msgid "Total Carbohydrate"
+msgstr ""
+
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-nutrition.php:384
+#: src/Functions/HelperFunctions.php:558
+#: assets/build/recipe.js:3
+msgid "Dietary Fiber"
+msgstr ""
+
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-nutrition.php:389
+#: src/Functions/HelperFunctions.php:564
+#: assets/build/recipe.js:3
+msgid "Sugars"
+msgstr ""
+
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-nutrition.php:393
+#: src/Functions/HelperFunctions.php:571
+#: assets/build/recipe.js:3
+msgid "Protein"
+msgstr ""
+
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-nutrition.php:398
+#: src/Functions/HelperFunctions.php:580
+#: assets/build/recipe.js:3
+msgid "Vitamin A"
+msgstr ""
+
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-nutrition.php:402
+#: src/Functions/HelperFunctions.php:585
+#: assets/build/recipe.js:3
+msgid "Vitamin C"
+msgstr ""
+
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-nutrition.php:406
+#: src/Functions/HelperFunctions.php:590
+#: assets/build/recipe.js:3
+msgid "Calcium"
+msgstr ""
+
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-nutrition.php:410
+#: src/Functions/HelperFunctions.php:595
+#: assets/build/recipe.js:3
+msgid "Iron"
+msgstr ""
+
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-nutrition.php:414
+#: src/Functions/HelperFunctions.php:600
+#: assets/build/recipe.js:3
+msgid "Vitamin D"
+msgstr ""
+
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-nutrition.php:418
+#: src/Functions/HelperFunctions.php:605
+#: assets/build/recipe.js:3
+msgid "Vitamin E"
+msgstr ""
+
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-nutrition.php:422
+#: src/Functions/HelperFunctions.php:610
+#: assets/build/recipe.js:3
+msgid "Vitamin K"
+msgstr ""
+
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-nutrition.php:426
+#: src/Functions/HelperFunctions.php:615
+#: assets/build/recipe.js:3
+msgid "Thiamin"
+msgstr ""
+
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-nutrition.php:430
+#: src/Functions/HelperFunctions.php:620
+#: assets/build/recipe.js:3
+msgid "Riboflavin"
+msgstr ""
+
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-nutrition.php:434
+#: src/Functions/HelperFunctions.php:625
+#: assets/build/recipe.js:3
+msgid "Niacin"
+msgstr ""
+
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-nutrition.php:438
+#: src/Functions/HelperFunctions.php:630
+#: assets/build/recipe.js:3
+msgid "Vitamin B6"
+msgstr ""
+
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-nutrition.php:442
+#: src/Functions/HelperFunctions.php:640
+#: assets/build/recipe.js:3
+msgid "Vitamin B12"
+msgstr ""
+
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-nutrition.php:446
+#: src/Functions/HelperFunctions.php:635
+#: assets/build/recipe.js:3
+msgid "Folate"
+msgstr ""
+
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-nutrition.php:450
+#: src/Functions/HelperFunctions.php:645
+#: assets/build/recipe.js:3
+msgid "Biotin"
+msgstr ""
+
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-nutrition.php:454
+#: src/Functions/HelperFunctions.php:650
+#: assets/build/recipe.js:3
+msgid "Pantothenic Acid"
+msgstr ""
+
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-nutrition.php:458
+#: src/Functions/HelperFunctions.php:655
+#: assets/build/recipe.js:3
+msgid "Phosphorus"
+msgstr ""
+
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-nutrition.php:462
+#: src/Functions/HelperFunctions.php:660
+#: assets/build/recipe.js:3
+msgid "Iodine"
+msgstr ""
+
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-nutrition.php:466
+#: src/Functions/HelperFunctions.php:665
+#: assets/build/recipe.js:3
+msgid "Magnesium"
+msgstr ""
+
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-nutrition.php:470
+#: src/Functions/HelperFunctions.php:670
+#: assets/build/recipe.js:3
+msgid "Zinc"
+msgstr ""
+
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-nutrition.php:474
+#: src/Functions/HelperFunctions.php:675
+#: assets/build/recipe.js:3
+msgid "Selenium"
+msgstr ""
+
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-nutrition.php:478
+#: src/Functions/HelperFunctions.php:680
+#: assets/build/recipe.js:3
+msgid "Copper"
+msgstr ""
+
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-nutrition.php:482
+#: src/Functions/HelperFunctions.php:685
+#: assets/build/recipe.js:3
+msgid "Manganese"
+msgstr ""
+
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-nutrition.php:486
+#: src/Functions/HelperFunctions.php:690
+#: assets/build/recipe.js:3
+msgid "Chromium"
+msgstr ""
+
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-nutrition.php:490
+#: src/Functions/HelperFunctions.php:695
+#: assets/build/recipe.js:3
+msgid "Molybdenum"
+msgstr ""
+
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-nutrition.php:494
+#: src/Functions/HelperFunctions.php:700
+#: assets/build/recipe.js:3
+msgid "Chloride"
+msgstr ""
+
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-recipe-card.php:310
+#: src/Functions/CoreFunctions.php:447
+#: src/Functions/CoreFunctions.php:698
+#: src/Functions/CoreFunctions.php:927
+#: templates/global/block-print.php:70
+#: templates/global/block-print.php:295
+#: templates/recipe/print-screen.php:188
+#: assets/admin/components/global-settings/global-tabs/global-author.jsx:141
+#: assets/admin/components/global-settings/global-tabs/global-tabs-content.jsx:64
+#: assets/admin/components/global-settings/global-tabs/global-tabs-content.jsx:255
+#: assets/blocks/common/RecipeCard.js:286
+#: assets/build/blocks.js:1
+#: assets/build/global.js:1
+#: assets/build/global.js:3
+msgid "Description"
+msgstr ""
+
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-recipe-card.php:311
+#: src/classes/class-delicious-recipes-recipe.php:561
+#: src/Functions/CoreFunctions.php:710
+#: src/Functions/CoreFunctions.php:816
+#: templates/global/block-print.php:71
+#: templates/recipe/recipe-block/ingredients.php:7
+#: templates/recipe/recipe-main.php:9
+#: assets/admin/components/global-settings/global-tabs/global-tabs-content.jsx:263
+#: assets/admin/components/global-settings/global-tabs/global-tabs-content.jsx:335
+#: assets/admin/components/recipe-settings/tabs/recipe-tabs.jsx:48
+#: assets/blocks/common/LayoutOne.js:271
+#: assets/blocks/common/LayoutTwo.js:279
+#: assets/blocks/common/RecipeCard.js:301
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:1581
+#: assets/build/blocks.js:1
+#: assets/build/global.js:3
+#: assets/build/recipe.js:1
+#: assets/build/recipe.js:3
+msgid "Ingredients"
+msgstr ""
+
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-recipe-card.php:312
+#: src/classes/class-delicious-recipes-recipe.php:630
+#: src/Functions/CoreFunctions.php:716
+#: templates/global/block-print.php:72
+#: templates/recipe/recipe-block/instructions.php:8
+#: assets/admin/components/global-settings/global-tabs/global-tabs-content.jsx:267
+#: assets/admin/components/recipe-settings/tabs/recipe-tabs.jsx:120
+#: assets/blocks/common/LayoutOne.js:293
+#: assets/blocks/common/LayoutTwo.js:301
+#: assets/blocks/common/RecipeCard.js:323
+#: assets/build/blocks.js:1
+#: assets/build/global.js:3
+#: assets/build/recipe.js:1
+#: assets/build/recipe.js:3
+msgid "Instructions"
+msgstr ""
+
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-recipe-card.php:313
+#: src/Functions/CoreFunctions.php:519
+#: src/Functions/CoreFunctions.php:963
+#: templates/global/block-print.php:73
+#: assets/admin/components/global-settings/global-tabs/global-tabs-content.jsx:118
+#: assets/build/global.js:3
+msgid "Video"
+msgstr ""
+
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-recipe-card.php:372
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-recipe-card.php:418
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-recipe-card.php:431
+#: templates/recipe/print-screen.php:61
+msgid "Print"
+msgstr ""
+
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-recipe-card.php:443
+#: assets/blocks/common/LayoutOne.js:70
+#: assets/blocks/common/LayoutTwo.js:32
+#: assets/blocks/common/RecipeCard.js:73
+#: assets/blocks/recipe-card-dynamic/components/RecipeCard.js:451
+#: assets/build/blocks.js:1
+msgid "Author:"
+msgstr ""
+
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-recipe-card.php:488
+#: assets/blocks/recipe-card-dynamic/components/RecipeCard.js:679
+#: assets/build/blocks.js:1
+msgid "Keywords:"
+msgstr ""
+
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-recipe-card.php:1150
+#: assets/blocks/common/LayoutOne.js:119
+#: assets/blocks/common/LayoutTwo.js:86
+#: assets/blocks/common/RecipeCard.js:127
+#: assets/blocks/recipe-card-dynamic/components/RecipeCard.js:495
+#: assets/build/blocks.js:1
+msgid "Courses:"
+msgstr ""
+
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-recipe-card.php:1159
+#: assets/blocks/common/LayoutOne.js:101
+#: assets/blocks/common/LayoutTwo.js:63
+#: assets/blocks/common/RecipeCard.js:104
+#: assets/blocks/recipe-card-dynamic/components/RecipeCard.js:478
+#: assets/build/blocks.js:1
+msgid "Cuisine:"
+msgstr ""
+
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-recipe-card.php:1168
+#: assets/blocks/common/LayoutOne.js:78
+#: assets/blocks/common/LayoutTwo.js:40
+#: assets/blocks/common/RecipeCard.js:81
+#: assets/blocks/recipe-card-dynamic/components/RecipeCard.js:461
+#: assets/build/blocks.js:1
+msgid "Cooking Method:"
+msgstr ""
+
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-recipe-card.php:1177
+#: assets/blocks/common/LayoutOne.js:139
+#: assets/blocks/common/LayoutTwo.js:109
+#: assets/blocks/common/RecipeCard.js:150
+#: assets/blocks/recipe-card-dynamic/components/RecipeCard.js:512
+#: assets/build/blocks.js:1
+msgid "Recipe Keys:"
+msgstr ""
+
+#: src/blocks/dynamic-blocks/class-delicious-dynamic-recipe-card.php:1458
+#: src/blocks/dynamic-blocks/class-delicious-recipe-buttons.php:86
+#: src/blocks/dynamic-blocks/class-delicious-recipe-buttons.php:135
+#: src/blocks/dynamic-blocks/class-delicious-recipe-buttons.php:213
+#: src/Functions/CoreFunctions.php:678
+#: src/Functions/CoreFunctions.php:1002
+#: assets/admin/components/global-settings/global-tabs/global-tabs-content.jsx:241
+#: assets/blocks/common/LayoutOne.js:166
+#: assets/blocks/common/LayoutTwo.js:157
+#: assets/blocks/common/RecipeCard.js:46
+#: assets/blocks/recipe-buttons/RecipeButtons.js:181
+#: assets/blocks/recipe-card-dynamic/components/RecipeCard.js:419
+#: assets/build/blocks.js:1
+#: assets/build/global.js:3
+msgid "Print Recipe"
+msgstr ""
+
+#: src/blocks/dynamic-blocks/class-delicious-recipe-buttons.php:76
+#: src/blocks/dynamic-blocks/class-delicious-recipe-buttons.php:133
+#: src/blocks/dynamic-blocks/class-delicious-recipe-buttons.php:168
+#: assets/blocks/recipe-buttons/RecipeButtons.js:92
+#: assets/build/blocks.js:1
+msgid "Jump to Recipe"
+msgstr ""
+
+#: src/blocks/dynamic-blocks/class-delicious-recipe-buttons.php:81
+#: src/blocks/dynamic-blocks/class-delicious-recipe-buttons.php:134
+#: src/blocks/dynamic-blocks/class-delicious-recipe-buttons.php:191
+#: assets/admin/components/global-settings/global-tabs/global-tabs-content.jsx:148
+#: assets/blocks/recipe-buttons/RecipeButtons.js:126
+#: assets/blocks/recipe-buttons/RecipeButtons.js:147
+#: assets/build/blocks.js:1
+#: assets/build/global.js:3
+msgid "Jump to Video"
+msgstr ""
+
+#: src/blocks/handpicked-recipes/block.php:13
+#: assets/blocks/handpicked-recipes/block.js:159
+#: assets/blocks/handpicked-recipes/block.js:175
+#: assets/build/blocks.js:1
+msgid "Handpicked Recipes"
+msgstr ""
+
+#: src/blocks/handpicked-recipes/block.php:93
+#: src/blocks/recipe-by-tax/block.php:110
+#: templates/global/searchpage-content.php:76
+#: templates/global/searchpage-content.php:224
+#: templates/pages/taxonomy/terms-carousal.php:63
+#: assets/blocks/handpicked-recipes/block.js:138
+#: assets/blocks/recipe-by-tax/RecipesByType.js:68
+#: assets/build/blocks.js:1
+msgid "Recipes not found."
+msgstr ""
+
+#: src/blocks/recipe-by-tax/block.php:14
+msgid "Recipes By Taxonomy"
+msgstr ""
+
+#: src/blocks/recipe-card/block.php:13
+#: assets/blocks/recipe-card/block.js:267
+#: assets/build/blocks.js:1
+msgid "Recipe Card"
+msgstr ""
+
+#: src/blocks/recipe-card/block.php:65
+msgid "Recipe Card not found."
+msgstr ""
+
+#: src/classes/class-delicious-recipes-activator.php:31
+msgctxt "Page slug"
+msgid "recipe-search"
+msgstr ""
+
+#: src/classes/class-delicious-recipes-activator.php:32
+msgctxt "Page title"
+msgid "Recipe Search"
+msgstr ""
+
+#: src/classes/class-delicious-recipes-activator.php:36
+msgctxt "Page slug"
+msgid "recipe-dashboard"
+msgstr ""
+
+#: src/classes/class-delicious-recipes-activator.php:37
+msgctxt "Page title"
+msgid "Recipe Dashboard"
+msgstr ""
+
+#: src/classes/class-delicious-recipes-activator.php:107
+msgid "Recipe Editor"
+msgstr ""
+
+#: src/classes/class-delicious-recipes-activator.php:112
+msgid "Recipe Subscriber"
+msgstr ""
+
+#: src/classes/class-delicious-recipes-activator.php:507
+#: src/DeliciousAdmin.php:1021
+#: src/Functions/HelperFunctions.php:1108
+msgid "Recipe Courses"
+msgstr ""
+
+#: src/classes/class-delicious-recipes-activator.php:511
+#: src/DeliciousAdmin.php:1022
+#: src/Functions/HelperFunctions.php:1110
+msgid "Recipe Cooking Methods"
+msgstr ""
+
+#: src/classes/class-delicious-recipes-activator.php:515
+#: src/DeliciousAdmin.php:1023
+#: src/Functions/HelperFunctions.php:1109
+msgid "Recipe Cuisines"
+msgstr ""
+
+#: src/classes/class-delicious-recipes-activator.php:519
+#: src/DeliciousAdmin.php:483
+#: src/DeliciousAdmin.php:1024
+#: src/Functions/CoreFunctions.php:511
+#: src/Functions/CoreFunctions.php:837
+#: src/Functions/CoreFunctions.php:959
+#: src/Functions/HelperFunctions.php:1111
+#: src/widgets/recipe-keys.php:61
+#: src/widgets/recipe-keys.php:98
+#: templates/global/block-print.php:192
+#: assets/admin/components/global-settings/global-tabs/global-tabs-content.jsx:112
+#: assets/admin/components/global-settings/global-tabs/global-tabs-content.jsx:350
+#: assets/blocks/recipe-by-tax/BlockInspectorControls.js:73
+#: assets/build/blocks.js:1
+#: assets/build/global.js:3
+msgid "Recipe Keys"
+msgstr ""
+
+#: src/classes/class-delicious-recipes-activator.php:523
+#: src/DeliciousAdmin.php:1025
+#: src/Functions/CoreFunctions.php:842
+#: src/Functions/HelperFunctions.php:1112
+#: assets/admin/components/global-settings/global-tabs/global-tabs-content.jsx:355
+#: assets/build/global.js:3
+msgid "Recipe Tags"
+msgstr ""
+
+#: src/classes/class-delicious-recipes-activator.php:527
+#: src/DeliciousAdmin.php:512
+#: src/DeliciousAdmin.php:1026
+#: src/Functions/CoreFunctions.php:854
+#: src/Functions/HelperFunctions.php:1113
+#: assets/admin/components/global-settings/global-tabs/global-tabs-content.jsx:365
+#: assets/build/global.js:3
+msgid "Recipe Badges"
+msgstr ""
+
+#: src/classes/class-delicious-recipes-helpers.php:158
+#: src/classes/class-delicious-recipes-helpers.php:169
+#: src/Functions/HelperFunctions.php:1190
+#: assets/build/blocks.js:1
+#: assets/helpers/convertMinutesToHours.js:38
+#: assets/helpers/convertMinutesToHours.js:63
+msgid "hour"
+msgid_plural "hours"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/classes/class-delicious-recipes-helpers.php:162
+#: src/classes/class-delicious-recipes-helpers.php:173
+#: assets/build/blocks.js:1
+#: assets/helpers/convertMinutesToHours.js:48
+#: assets/helpers/convertMinutesToHours.js:69
+msgid "minute"
+msgid_plural "minutes"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: %s: number of likes
+#: src/classes/class-delicious-recipes-likes-wishlists.php:121
+#: templates/recipe/recipe-like.php:7
+msgctxt "number of likes"
+msgid "%s Like"
+msgid_plural "%s Likes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/classes/class-delicious-recipes-likes-wishlists.php:166
+#: src/classes/class-delicious-recipes-likes-wishlists.php:227
+msgid "Added to Favorites"
+msgstr ""
+
+#: src/classes/class-delicious-recipes-onboard.php:58
+#: src/classes/class-delicious-recipes-onboard.php:59
+#: src/onboard/onboarding.php:19
+msgid "Delicious Recipes - User Onboarding"
+msgstr ""
+
+#: src/classes/class-delicious-recipes-recipe.php:217
+#: templates/global/search/filter-difficulty.php:6
+#: assets/blocks/details/Inspector.js:275
+#: assets/blocks/recipe-card-dynamic/components/Detail.js:376
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:882
+#: assets/build/blocks.js:1
+#: assets/build/recipe.js:3
+msgid "Beginner"
+msgstr ""
+
+#: src/classes/class-delicious-recipes-recipe.php:218
+#: templates/global/search/filter-difficulty.php:7
+#: assets/blocks/details/Inspector.js:279
+#: assets/blocks/recipe-card-dynamic/components/Detail.js:378
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:886
+#: assets/build/blocks.js:1
+#: assets/build/recipe.js:3
+msgid "Intermediate"
+msgstr ""
+
+#: src/classes/class-delicious-recipes-recipe.php:219
+#: templates/global/search/filter-difficulty.php:8
+#: assets/blocks/details/Inspector.js:283
+#: assets/blocks/recipe-card-dynamic/components/Detail.js:381
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:890
+#: assets/build/blocks.js:1
+#: assets/build/recipe.js:3
+msgid "Advanced"
+msgstr ""
+
+#. translators: %s: time in hours
+#: src/classes/class-delicious-recipes-recipe.php:466
+msgctxt "total time hours"
+msgid "%s hr"
+msgid_plural "%s hrs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: %s: time in minutes
+#: src/classes/class-delicious-recipes-recipe.php:471
+msgctxt "total time minutes"
+msgid "%s min"
+msgid_plural "%s mins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/classes/class-delicious-recipes-recipe.php:504
+#: templates/global/search/filter-season.php:6
+#: assets/blocks/details/Inspector.js:673
+#: assets/blocks/recipe-card-dynamic/components/Detail.js:400
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:1280
+#: assets/build/blocks.js:1
+#: assets/build/recipe.js:3
+msgid "Fall"
+msgstr ""
+
+#: src/classes/class-delicious-recipes-recipe.php:505
+#: templates/global/search/filter-season.php:7
+#: assets/blocks/details/Inspector.js:674
+#: assets/blocks/recipe-card-dynamic/components/Detail.js:401
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:1281
+#: assets/build/blocks.js:1
+#: assets/build/recipe.js:3
+msgid "Winter"
+msgstr ""
+
+#: src/classes/class-delicious-recipes-recipe.php:506
+#: templates/global/search/filter-season.php:8
+#: assets/blocks/details/Inspector.js:675
+#: assets/blocks/recipe-card-dynamic/components/Detail.js:402
+#: assets/blocks/recipe-card-dynamic/components/Detail.js:403
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:1282
+#: assets/build/blocks.js:1
+#: assets/build/recipe.js:3
+msgid "Summer"
+msgstr ""
+
+#: src/classes/class-delicious-recipes-recipe.php:507
+#: templates/global/search/filter-season.php:9
+#: assets/blocks/details/Inspector.js:676
+#: assets/blocks/recipe-card-dynamic/components/Detail.js:404
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:1283
+#: assets/build/blocks.js:1
+#: assets/build/recipe.js:3
+msgid "Spring"
+msgstr ""
+
+#: src/classes/class-delicious-recipes-recipe.php:508
+#: templates/global/search/filter-season.php:10
+#: assets/blocks/details/Inspector.js:679
+#: assets/blocks/recipe-card-dynamic/components/Detail.js:406
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:1286
+#: assets/build/blocks.js:1
+#: assets/build/recipe.js:3
+msgid "Suitable throughout the year"
+msgstr ""
+
+#: src/classes/class-delicious-recipes-recipe.php:845
+#: templates/recipe/recipe-faqs.php:10
+msgid "Frequently Asked Questions"
+msgstr ""
+
+#: src/classes/class-delicious-recipes-shortcodes.php:435
+#: src/classes/class-delicious-recipes-shortcodes.php:449
+#: src/DeliciousAdmin.php:169
+#: src/DeliciousAdmin.php:883
+msgid "Surprise Me"
+msgstr ""
+
+#: src/classes/class-delicious-recipes-whats-new.php:29
+#: src/classes/class-delicious-recipes-whats-new.php:30
+msgid "What's New"
+msgstr ""
+
+#: src/classes/emails/customer-new-account.php:77
+#: src/Functions/CoreFunctions.php:880
+#: assets/admin/components/global-settings/global-tabs/global-tabs-content.jsx:389
+#: assets/build/global.js:3
+msgid "Your {site_title} account has been created!"
+msgstr ""
+
+#: src/classes/emails/customer-reset-password.php:76
+#: src/Functions/CoreFunctions.php:882
+#: assets/admin/components/global-settings/global-tabs/global-tabs-content.jsx:391
+#: assets/build/global.js:3
+msgid "Password Reset Request for {site_title}"
+msgstr ""
+
+#: src/dashboard/class-delicious-recipes-form-handler.php:52
+#: src/dashboard/class-delicious-recipes-form-handler.php:56
+#: src/dashboard/class-delicious-recipes-form-handler.php:164
+#: src/dashboard/class-delicious-recipes-user-account.php:158
+#: src/dashboard/class-delicious-recipes-user-account.php:178
+#: src/dashboard/class-delicious-recipes-user-account.php:198
+#: src/dashboard/class-delicious-recipes-user-account.php:205
+#: src/dashboard/class-delicious-recipes-user-account.php:211
+#: src/dashboard/class-delicious-recipes-user-account.php:225
+#: src/dashboard/class-delicious-recipes-user-account.php:231
+#: src/dashboard/delicious-recipes-user-dashboard-functions.php:100
+msgid "Error : "
+msgstr ""
+
+#: src/dashboard/class-delicious-recipes-form-handler.php:56
+msgid "Username is required."
+msgstr ""
+
+#: src/dashboard/class-delicious-recipes-form-handler.php:80
+msgid "Success :  Login Successful"
+msgstr ""
+
+#: src/dashboard/class-delicious-recipes-form-handler.php:103
+#: src/dashboard/class-delicious-recipes-form-handler.php:106
+msgid "Error :  Invalid Username or Password"
+msgstr ""
+
+#: src/dashboard/class-delicious-recipes-form-handler.php:111
+msgid "Error :  Username can not be empty"
+msgstr ""
+
+#: src/dashboard/class-delicious-recipes-form-handler.php:135
+msgid "Passwords do not match"
+msgstr ""
+
+#: src/dashboard/class-delicious-recipes-form-handler.php:206
+msgid "Error :  Please enter your password."
+msgstr ""
+
+#: src/dashboard/class-delicious-recipes-form-handler.php:210
+msgid "Error :  Passwords do not match"
+msgstr ""
+
+#: src/dashboard/class-delicious-recipes-form-handler.php:293
+#: templates/account/form-registration.php:30
+#: templates/account/tab-content/account.php:64
+msgid "Username"
+msgstr ""
+
+#: src/dashboard/class-delicious-recipes-form-handler.php:294
+#: templates/account/form-registration.php:35
+#: templates/account/tab-content/account.php:74
+msgid "Email"
+msgstr ""
+
+#. translators: %s: field name
+#: src/dashboard/class-delicious-recipes-form-handler.php:300
+msgid "Error :   %s is a required field."
+msgstr ""
+
+#: src/dashboard/class-delicious-recipes-form-handler.php:307
+msgid "Please provide a valid email address"
+msgstr ""
+
+#: src/dashboard/class-delicious-recipes-form-handler.php:309
+msgid "The email address is already registered"
+msgstr ""
+
+#: src/dashboard/class-delicious-recipes-form-handler.php:315
+msgid "Please Fill Out All Password Fields."
+msgstr ""
+
+#: src/dashboard/class-delicious-recipes-form-handler.php:318
+msgid "Please Enter Your Current Password"
+msgstr ""
+
+#: src/dashboard/class-delicious-recipes-form-handler.php:321
+msgid "Please re-enter your password"
+msgstr ""
+
+#: src/dashboard/class-delicious-recipes-form-handler.php:324
+msgid "New Passwords do not match"
+msgstr ""
+
+#: src/dashboard/class-delicious-recipes-form-handler.php:327
+msgid "Your current password is incorrect"
+msgstr ""
+
+#: src/dashboard/class-delicious-recipes-form-handler.php:353
+msgid "There was an issue updating your profile photo."
+msgstr ""
+
+#: src/dashboard/class-delicious-recipes-form-handler.php:381
+msgid "Account Details Updated Successfully"
+msgstr ""
+
+#: src/dashboard/class-delicious-recipes-form-handler.php:486
+msgid "File size too large."
+msgstr ""
+
+#: src/dashboard/class-delicious-recipes-form-handler.php:490
+msgid "Unsupported file type uploaded."
+msgstr ""
+
+#: src/dashboard/class-delicious-recipes-form-handler.php:504
+msgid "Invalid request. Nonce verification failed."
+msgstr ""
+
+#: src/dashboard/class-delicious-recipes-user-account.php:33
+#: templates/account/tab-content/browse.php:8
+msgid "Browse Recipes"
+msgstr ""
+
+#: src/dashboard/class-delicious-recipes-user-account.php:40
+#: templates/account/tab-content/wishlist.php:12
+msgid "Favorites"
+msgstr ""
+
+#: src/dashboard/class-delicious-recipes-user-account.php:47
+#: templates/account/tab-content/account.php:31
+msgid "Edit Profile"
+msgstr ""
+
+#: src/dashboard/class-delicious-recipes-user-account.php:83
+msgid "Your Password has been updated successfully. Please Log in to continue."
+msgstr ""
+
+#: src/dashboard/class-delicious-recipes-user-account.php:158
+msgid "This key is invalid or has already been used. Please reset your password again if needed."
+msgstr ""
+
+#: src/dashboard/class-delicious-recipes-user-account.php:178
+msgid "Enter an email or username."
+msgstr ""
+
+#: src/dashboard/class-delicious-recipes-user-account.php:205
+#: src/dashboard/class-delicious-recipes-user-account.php:211
+msgid "Invalid username or email."
+msgstr ""
+
+#: src/dashboard/class-delicious-recipes-user-account.php:225
+msgid "Password reset is not allowed for this user."
+msgstr ""
+
+#: src/dashboard/delicious-recipes-user-dashboard-functions.php:40
+msgid "Please provide a valid email address."
+msgstr ""
+
+#: src/dashboard/delicious-recipes-user-dashboard-functions.php:44
+msgid "An account is already registered with your email address. Please log in."
+msgstr ""
+
+#: src/dashboard/delicious-recipes-user-dashboard-functions.php:52
+msgid "Please enter a valid account username."
+msgstr ""
+
+#: src/dashboard/delicious-recipes-user-dashboard-functions.php:56
+msgid "An account is already registered with that username. Please choose another."
+msgstr ""
+
+#: src/dashboard/delicious-recipes-user-dashboard-functions.php:76
+msgid "Please enter an account password."
+msgstr ""
+
+#: src/dashboard/delicious-recipes-user-dashboard-functions.php:100
+msgid "Couldn&#8217;t register you&hellip; please contact us if you continue to have problems."
+msgstr ""
+
+#: src/DeliciousAdmin.php:174
+msgid "Link Text"
+msgstr ""
+
+#: src/DeliciousAdmin.php:182
+msgid "Add to Menu"
+msgstr ""
+
+#: src/DeliciousAdmin.php:230
+msgid "Delicious Recipes Sidebar"
+msgstr ""
+
+#: src/DeliciousAdmin.php:232
+msgid "This is the widget area for single recipe page."
+msgstr ""
+
+#: src/DeliciousAdmin.php:272
+msgid "Get help"
+msgstr ""
+
+#: src/DeliciousAdmin.php:272
+msgid "Support"
+msgstr ""
+
+#: src/DeliciousAdmin.php:273
+msgid "Docs"
+msgstr ""
+
+#: src/DeliciousAdmin.php:274
+msgid "Rate the plugin"
+msgstr ""
+
+#: src/DeliciousAdmin.php:274
+msgid "Rate the plugin ★★★★★"
+msgstr ""
+
+#: src/DeliciousAdmin.php:297
+msgctxt "post type general name"
+msgid "Recipes"
+msgstr ""
+
+#: src/DeliciousAdmin.php:298
+msgctxt "post type singular name"
+msgid "Recipe"
+msgstr ""
+
+#: src/DeliciousAdmin.php:299
+msgctxt "admin menu"
+msgid "Recipes"
+msgstr ""
+
+#: src/DeliciousAdmin.php:300
+msgctxt "add new on admin bar"
+msgid "Recipe"
+msgstr ""
+
+#: src/DeliciousAdmin.php:301
+msgctxt "Recipe"
+msgid "Add New"
+msgstr ""
+
+#: src/DeliciousAdmin.php:302
+msgid "Add New Recipe"
+msgstr ""
+
+#: src/DeliciousAdmin.php:303
+msgid "New Recipe"
+msgstr ""
+
+#: src/DeliciousAdmin.php:304
+msgid "Edit Recipe"
+msgstr ""
+
+#: src/DeliciousAdmin.php:305
+msgid "View Recipe"
+msgstr ""
+
+#: src/DeliciousAdmin.php:306
+msgid "All Recipes"
+msgstr ""
+
+#: src/DeliciousAdmin.php:307
+msgid "Search Recipes"
+msgstr ""
+
+#: src/DeliciousAdmin.php:308
+msgid "Parent Recipes:"
+msgstr ""
+
+#: src/DeliciousAdmin.php:309
+msgid "No Recipes found."
+msgstr ""
+
+#: src/DeliciousAdmin.php:310
+msgid "No Recipes found in Trash."
+msgstr ""
+
+#: src/DeliciousAdmin.php:318
+msgid "Description."
+msgstr ""
+
+#: src/DeliciousAdmin.php:357
+msgctxt "taxonomy general name"
+msgid "Courses"
+msgstr ""
+
+#: src/DeliciousAdmin.php:358
+msgctxt "taxonomy singular name"
+msgid "Course"
+msgstr ""
+
+#: src/DeliciousAdmin.php:359
+msgid "Search Courses"
+msgstr ""
+
+#: src/DeliciousAdmin.php:360
+msgid "All Courses"
+msgstr ""
+
+#: src/DeliciousAdmin.php:361
+#: src/DeliciousAdmin.php:362
+msgid "Parent Course"
+msgstr ""
+
+#: src/DeliciousAdmin.php:363
+msgid "Edit Course"
+msgstr ""
+
+#: src/DeliciousAdmin.php:364
+msgid "Update Course"
+msgstr ""
+
+#: src/DeliciousAdmin.php:365
+msgid "Add New Course"
+msgstr ""
+
+#: src/DeliciousAdmin.php:366
+msgid "New Course Name"
+msgstr ""
+
+#: src/DeliciousAdmin.php:367
+#: src/Functions/CoreFunctions.php:415
+#: templates/global/block-print.php:181
+#: assets/admin/components/global-settings/global-tabs/global-tabs-content.jsx:40
+#: assets/blocks/recipe-by-tax/BlockInspectorControls.js:57
+#: assets/build/blocks.js:1
+#: assets/build/global.js:3
+msgid "Courses"
+msgstr ""
+
+#: src/DeliciousAdmin.php:386
+msgctxt "taxonomy general name"
+msgid "Cuisines"
+msgstr ""
+
+#: src/DeliciousAdmin.php:387
+msgctxt "taxonomy singular name"
+msgid "Cuisine"
+msgstr ""
+
+#: src/DeliciousAdmin.php:388
+msgid "Search Cuisines"
+msgstr ""
+
+#: src/DeliciousAdmin.php:389
+msgid "All Cuisines"
+msgstr ""
+
+#: src/DeliciousAdmin.php:390
+#: src/DeliciousAdmin.php:391
+msgid "Parent Cuisine"
+msgstr ""
+
+#: src/DeliciousAdmin.php:392
+msgid "Edit Cuisine"
+msgstr ""
+
+#: src/DeliciousAdmin.php:393
+msgid "Update Cuisine"
+msgstr ""
+
+#: src/DeliciousAdmin.php:394
+msgid "Add New Cuisine"
+msgstr ""
+
+#: src/DeliciousAdmin.php:395
+msgid "New Cuisine Name"
+msgstr ""
+
+#: src/DeliciousAdmin.php:396
+#: assets/blocks/recipe-by-tax/BlockInspectorControls.js:61
+#: assets/build/blocks.js:1
+msgid "Cuisines"
+msgstr ""
+
+#: src/DeliciousAdmin.php:415
+msgctxt "taxonomy general name"
+msgid "Cooking Methods"
+msgstr ""
+
+#: src/DeliciousAdmin.php:416
+msgctxt "taxonomy singular name"
+msgid "Cooking Method"
+msgstr ""
+
+#: src/DeliciousAdmin.php:417
+msgid "Search Cooking Methods"
+msgstr ""
+
+#: src/DeliciousAdmin.php:418
+msgid "All Cooking Methods"
+msgstr ""
+
+#: src/DeliciousAdmin.php:419
+#: src/DeliciousAdmin.php:420
+msgid "Parent Cooking Method"
+msgstr ""
+
+#: src/DeliciousAdmin.php:421
+msgid "Edit Cooking Method"
+msgstr ""
+
+#: src/DeliciousAdmin.php:422
+msgid "Update Cooking Method"
+msgstr ""
+
+#: src/DeliciousAdmin.php:423
+msgid "Add New Cooking Method"
+msgstr ""
+
+#: src/DeliciousAdmin.php:424
+msgid "New Cooking Method Name"
+msgstr ""
+
+#: src/DeliciousAdmin.php:425
+#: assets/blocks/recipe-by-tax/BlockInspectorControls.js:65
+#: assets/build/blocks.js:1
+msgid "Cooking Methods"
+msgstr ""
+
+#: src/DeliciousAdmin.php:444
+msgctxt "taxonomy general name"
+msgid "Tags"
+msgstr ""
+
+#: src/DeliciousAdmin.php:445
+msgctxt "taxonomy singular name"
+msgid "Tag"
+msgstr ""
+
+#: src/DeliciousAdmin.php:446
+msgid "Search Tags"
+msgstr ""
+
+#: src/DeliciousAdmin.php:447
+msgid "All Tags"
+msgstr ""
+
+#: src/DeliciousAdmin.php:448
+#: src/DeliciousAdmin.php:449
+msgid "Parent Tag"
+msgstr ""
+
+#: src/DeliciousAdmin.php:450
+msgid "Edit Tag"
+msgstr ""
+
+#: src/DeliciousAdmin.php:451
+msgid "Update Tag"
+msgstr ""
+
+#: src/DeliciousAdmin.php:452
+msgid "Add New Tag"
+msgstr ""
+
+#: src/DeliciousAdmin.php:453
+msgid "New Tag Name"
+msgstr ""
+
+#: src/DeliciousAdmin.php:454
+#: assets/blocks/recipe-by-tax/BlockInspectorControls.js:69
+#: assets/build/blocks.js:1
+msgid "Tags"
+msgstr ""
+
+#: src/DeliciousAdmin.php:473
+msgctxt "taxonomy general name"
+msgid "Recipe Keys"
+msgstr ""
+
+#: src/DeliciousAdmin.php:474
+msgctxt "taxonomy singular name"
+msgid "Recipe Key"
+msgstr ""
+
+#: src/DeliciousAdmin.php:475
+msgid "Search Recipe Keys"
+msgstr ""
+
+#: src/DeliciousAdmin.php:476
+msgid "All Recipe Keys"
+msgstr ""
+
+#: src/DeliciousAdmin.php:477
+#: src/DeliciousAdmin.php:478
+msgid "Parent Recipe Key"
+msgstr ""
+
+#: src/DeliciousAdmin.php:479
+msgid "Edit Recipe Key"
+msgstr ""
+
+#: src/DeliciousAdmin.php:480
+msgid "Update Recipe Key"
+msgstr ""
+
+#: src/DeliciousAdmin.php:481
+msgid "Add New Recipe Key"
+msgstr ""
+
+#: src/DeliciousAdmin.php:482
+msgid "New Recipe Key Name"
+msgstr ""
+
+#: src/DeliciousAdmin.php:502
+msgctxt "taxonomy general name"
+msgid "Recipe Badges"
+msgstr ""
+
+#: src/DeliciousAdmin.php:503
+msgctxt "taxonomy singular name"
+msgid "Recipe Badge"
+msgstr ""
+
+#: src/DeliciousAdmin.php:504
+msgid "Search Recipe Badges"
+msgstr ""
+
+#: src/DeliciousAdmin.php:505
+msgid "All Recipe Badges"
+msgstr ""
+
+#: src/DeliciousAdmin.php:506
+#: src/DeliciousAdmin.php:507
+msgid "Parent Recipe Badge"
+msgstr ""
+
+#: src/DeliciousAdmin.php:508
+msgid "Edit Recipe Badge"
+msgstr ""
+
+#: src/DeliciousAdmin.php:509
+msgid "Update Recipe Badge"
+msgstr ""
+
+#: src/DeliciousAdmin.php:510
+msgid "Add New Recipe Badge"
+msgstr ""
+
+#: src/DeliciousAdmin.php:511
+msgid "New Recipe Badge Name"
+msgstr ""
+
+#: src/DeliciousAdmin.php:549
+msgid "Vegetarian Meals"
+msgstr ""
+
+#: src/DeliciousAdmin.php:554
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:89
+#: assets/build/blocks.js:1
+msgid "Gluten Free"
+msgstr ""
+
+#: src/DeliciousAdmin.php:559
+msgid "Paleo"
+msgstr ""
+
+#: src/DeliciousAdmin.php:564
+msgid "Freezer Meals"
+msgstr ""
+
+#: src/DeliciousAdmin.php:569
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:91
+#: assets/build/blocks.js:1
+msgid "Low Carb"
+msgstr ""
+
+#: src/DeliciousAdmin.php:574
+msgid "Slow Cooker Recipes"
+msgstr ""
+
+#: src/DeliciousAdmin.php:579
+msgid "Dairy"
+msgstr ""
+
+#: src/DeliciousAdmin.php:584
+msgid "Kids"
+msgstr ""
+
+#: src/DeliciousAdmin.php:589
+msgid "Mixing"
+msgstr ""
+
+#: src/DeliciousAdmin.php:594
+msgid "Non Vegetarian"
+msgstr ""
+
+#: src/DeliciousAdmin.php:599
+msgid "Cold"
+msgstr ""
+
+#: src/DeliciousAdmin.php:604
+msgid "Spicy"
+msgstr ""
+
+#: src/DeliciousAdmin.php:609
+msgid "Raw"
+msgstr ""
+
+#: src/DeliciousAdmin.php:614
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:90
+#: assets/build/blocks.js:1
+msgid "Dairy Free"
+msgstr ""
+
+#: src/DeliciousAdmin.php:619
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:94
+#: assets/build/blocks.js:1
+msgid "Nut Free"
+msgstr ""
+
+#: src/DeliciousAdmin.php:624
+msgid "Pescetarian"
+msgstr ""
+
+#: src/DeliciousAdmin.php:629
+msgid "Quick Meals"
+msgstr ""
+
+#: src/DeliciousAdmin.php:634
+msgid "Whole30"
+msgstr ""
+
+#: src/DeliciousAdmin.php:639
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:98
+#: assets/build/blocks.js:1
+msgid "Vegan"
+msgstr ""
+
+#: src/DeliciousAdmin.php:644
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:97
+#: assets/build/blocks.js:1
+msgid "Keto"
+msgstr ""
+
+#: src/DeliciousAdmin.php:649
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:96
+#: assets/build/blocks.js:1
+msgid "High Protein"
+msgstr ""
+
+#: src/DeliciousAdmin.php:654
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:93
+#: assets/build/blocks.js:1
+msgid "Organic"
+msgstr ""
+
+#: src/DeliciousAdmin.php:659
+msgid "Corn Free"
+msgstr ""
+
+#: src/DeliciousAdmin.php:664
+msgid "Soy Free"
+msgstr ""
+
+#: src/DeliciousAdmin.php:669
+msgid "Sugar Free"
+msgstr ""
+
+#: src/DeliciousAdmin.php:674
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:95
+#: assets/build/blocks.js:1
+msgid "Egg Free"
+msgstr ""
+
+#: src/DeliciousAdmin.php:720
+msgid "Recipe Settings"
+msgstr ""
+
+#: src/DeliciousAdmin.php:936
+msgid "Jump to recipe settings"
+msgstr ""
+
+#: src/DeliciousAdmin.php:951
+msgid "Featured"
+msgstr ""
+
+#: src/DeliciousAdmin.php:1066
+msgid "Clone"
+msgstr ""
+
+#: src/DeliciousAdmin.php:1072
+msgid "Clone "
+msgstr ""
+
+#. translators: %1$s: permalink options page link
+#: src/DeliciousAdmin.php:1088
+msgid "<strong>Delicious Recipes</strong> plugin uses <b>WordPress Core REST API</b> interface for creating and managing recipes and does not support the plain permalink structure. Please <a href=\"%1$s\" >change your permalinks settings</a> to other structure to use Delicious Recipes plugin."
+msgstr ""
+
+#: src/DeliciousAdmin.php:1129
+#: assets/blocks/handpicked-recipes/BlockInspectorControls.js:46
+#: assets/blocks/handpicked-recipes/BlockInspectorControls.js:49
+#: assets/build/blocks.js:1
+msgid "Recipes"
+msgstr ""
+
+#: src/DeliciousPublic.php:237
+msgid "Select filters"
+msgstr ""
+
+#: src/DeliciousPublic.php:238
+msgid "Click here or Drop new image to update your profile picture"
+msgstr ""
+
+#: src/DeliciousPublic.php:365
+msgid "Rating"
+msgstr ""
+
+#: src/DeliciousPublic.php:452
+#: src/Functions/CoreFunctions.php:609
+#: assets/admin/components/global-settings/global-tabs/global-tabs-content.jsx:178
+#: assets/build/global.js:3
+msgid "Recipe Index"
+msgstr ""
+
+#: src/Functions/AjaxFunctions.php:449
+#: src/Functions/HelperPagination.php:163
+#: templates/global/searchpage-content.php:100
+msgid "Prev"
+msgstr ""
+
+#: src/Functions/AjaxFunctions.php:458
+#: src/Functions/HelperPagination.php:165
+#: templates/global/searchpage-content.php:109
+#: templates/recipe/navigation.php:49
+msgid "Next"
+msgstr ""
+
+#: src/Functions/AjaxFunctions.php:506
+msgid "Plugin"
+msgstr ""
+
+#. translators: %s template
+#: src/Functions/CoreFunctions.php:113
+msgid "%s does not exist."
+msgstr ""
+
+#: src/Functions/CoreFunctions.php:130
+msgid "action_args should not be overwritten when calling delicious_recipes_get_template."
+msgstr ""
+
+#: src/Functions/CoreFunctions.php:423
+#: src/Functions/CoreFunctions.php:802
+#: src/Functions/CoreFunctions.php:915
+#: templates/global/block-print.php:159
+#: assets/admin/components/global-settings/global-tabs/global-tabs-content.jsx:46
+#: assets/admin/components/global-settings/global-tabs/global-tabs-content.jsx:325
+#: assets/build/global.js:3
+msgid "Cooking Method"
+msgstr ""
+
+#: src/Functions/CoreFunctions.php:431
+#: src/Functions/CoreFunctions.php:788
+#: src/Functions/CoreFunctions.php:919
+#: templates/global/block-print.php:170
+#: assets/admin/components/global-settings/global-tabs/global-tabs-content.jsx:52
+#: assets/admin/components/global-settings/global-tabs/global-tabs-content.jsx:315
+#: assets/build/global.js:3
+msgid "Cuisine"
+msgstr ""
+
+#: src/Functions/CoreFunctions.php:455
+#: src/Functions/CoreFunctions.php:931
+#: assets/admin/components/global-settings/global-tabs/global-tabs-content.jsx:70
+#: assets/blocks/common/LayoutOne.js:177
+#: assets/blocks/common/LayoutTwo.js:185
+#: assets/blocks/common/RecipeCard.js:187
+#: assets/blocks/details/Inspector.js:315
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:922
+#: assets/build/blocks.js:1
+#: assets/build/global.js:3
+msgid "Prep Time"
+msgstr ""
+
+#: src/Functions/CoreFunctions.php:463
+#: src/Functions/CoreFunctions.php:935
+#: assets/admin/components/global-settings/global-tabs/global-tabs-content.jsx:76
+#: assets/blocks/common/LayoutOne.js:190
+#: assets/blocks/common/LayoutTwo.js:198
+#: assets/blocks/common/RecipeCard.js:203
+#: assets/build/blocks.js:1
+#: assets/build/global.js:3
+msgid "Cook Time"
+msgstr ""
+
+#: src/Functions/CoreFunctions.php:471
+#: src/Functions/CoreFunctions.php:939
+#: assets/admin/components/global-settings/global-tabs/global-tabs-content.jsx:82
+#: assets/blocks/common/LayoutOne.js:203
+#: assets/blocks/common/LayoutTwo.js:211
+#: assets/blocks/common/RecipeCard.js:219
+#: assets/build/blocks.js:1
+#: assets/build/global.js:3
+#: assets/build/recipe.js:3
+msgid "Rest Time"
+msgstr ""
+
+#: src/Functions/CoreFunctions.php:479
+#: src/Functions/CoreFunctions.php:943
+#: assets/admin/components/global-settings/global-tabs/global-tabs-content.jsx:88
+#: assets/blocks/common/LayoutOne.js:222
+#: assets/blocks/common/LayoutTwo.js:230
+#: assets/blocks/common/RecipeCard.js:242
+#: assets/blocks/details/Inspector.js:471
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:1078
+#: assets/build/blocks.js:1
+#: assets/build/global.js:3
+msgid "Total Time"
+msgstr ""
+
+#: src/Functions/CoreFunctions.php:527
+#: src/Functions/CoreFunctions.php:967
+#: assets/admin/components/global-settings/global-tabs/global-tabs-content.jsx:124
+#: assets/build/global.js:3
+msgid "Jump To Recipe"
+msgstr ""
+
+#: src/Functions/CoreFunctions.php:535
+#: src/Functions/CoreFunctions.php:971
+#: assets/admin/components/global-settings/global-tabs/global-tabs-content.jsx:130
+#: assets/build/global.js:3
+msgid "Keywords"
+msgstr ""
+
+#: src/Functions/CoreFunctions.php:543
+#: src/Functions/CoreFunctions.php:975
+#: assets/admin/components/global-settings/global-tabs/global-tabs-content.jsx:136
+#: assets/build/global.js:3
+msgid "File under"
+msgstr ""
+
+#: src/Functions/CoreFunctions.php:551
+#: assets/admin/components/global-settings/global-tabs/global-tabs-content.jsx:142
+#: assets/build/global.js:3
+msgid "Note"
+msgstr ""
+
+#: src/Functions/CoreFunctions.php:559
+#: src/Functions/CoreFunctions.php:983
+msgid "Jump To Video"
+msgstr ""
+
+#: src/Functions/CoreFunctions.php:567
+#: src/Functions/CoreFunctions.php:987
+#: assets/admin/components/global-settings/global-tabs/global-tabs-content.jsx:154
+#: assets/build/global.js:3
+msgid "Mark as complete"
+msgstr ""
+
+#: src/Functions/CoreFunctions.php:573
+#: src/Functions/CoreFunctions.php:991
+#: assets/admin/components/global-settings/global-tabs/global-tabs-content.jsx:160
+#: assets/build/global.js:3
+msgid "Add to Favorites"
+msgstr ""
+
+#: src/Functions/CoreFunctions.php:611
+#: templates/pages/taxonomy/terms-box.php:9
+#: assets/admin/components/global-settings/global-tabs/global-tabs-content.jsx:180
+#: assets/build/global.js:3
+msgid "Narrow Your Search"
+msgstr ""
+
+#: src/Functions/CoreFunctions.php:634
+#: assets/admin/components/global-settings/global-tabs/global-tabs-content.jsx:203
+#: assets/build/global.js:3
+msgid "Did you make this recipe?"
+msgstr ""
+
+#: src/Functions/CoreFunctions.php:652
+#: src/Functions/CoreFunctions.php:998
+#: assets/admin/components/global-settings/global-tabs/global-tabs-content.jsx:219
+#: assets/build/global.js:3
+msgid "Rate this recipe"
+msgstr ""
+
+#: src/Functions/CoreFunctions.php:686
+#: assets/admin/components/global-settings/global-tabs/global-tabs-content.jsx:247
+#: assets/blocks/handpicked-recipes/BlockInspectorControls.js:21
+#: assets/blocks/recipe-by-tax/BlockInspectorControls.js:34
+#: assets/blocks/recipe-card/block.js:173
+#: assets/build/blocks.js:1
+#: assets/build/global.js:3
+msgid "Title"
+msgstr ""
+
+#: src/Functions/CoreFunctions.php:692
+#: assets/admin/components/global-settings/global-tabs/global-tabs-content.jsx:251
+#: assets/build/global.js:3
+msgid "Info"
+msgstr ""
+
+#: src/Functions/CoreFunctions.php:704
+#: assets/admin/components/global-settings/global-tabs/global-tabs-content.jsx:259
+#: assets/build/global.js:3
+msgid "Images"
+msgstr ""
+
+#: src/Functions/CoreFunctions.php:722
+#: assets/admin/components/global-settings/global-tabs/global-tabs-content.jsx:271
+#: assets/admin/components/global-settings/global-tabs/global-tabs.jsx:235
+#: assets/admin/components/recipe-settings/tabs/recipe-tabs.jsx:195
+#: assets/build/global.js:1
+#: assets/build/global.js:3
+#: assets/build/recipe.js:1
+msgid "Nutrition"
+msgstr ""
+
+#: src/Functions/CoreFunctions.php:728
+#: src/Functions/CoreFunctions.php:979
+#: templates/global/block-print.php:76
+#: templates/global/block-print.php:310
+#: assets/admin/components/global-settings/global-tabs/global-tabs-content.jsx:275
+#: assets/admin/components/recipe-settings/tabs/recipe-tabs.jsx:225
+#: assets/blocks/common/LayoutOne.js:325
+#: assets/blocks/common/LayoutTwo.js:333
+#: assets/blocks/common/RecipeCard.js:355
+#: assets/build/blocks.js:1
+#: assets/build/global.js:3
+#: assets/build/recipe.js:1
+#: assets/build/recipe.js:3
+msgid "Notes"
+msgstr ""
+
+#: src/Functions/CoreFunctions.php:734
+#: assets/admin/components/global-settings/global-tabs/global-tabs-content.jsx:279
+#: assets/build/global.js:3
+msgid "Social Share"
+msgstr ""
+
+#: src/Functions/CoreFunctions.php:740
+#: assets/admin/components/global-settings/global-tabs/global-tabs-content.jsx:283
+#: assets/build/global.js:3
+msgid "Author Bio"
+msgstr ""
+
+#: src/Functions/CoreFunctions.php:746
+#: assets/admin/components/global-settings/global-tabs/global-tabs-content.jsx:287
+#: assets/build/global.js:3
+msgid "Thank You Note"
+msgstr ""
+
+#: src/Functions/CoreFunctions.php:755
+#: assets/admin/components/global-settings/global-tabs/global-tabs-content.jsx:292
+#: assets/build/global.js:3
+msgid "Read it online:"
+msgstr ""
+
+#: src/Functions/CoreFunctions.php:781
+#: assets/admin/components/global-settings/global-tabs/global-tabs-content.jsx:310
+#: assets/build/global.js:3
+msgid "Season"
+msgstr ""
+
+#: src/Functions/CoreFunctions.php:795
+#: assets/admin/components/global-settings/global-tabs/global-tabs-content.jsx:320
+#: assets/build/global.js:3
+msgid "Recipe Type"
+msgstr ""
+
+#: src/Functions/CoreFunctions.php:823
+#: assets/admin/components/global-settings/global-tabs/global-tabs-content.jsx:340
+#: assets/build/global.js:3
+msgid "Simple Factor"
+msgstr ""
+
+#: src/Functions/CoreFunctions.php:830
+#: templates/global/search/filter-sorting.php:6
+#: assets/admin/components/global-settings/global-tabs/global-tabs-content.jsx:345
+#: assets/build/global.js:3
+msgid "Sorting"
+msgstr ""
+
+#: src/Functions/CoreFunctions.php:847
+#: assets/admin/components/global-settings/global-tabs/global-tabs-content.jsx:360
+#: assets/build/global.js:3
+msgid "Reset"
+msgstr ""
+
+#: src/Functions/CoreFunctions.php:873
+#: assets/admin/components/global-settings/global-tabs/global-tabs-content.jsx:382
+#: assets/build/global.js:3
+msgid "By signing up, you agree to our Terms, Data Policy and Cookies Policy."
+msgstr ""
+
+#: src/Functions/CoreFunctions.php:911
+msgid "Category"
+msgstr ""
+
+#: src/Functions/CoreFunctions.php:1127
+msgctxt "Grams Abbreviation (Singular)"
+msgid "g"
+msgstr ""
+
+#: src/Functions/CoreFunctions.php:1128
+msgctxt "Grams Abbreviation (Plural)"
+msgid "g"
+msgstr ""
+
+#: src/Functions/CoreFunctions.php:1129
+#: assets/build/global.js:3
+msgid "gram"
+msgstr ""
+
+#: src/Functions/CoreFunctions.php:1130
+#: assets/build/global.js:3
+msgid "grams"
+msgstr ""
+
+#: src/Functions/CoreFunctions.php:1134
+msgctxt "Kilograms Abbreviation (Singular)"
+msgid "kg"
+msgstr ""
+
+#: src/Functions/CoreFunctions.php:1135
+msgctxt "Kilograms Abbreviation (Plural)"
+msgid "kg"
+msgstr ""
+
+#: src/Functions/CoreFunctions.php:1136
+msgid "kilogram"
+msgstr ""
+
+#: src/Functions/CoreFunctions.php:1137
+msgid "kilograms"
+msgstr ""
+
+#: src/Functions/CoreFunctions.php:1141
+#: src/Functions/CoreFunctions.php:1142
+#: assets/blocks/nutrition/Nutrition.js:324
+#: assets/blocks/nutrition/Nutrition.js:351
+#: assets/blocks/nutrition/Nutrition.js:374
+#: assets/build/blocks.js:1
+msgid "mg"
+msgstr ""
+
+#: src/Functions/CoreFunctions.php:1143
+msgid "milligram"
+msgstr ""
+
+#: src/Functions/CoreFunctions.php:1144
+msgid "milligrams"
+msgstr ""
+
+#: src/Functions/CoreFunctions.php:1148
+#: src/Functions/CoreFunctions.php:1149
+msgid "oz"
+msgstr ""
+
+#: src/Functions/CoreFunctions.php:1150
+msgid "ounce"
+msgstr ""
+
+#: src/Functions/CoreFunctions.php:1151
+msgid "ounces"
+msgstr ""
+
+#: src/Functions/CoreFunctions.php:1155
+#: src/Functions/CoreFunctions.php:1156
+msgid "fl oz"
+msgstr ""
+
+#: src/Functions/CoreFunctions.php:1157
+msgid "fluid ounce"
+msgstr ""
+
+#: src/Functions/CoreFunctions.php:1158
+msgid "fluid ounces"
+msgstr ""
+
+#: src/Functions/CoreFunctions.php:1162
+#: src/Functions/CoreFunctions.php:1164
+msgid "cup"
+msgstr ""
+
+#: src/Functions/CoreFunctions.php:1163
+#: src/Functions/CoreFunctions.php:1165
+msgid "cups"
+msgstr ""
+
+#: src/Functions/CoreFunctions.php:1169
+#: src/Functions/CoreFunctions.php:1170
+msgid "tsp"
+msgstr ""
+
+#: src/Functions/CoreFunctions.php:1171
+msgid "teaspoon"
+msgstr ""
+
+#: src/Functions/CoreFunctions.php:1172
+msgid "teaspoons"
+msgstr ""
+
+#: src/Functions/CoreFunctions.php:1176
+#: src/Functions/CoreFunctions.php:1177
+msgid "tbsp"
+msgstr ""
+
+#: src/Functions/CoreFunctions.php:1178
+msgid "tablespoon"
+msgstr ""
+
+#: src/Functions/CoreFunctions.php:1179
+msgid "tablespoons"
+msgstr ""
+
+#: src/Functions/CoreFunctions.php:1183
+#: src/Functions/CoreFunctions.php:1184
+msgid "ml"
+msgstr ""
+
+#: src/Functions/CoreFunctions.php:1185
+msgid "milliliter"
+msgstr ""
+
+#: src/Functions/CoreFunctions.php:1186
+msgid "milliliters"
+msgstr ""
+
+#: src/Functions/CoreFunctions.php:1190
+#: src/Functions/CoreFunctions.php:1191
+msgid "l"
+msgstr ""
+
+#: src/Functions/CoreFunctions.php:1192
+msgid "liter"
+msgstr ""
+
+#: src/Functions/CoreFunctions.php:1193
+msgid "liters"
+msgstr ""
+
+#: src/Functions/CoreFunctions.php:1197
+#: src/Functions/CoreFunctions.php:1199
+msgid "stick"
+msgstr ""
+
+#: src/Functions/CoreFunctions.php:1198
+#: src/Functions/CoreFunctions.php:1200
+msgid "sticks"
+msgstr ""
+
+#: src/Functions/CoreFunctions.php:1204
+msgid "lb"
+msgstr ""
+
+#: src/Functions/CoreFunctions.php:1205
+msgid "lbs"
+msgstr ""
+
+#: src/Functions/CoreFunctions.php:1206
+msgid "pound"
+msgstr ""
+
+#: src/Functions/CoreFunctions.php:1207
+msgid "pounds"
+msgstr ""
+
+#: src/Functions/CoreFunctions.php:1211
+#: src/Functions/CoreFunctions.php:1213
+msgid "dash"
+msgstr ""
+
+#: src/Functions/CoreFunctions.php:1212
+#: src/Functions/CoreFunctions.php:1214
+msgid "dashes"
+msgstr ""
+
+#: src/Functions/CoreFunctions.php:1218
+#: src/Functions/CoreFunctions.php:1220
+msgid "drop"
+msgstr ""
+
+#: src/Functions/CoreFunctions.php:1219
+#: src/Functions/CoreFunctions.php:1221
+msgid "drops"
+msgstr ""
+
+#: src/Functions/CoreFunctions.php:1225
+msgid "gal"
+msgstr ""
+
+#: src/Functions/CoreFunctions.php:1226
+msgid "gals"
+msgstr ""
+
+#: src/Functions/CoreFunctions.php:1227
+msgid "gallon"
+msgstr ""
+
+#: src/Functions/CoreFunctions.php:1228
+msgid "gallons"
+msgstr ""
+
+#: src/Functions/CoreFunctions.php:1232
+#: src/Functions/CoreFunctions.php:1234
+msgid "pinch"
+msgstr ""
+
+#: src/Functions/CoreFunctions.php:1233
+#: src/Functions/CoreFunctions.php:1235
+msgid "pinches"
+msgstr ""
+
+#: src/Functions/CoreFunctions.php:1239
+#: src/Functions/CoreFunctions.php:1240
+msgid "pt"
+msgstr ""
+
+#: src/Functions/CoreFunctions.php:1241
+msgid "pint"
+msgstr ""
+
+#: src/Functions/CoreFunctions.php:1242
+msgid "pints"
+msgstr ""
+
+#: src/Functions/CoreFunctions.php:1246
+msgid "qt"
+msgstr ""
+
+#: src/Functions/CoreFunctions.php:1247
+msgid "qts"
+msgstr ""
+
+#: src/Functions/CoreFunctions.php:1248
+msgid "quart"
+msgstr ""
+
+#: src/Functions/CoreFunctions.php:1249
+msgid "quarts"
+msgstr ""
+
+#: src/Functions/CoreFunctions.php:1253
+#: src/Functions/CoreFunctions.php:1254
+msgid "drizzle"
+msgstr ""
+
+#: src/Functions/CoreFunctions.php:1255
+#: src/Functions/CoreFunctions.php:1256
+#: assets/build/recipe.js:3
+msgid "Drizzle"
+msgstr ""
+
+#: src/Functions/CoreFunctions.php:1260
+#: src/Functions/CoreFunctions.php:1262
+msgid "clove"
+msgstr ""
+
+#: src/Functions/CoreFunctions.php:1261
+#: src/Functions/CoreFunctions.php:1263
+msgid "cloves"
+msgstr ""
+
+#: src/Functions/CoreFunctions.php:1267
+#: src/Functions/CoreFunctions.php:1269
+msgid "jar"
+msgstr ""
+
+#: src/Functions/CoreFunctions.php:1268
+#: src/Functions/CoreFunctions.php:1270
+msgid "jars"
+msgstr ""
+
+#: src/Functions/CoreFunctions.php:1274
+#: src/Functions/CoreFunctions.php:1276
+msgid "can"
+msgstr ""
+
+#: src/Functions/CoreFunctions.php:1275
+#: src/Functions/CoreFunctions.php:1277
+msgid "cans"
+msgstr ""
+
+#: src/Functions/CoreFunctions.php:1344
+msgid "Style One"
+msgstr ""
+
+#: src/Functions/CoreFunctions.php:1345
+msgid "Style Two"
+msgstr ""
+
+#. translators: %s: comment author link
+#: src/Functions/HelperFunctions.php:831
+msgid "<b class=\"fn\" itemprop=\"creator\" itemscope itemtype=\"https://schema.org/Person\">%s</b> <span class=\"says\">says:</span>"
+msgstr ""
+
+#. translators: %1$s: comment date %2$s: comment time
+#: src/Functions/HelperFunctions.php:838
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: src/Functions/HelperFunctions.php:843
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: src/Functions/HelperFunctions.php:1142
+msgid "Displays icon"
+msgstr ""
+
+#: src/Functions/HelperFunctions.php:1143
+msgid "Displays text"
+msgstr ""
+
+#: src/Functions/HelperFunctions.php:1144
+msgid "Displays text & icon"
+msgstr ""
+
+#: src/Functions/HelperFunctions.php:1145
+msgid "Randomize posts"
+msgstr ""
+
+#: src/Functions/HelperFunctions.php:1189
+msgid "min"
+msgstr ""
+
+#: src/Functions/HelperPagination.php:34
+msgid "No more posts to load."
+msgstr ""
+
+#: src/Functions/HelperPagination.php:84
+msgid "Load More"
+msgstr ""
+
+#: src/Functions/HelperPagination.php:98
+#: assets/blocks/handpicked-recipes/block.js:116
+#: assets/blocks/recipe-by-tax/RecipesByType.js:47
+#: assets/blocks/recipe-card-dynamic/components/RecipeCard.js:352
+#: assets/blocks/recipe-card/block.js:229
+#: assets/build/blocks.js:1
+msgid "Loading..."
+msgstr ""
+
+#: src/GlobalSettings.php:68
+#: src/GlobalSettings.php:69
+#: assets/admin/components/whatsNew/recipeWhatsNew.jsx:132
+#: assets/build/recipe.js:1
+#: assets/build/whatsNew.js:3
+msgid "Settings"
+msgstr ""
+
+#: src/import/class-delicious-recipes-import-blossom-recipe-maker.php:28
+msgid "Blossom Recipe Maker"
+msgstr ""
+
+#: src/import/class-delicious-recipes-import-blossom-recipe-maker.php:44
+#: src/import/class-delicious-recipes-import-wp-recipe-maker.php:44
+msgid "Recipe Taxonomies Mapping"
+msgstr ""
+
+#: src/import/class-delicious-recipes-import-wp-recipe-maker.php:28
+msgid "WP Recipe Maker"
+msgstr ""
+
+#: src/updater/class-delicious-recipes-edd.php:47
+#: assets/admin/components/whatsNew/recipeWhatsNew.jsx:130
+#: assets/build/whatsNew.js:3
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: src/widgets/categories.php:20
+msgid "A list or dropdown of recipe categories for Delicious Recipes."
+msgstr ""
+
+#: src/widgets/categories.php:39
+#: src/widgets/featured.php:38
+#: src/widgets/popular-tags.php:39
+#: src/widgets/popular.php:65
+#: src/widgets/recent.php:37
+#: src/widgets/recipe-keys.php:40
+msgid "No preview available."
+msgstr ""
+
+#: src/widgets/featured.php:20
+msgid "A Featured Recipes Widget for Delicious Recipes."
+msgstr ""
+
+#: src/widgets/featured.php:44
+#: src/widgets/featured.php:102
+msgid "Featured Recipes"
+msgstr ""
+
+#: src/widgets/featured.php:111
+#: src/widgets/popular.php:143
+#: src/widgets/recent.php:103
+msgid "Number of Recipes:"
+msgstr ""
+
+#: src/widgets/featured.php:115
+#: src/widgets/popular.php:154
+#: src/widgets/recent.php:107
+msgid "Layout:"
+msgstr ""
+
+#: src/widgets/popular-tags.php:20
+msgid "A Popular Tags Widget for Delicious Recipes."
+msgstr ""
+
+#: src/widgets/popular-tags.php:45
+#: src/widgets/popular-tags.php:86
+msgid "Popular Tags"
+msgstr ""
+
+#: src/widgets/popular-tags.php:95
+msgid "Show tag counts"
+msgstr ""
+
+#: src/widgets/popular.php:20
+msgid "Delicious: Popular Recipes"
+msgstr ""
+
+#: src/widgets/popular.php:22
+msgid "A Popular Recipes Widget for Delicious Recipes."
+msgstr ""
+
+#: src/widgets/popular.php:71
+#: src/widgets/popular.php:133
+msgid "Popular Recipes"
+msgstr ""
+
+#: src/widgets/popular.php:147
+msgid "Popular based on:"
+msgstr ""
+
+#: src/widgets/popular.php:149
+msgid "Post Views"
+msgstr ""
+
+#: src/widgets/popular.php:150
+msgid "Comment Count"
+msgstr ""
+
+#: src/widgets/recent.php:18
+msgid "Delicious: Recent Recipes"
+msgstr ""
+
+#: src/widgets/recent.php:20
+msgid "A Recent Recipes Widget for Delicious Recipes."
+msgstr ""
+
+#: src/widgets/recent.php:42
+#: src/widgets/recent.php:94
+msgid "Recent Recipes"
+msgstr ""
+
+#: src/widgets/recipe-keys.php:18
+msgid "Delicious: Recipe Keys"
+msgstr ""
+
+#: src/widgets/recipe-keys.php:20
+msgid "A Recipe Keys Widget for Delicious Recipes."
+msgstr ""
+
+#: templates/account/content-dashboard.php:29
+msgid "Log Out"
+msgstr ""
+
+#: templates/account/form-login.php:26
+msgid "Log In"
+msgstr ""
+
+#: templates/account/form-login.php:32
+#: templates/account/form-lostpassword.php:32
+msgid "Email Or Username"
+msgstr ""
+
+#: templates/account/form-login.php:33
+msgid "Please enter your valid email or username"
+msgstr ""
+
+#: templates/account/form-login.php:36
+#: templates/account/form-registration.php:40
+msgid "Password"
+msgstr ""
+
+#: templates/account/form-login.php:37
+msgid "Please enter your password"
+msgstr ""
+
+#: templates/account/form-login.php:47
+msgid "Remember Me"
+msgstr ""
+
+#: templates/account/form-login.php:50
+msgid "Forgot Password?"
+msgstr ""
+
+#: templates/account/form-login.php:54
+msgid "Not registered yet?"
+msgstr ""
+
+#: templates/account/form-login.php:54
+msgid "Create an Account"
+msgstr ""
+
+#: templates/account/form-lostpassword.php:23
+msgid "Lost Your Password?"
+msgstr ""
+
+#: templates/account/form-lostpassword.php:25
+msgid "Please enter you username or email address. You will receive a link to create a new password via email."
+msgstr ""
+
+#: templates/account/form-lostpassword.php:41
+msgid "Back to Sign in?"
+msgstr ""
+
+#: templates/account/form-registration.php:23
+msgid "Sign Up"
+msgstr ""
+
+#: templates/account/form-registration.php:31
+msgid "Please enter your desired username"
+msgstr ""
+
+#: templates/account/form-registration.php:36
+msgid "Please enter a valid email address"
+msgstr ""
+
+#: templates/account/form-registration.php:41
+#: templates/account/form-registration.php:45
+msgid "Please enter a valid password"
+msgstr ""
+
+#: templates/account/form-registration.php:44
+#: templates/account/tab-content/account.php:127
+msgid "Confirm Password"
+msgstr ""
+
+#: templates/account/form-registration.php:55
+msgid "Please check the terms and conditions"
+msgstr ""
+
+#: templates/account/form-registration.php:65
+msgid "Already have an account?"
+msgstr ""
+
+#: templates/account/form-registration.php:65
+msgid "Sign In"
+msgstr ""
+
+#: templates/account/form-reset-password.php:28
+msgid "Enter your New Password."
+msgstr ""
+
+#: templates/account/form-reset-password.php:34
+#: templates/account/tab-content/account.php:109
+#: templates/account/tab-content/account.php:111
+msgid "New Password"
+msgstr ""
+
+#: templates/account/form-reset-password.php:39
+msgid "Re-enter New Password"
+msgstr ""
+
+#: templates/account/lostpassword-confirm.php:56
+msgid "Check Your Email"
+msgstr ""
+
+#: templates/account/lostpassword-confirm.php:59
+msgid "A password reset email has been sent to the email address for your account, but may take several minutes to show up in your inbox. Please wait at least 10 minutes before attempting another reset."
+msgstr ""
+
+#: templates/account/tab-content/account.php:68
+msgid "Usernames cannot be changed."
+msgstr ""
+
+#: templates/account/tab-content/account.php:81
+msgid "Display Name"
+msgstr ""
+
+#: templates/account/tab-content/account.php:85
+msgid "Display name is used to display publicly on dashboard screen."
+msgstr ""
+
+#: templates/account/tab-content/account.php:91
+#: templates/account/tab-content/account.php:93
+msgid "Current Password"
+msgstr ""
+
+#: templates/account/tab-content/account.php:129
+msgid "Re-enter the new password"
+msgstr ""
+
+#: templates/account/tab-content/account.php:150
+msgid "Update Your Profile"
+msgstr ""
+
+#: templates/account/tab-content/wishlist.php:18
+msgid "View by:"
+msgstr ""
+
+#. translators: %1$s: <a> tag open %2$s: </a> tag close
+#: templates/account/tab-content/wishlist.php:91
+msgid "No recipes found in your wishlist. You can add recipes from %1$s Recipe Archive. %2$s"
+msgstr ""
+
+#: templates/archive-author.php:68
+#: templates/taxonomy-archive.php:84
+msgid "No recipes found."
+msgstr ""
+
+#: templates/archive/all-categories.php:35
+msgid "All Categories:"
+msgstr ""
+
+#. translators: %s: category name
+#: templates/archive/all-categories.php:46
+msgid "View all recipes in %s"
+msgstr ""
+
+#: templates/archive/recipes-by-ingredients.php:75
+msgid "Recipes by Ingredient:"
+msgstr ""
+
+#. translators: %s: Customer username
+#: templates/emails/customer-new-account.php:20
+#: templates/emails/customer-reset-password.php:20
+msgid "Hi %s,"
+msgstr ""
+
+#. translators: %1$s: Site title, %2$s: Username
+#: templates/emails/customer-new-account.php:22
+msgid "Thanks for creating an account on %1$s. Your username is %2$s."
+msgstr ""
+
+#. translators: %s: Password
+#: templates/emails/customer-new-account.php:24
+msgid "Your password is: %s"
+msgstr ""
+
+#: templates/emails/customer-new-account.php:25
+msgid "Check your account to access your user dashboard to view your favorite lists and edit your profile:"
+msgstr ""
+
+#: templates/emails/customer-new-account.php:26
+msgid "My Account"
+msgstr ""
+
+#: templates/emails/customer-new-account.php:27
+msgid "If you have any questions, just reply to this email- we're always happy to help out."
+msgstr ""
+
+#. translators: %s: Site Title
+#: templates/emails/customer-new-account.php:29
+#: templates/emails/customer-reset-password.php:25
+msgid "Thank you, %s Team"
+msgstr ""
+
+#: templates/emails/customer-reset-password.php:21
+msgid "We're sending you this email because you requested a password reset. Click on this link to create a new password:"
+msgstr ""
+
+#: templates/emails/customer-reset-password.php:22
+msgid "Set a New Password"
+msgstr ""
+
+#: templates/emails/customer-reset-password.php:23
+msgid "If this was a mistake, ignore this email and nothing will happen."
+msgstr ""
+
+#: templates/global/block-print.php:328
+msgid "Keywords: "
+msgstr ""
+
+#. translators: 1: comment count number.
+#: templates/global/comments.php:33
+msgctxt "comments title"
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/global/comments.php:54
+msgid "Comments are closed."
+msgstr ""
+
+#: templates/global/search/filter-reset.php:8
+msgid "Clear All"
+msgstr ""
+
+#: templates/global/search/filter-simple-factor.php:6
+msgid "10 ingredients or less"
+msgstr ""
+
+#: templates/global/search/filter-simple-factor.php:7
+msgid "15 minutes or less"
+msgstr ""
+
+#: templates/global/search/filter-simple-factor.php:8
+msgid "30 minutes or less"
+msgstr ""
+
+#: templates/global/search/filter-simple-factor.php:9
+msgid "7 ingredients or less"
+msgstr ""
+
+#: templates/global/search/filter-sorting.php:7
+msgid "Title (A-Z)"
+msgstr ""
+
+#: templates/global/search/filter-sorting.php:8
+msgid "Title (Z-A)"
+msgstr ""
+
+#: templates/global/search/filter-sorting.php:9
+msgid "Date (Newest)"
+msgstr ""
+
+#: templates/global/search/filter-sorting.php:10
+msgid "Date (Oldest)"
+msgstr ""
+
+#: templates/global/searchpage-content.php:82
+msgid "Posts navigation"
+msgstr ""
+
+#: templates/pages/recipe-badges.php:26
+msgid "Terms not found for recipe badges."
+msgstr ""
+
+#: templates/pages/recipe-cooking-methods.php:26
+msgid "Terms not found for recipe cooking methods."
+msgstr ""
+
+#: templates/pages/recipe-courses.php:26
+msgid "Terms not found for recipe categories."
+msgstr ""
+
+#: templates/pages/recipe-cuisines.php:26
+msgid "Terms not found for recipe cuisines."
+msgstr ""
+
+#: templates/pages/recipe-keys.php:26
+msgid "Terms not found for recipe keys."
+msgstr ""
+
+#: templates/pages/recipe-tags.php:26
+msgid "Terms not found for recipe tags."
+msgstr ""
+
+#: templates/pages/taxonomy/terms-carousal.php:33
+msgid "View All"
+msgstr ""
+
+#: templates/recipe/gallery.php:36
+msgid "View Gallery"
+msgstr ""
+
+#. translators: %1$s: gallery images count
+#: templates/recipe/gallery.php:39
+msgctxt "gallery images count"
+msgid "%1$s photo"
+msgid_plural "%1$s photos"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: %s: total comments count
+#: templates/recipe/header.php:42
+#: templates/recipes-list.php:101
+msgctxt "number of comments"
+msgid "%s Comment"
+msgid_plural "%s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: %$s: rating count
+#: templates/recipe/header.php:56
+msgctxt "number of comments"
+msgid " / %s Review"
+msgid_plural " / %s Reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/recipe/navigation.php:33
+msgid "Previous"
+msgstr ""
+
+#: templates/recipe/powered-by.php:21
+msgid "Recipe Card powered by"
+msgstr ""
+
+#: templates/recipe/print-screen.php:46
+msgid "Print Options:"
+msgstr ""
+
+#: templates/recipe/print-screen.php:88
+msgid "Ratings"
+msgstr ""
+
+#. translators: %1$s: rating %2$s: total ratings count
+#: templates/recipe/print-screen.php:91
+msgid "%1$s from %2$s votes"
+msgstr ""
+
+#: templates/recipe/print-screen.php:137
+msgid "Time"
+msgstr ""
+
+#: templates/recipe/recipe-block/instructions.php:25
+msgid "Off"
+msgstr ""
+
+#: templates/recipe/recipe-block/instructions.php:26
+msgid "On"
+msgstr ""
+
+#. translators: %1$s: average rating
+#: templates/recipe/recipe-block/summary-default.php:65
+#: templates/recipe/recipe-block/summary-layout-1.php:29
+#: templates/recipe/recipe-block/summary-layout-2.php:30
+msgid "%1$s from"
+msgstr ""
+
+#. translators: %s: number of comments count
+#: templates/recipe/recipe-block/summary-default.php:71
+#: templates/recipe/recipe-block/summary-layout-1.php:35
+#: templates/recipe/recipe-block/summary-layout-2.php:36
+msgctxt "number of comments"
+msgid "%s vote"
+msgid_plural "%s votes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/recipe/recipe-faqs.php:18
+msgid "Expand All"
+msgstr ""
+
+#: templates/recipe/recipe-faqs.php:19
+msgid "ON"
+msgstr ""
+
+#: templates/recipe/recipe-faqs.php:19
+msgid "OFF"
+msgstr ""
+
+#: templates/recipe/recipe-like.php:7
+msgid "Like Recipe"
+msgstr ""
+
+#. translators: %1$d: start count %2$d: start count + posts per page %3$d: total recipes count
+#: templates/taxonomy-archive.php:46
+msgid "%1$d - %2$d of %3$d Recipes"
+msgstr ""
+
+#: templates/widgets/categories-dropdown.php:30
+msgid "Select Category"
+msgstr ""
+
+#. translators: placeholder here is the max file upload size
+#: assets/admin/components/generic/editor.jsx:48
+#: assets/build/global.js:1
+#: assets/build/recipe.js:3
+msgid "Click to initialize RichEditor"
+msgstr ""
+
+#: assets/admin/components/global-settings/global-tabs/global-appearance.jsx:24
+#: assets/build/global.js:1
+msgid "Default Layout"
+msgstr ""
+
+#: assets/admin/components/global-settings/global-tabs/global-appearance.jsx:29
+#: assets/build/global.js:1
+msgid "Layout One"
+msgstr ""
+
+#: assets/admin/components/global-settings/global-tabs/global-appearance.jsx:34
+#: assets/build/global.js:1
+msgid "Layout Two"
+msgstr ""
+
+#: assets/admin/components/global-settings/global-tabs/global-appearance.jsx:43
+#: assets/admin/components/global-settings/global-tabs/global-tabs.jsx:68
+#: assets/build/global.js:1
+#: assets/build/global.js:3
+msgid "Appearance"
+msgstr ""
+
+#: assets/admin/components/global-settings/global-tabs/global-appearance.jsx:52
+#: assets/admin/components/onboarding/steps/appreanceStep.jsx:16
+#: assets/build/global.js:1
+#: assets/build/onboard.js:3
+msgid "Enable Plugin Typography"
+msgstr ""
+
+#: assets/admin/components/global-settings/global-tabs/global-appearance.jsx:64
+#: assets/admin/components/onboarding/steps/appreanceStep.jsx:28
+#: assets/build/global.js:1
+#: assets/build/onboard.js:3
+msgid "Enable this option to use typography fonts from plugin. Disable to use theme's default fonts."
+msgstr ""
+
+#: assets/admin/components/global-settings/global-tabs/global-appearance.jsx:74
+#: assets/admin/components/onboarding/steps/appreanceStep.jsx:32
+#: assets/build/global.js:1
+#: assets/build/onboard.js:3
+msgid "Recipe Colors"
+msgstr ""
+
+#: assets/admin/components/global-settings/global-tabs/global-appearance.jsx:77
+#: assets/admin/components/onboarding/steps/appreanceStep.jsx:33
+#: assets/build/global.js:1
+#: assets/build/onboard.js:3
+msgid "These color options controls the look and feel of your recipe card."
+msgstr ""
+
+#: assets/admin/components/global-settings/global-tabs/global-appearance.jsx:86
+#: assets/admin/components/global-settings/global-tabs/global-appearance.jsx:107
+#: assets/admin/components/onboarding/steps/appreanceStep.jsx:36
+#: assets/build/global.js:1
+#: assets/build/onboard.js:3
+msgid "Primary Color"
+msgstr ""
+
+#: assets/admin/components/global-settings/global-tabs/global-appearance.jsx:119
+#: assets/admin/components/global-settings/global-tabs/global-appearance.jsx:139
+#: assets/admin/components/onboarding/steps/appreanceStep.jsx:63
+#: assets/build/global.js:1
+#: assets/build/onboard.js:3
+msgid "Secondary Color"
+msgstr ""
+
+#: assets/admin/components/global-settings/global-tabs/global-appearance.jsx:155
+#: assets/blocks/recipe-card/block.js:208
+#: assets/build/blocks.js:1
+#: assets/build/global.js:1
+msgid "Default Card Layout"
+msgstr ""
+
+#: assets/admin/components/global-settings/global-tabs/global-appearance.jsx:158
+#: assets/build/global.js:1
+msgid "Select the default card layout for recipe card."
+msgstr ""
+
+#: assets/admin/components/global-settings/global-tabs/global-author.jsx:42
+#: assets/admin/components/global-settings/global-tabs/global-tabs.jsx:181
+#: assets/build/global.js:1
+#: assets/build/global.js:3
+msgid "Author Settings"
+msgstr ""
+
+#: assets/admin/components/global-settings/global-tabs/global-author.jsx:53
+#: assets/build/global.js:1
+msgid "Author Profile"
+msgstr ""
+
+#: assets/admin/components/global-settings/global-tabs/global-author.jsx:65
+#: assets/build/global.js:1
+msgid "Only enable this option, if only one author publishes the recipes. Keep this option disabled, if you have multiple authors."
+msgstr ""
+
+#: assets/admin/components/global-settings/global-tabs/global-author.jsx:75
+#: assets/build/global.js:1
+msgid "Show Author Archive Header"
+msgstr ""
+
+#: assets/admin/components/global-settings/global-tabs/global-author.jsx:87
+#: assets/build/global.js:1
+msgid "Enable this option to display header with author information on author archive page. Disable this option if your theme contains headers."
+msgstr ""
+
+#: assets/admin/components/global-settings/global-tabs/global-author.jsx:94
+#: assets/build/global.js:1
+msgid "Recipe Author"
+msgstr ""
+
+#: assets/admin/components/global-settings/global-tabs/global-author.jsx:98
+#: assets/build/global.js:1
+msgid "Select recipe author"
+msgstr ""
+
+#: assets/admin/components/global-settings/global-tabs/global-author.jsx:107
+#: assets/build/global.js:1
+msgid "Choose recipe author. The author will be used to display author details and author archive."
+msgstr ""
+
+#: assets/admin/components/global-settings/global-tabs/global-author.jsx:114
+#: assets/build/global.js:1
+msgid "Author Name"
+msgstr ""
+
+#: assets/admin/components/global-settings/global-tabs/global-author.jsx:119
+#: assets/build/global.js:1
+msgid "Enter Author Name here.."
+msgstr ""
+
+#: assets/admin/components/global-settings/global-tabs/global-author.jsx:125
+#: assets/build/global.js:1
+msgid "Subtitle"
+msgstr ""
+
+#: assets/admin/components/global-settings/global-tabs/global-author.jsx:130
+#: assets/build/global.js:1
+msgid "Enter Subtitle here.."
+msgstr ""
+
+#: assets/admin/components/global-settings/global-tabs/global-author.jsx:133
+#: assets/build/global.js:1
+msgid "This will be displayed below the author name."
+msgstr ""
+
+#: assets/admin/components/global-settings/global-tabs/global-author.jsx:147
+#: assets/build/global.js:1
+msgid "Enter Author Description here.."
+msgstr ""
+
+#: assets/admin/components/global-settings/global-tabs/global-author.jsx:171
+#: assets/build/global.js:1
+msgid "Social Profile Options"
+msgstr ""
+
+#: assets/admin/components/global-settings/global-tabs/global-author.jsx:180
+#: assets/build/global.js:1
+msgid "Social Profile Links"
+msgstr ""
+
+#: assets/admin/components/global-settings/global-tabs/global-author.jsx:192
+#: assets/build/global.js:1
+msgid "Add your social media profile links. Leave it blank if you don't want to display any particular social\tprofile."
+msgstr ""
+
+#: assets/admin/components/global-settings/global-tabs/global-author.jsx:200
+#: assets/admin/components/onboarding/endBanner.jsx:17
+#: assets/build/global.js:1
+#: assets/build/onboard.js:3
+msgid "Facebook"
+msgstr ""
+
+#: assets/admin/components/global-settings/global-tabs/global-author.jsx:205
+#: assets/build/global.js:1
+msgid "Enter Facebook URL"
+msgstr ""
+
+#: assets/admin/components/global-settings/global-tabs/global-author.jsx:212
+#: assets/build/global.js:1
+msgid "Instagram"
+msgstr ""
+
+#: assets/admin/components/global-settings/global-tabs/global-author.jsx:217
+#: assets/build/global.js:1
+msgid "Enter Instagram URL"
+msgstr ""
+
+#: assets/admin/components/global-settings/global-tabs/global-author.jsx:224
+#: assets/build/global.js:1
+msgid "Pinterest"
+msgstr ""
+
+#: assets/admin/components/global-settings/global-tabs/global-author.jsx:229
+#: assets/build/global.js:1
+msgid "Enter Pinterest URL"
+msgstr ""
+
+#: assets/admin/components/global-settings/global-tabs/global-author.jsx:236
+#: assets/admin/components/onboarding/endBanner.jsx:20
+#: assets/build/global.js:1
+#: assets/build/onboard.js:3
+msgid "Twitter"
+msgstr ""
+
+#: assets/admin/components/global-settings/global-tabs/global-author.jsx:241
+#: assets/build/global.js:1
+msgid "Enter Twitter URL"
+msgstr ""
+
+#: assets/admin/components/global-settings/global-tabs/global-author.jsx:248
+#: assets/build/global.js:1
+msgid "YouTube"
+msgstr ""
+
+#: assets/admin/components/global-settings/global-tabs/global-author.jsx:253
+#: assets/build/global.js:1
+msgid "Enter YouTube URL"
+msgstr ""
+
+#: assets/admin/components/global-settings/global-tabs/global-author.jsx:260
+#: assets/build/global.js:1
+msgid "Snapchat"
+msgstr ""
+
+#: assets/admin/components/global-settings/global-tabs/global-author.jsx:265
+#: assets/build/global.js:1
+msgid "Enter Snapchat URL"
+msgstr ""
+
+#: assets/admin/components/global-settings/global-tabs/global-author.jsx:272
+#: assets/admin/components/onboarding/endBanner.jsx:23
+#: assets/build/global.js:1
+#: assets/build/onboard.js:3
+msgid "Linkedin"
+msgstr ""
+
+#: assets/admin/components/global-settings/global-tabs/global-author.jsx:277
+#: assets/build/global.js:1
+msgid "Enter Linkedin URL"
+msgstr ""
+
+#: assets/admin/components/global-settings/global-tabs/global-author.jsx:302
+#: assets/build/global.js:1
+msgid "Upload Your Photo"
+msgstr ""
+
+#: assets/admin/components/global-settings/global-tabs/global-author.jsx:305
+#: assets/build/global.js:1
+msgid "Upload your photo to display in the author profile. Leave it blank, if you don't want to display in the profile."
+msgstr ""
+
+#: assets/admin/components/global-settings/global-tabs/global-author.jsx:363
+#: assets/build/global.js:1
+#: assets/build/global.js:3
+#: assets/build/recipe.js:3
+msgid "Supports: .JPG, .PNG images"
+msgstr ""
+
+#: assets/admin/components/global-settings/global-tabs/global-author.jsx:419
+#: assets/build/global.js:1
+#: assets/build/global.js:3
+#: assets/build/recipe.js:3
+msgid "Replace"
+msgstr ""
+
+#: assets/admin/components/global-settings/global-tabs/global-author.jsx:432
+#: assets/build/global.js:1
+#: assets/build/global.js:3
+#: assets/build/recipe.js:1
+#: assets/build/recipe.js:3
+msgid "Delete"
+msgstr ""
+
+#: assets/admin/components/global-settings/global-tabs/global-email-templates.jsx:15
+#: assets/admin/components/global-settings/global-tabs/global-email-templates.jsx:81
+#: assets/build/global.js:3
+msgid "New Account"
+msgstr ""
+
+#: assets/admin/components/global-settings/global-tabs/global-email-templates.jsx:22
+#: assets/admin/components/global-settings/global-tabs/global-email-templates.jsx:127
+#: assets/build/global.js:3
+msgid "Reset Password"
+msgstr ""
+
+#: assets/admin/components/global-settings/global-tabs/global-email-templates.jsx:33
+#: assets/admin/components/global-settings/global-tabs/global-tabs.jsx:350
+#: assets/build/global.js:3
+msgid "Email Templates"
+msgstr ""
+
+#: assets/admin/components/global-settings/global-tabs/global-email-templates.jsx:84
+#: assets/admin/components/global-settings/global-tabs/global-email-templates.jsx:130
+#: assets/build/global.js:3
+msgid "Subject"
+msgstr ""
+
+#: assets/admin/components/global-settings/global-tabs/global-email-templates.jsx:88
+#: assets/admin/components/global-settings/global-tabs/global-email-templates.jsx:134
+#: assets/build/global.js:3
+msgid "Enter Subject here.."
+msgstr ""
+
+#: assets/admin/components/global-settings/global-tabs/global-email-templates.jsx:92
+#: assets/admin/components/global-settings/global-tabs/global-email-templates.jsx:138
+#: assets/build/global.js:3
+msgid "Message"
+msgstr ""
+
+#: assets/admin/components/global-settings/global-tabs/global-email-templates.jsx:97
+#: assets/build/global.js:3
+msgid "Enter New Account Created email template here.."
+msgstr ""
+
+#: assets/admin/components/global-settings/global-tabs/global-email-templates.jsx:114
+#: assets/admin/components/global-settings/global-tabs/global-email-templates.jsx:160
+#: assets/build/global.js:3
+msgid "Insert Email Placeholders"
+msgstr ""
+
+#: assets/admin/components/global-settings/global-tabs/global-email-templates.jsx:143
+#: assets/build/global.js:3
+msgid "Enter Reset Password email template here.."
+msgstr ""
+
+#: assets/admin/components/global-settings/global-tabs/global-tabs-content.jsx:437
+#: assets/build/global.js:3
+#: assets/build/onboard.js:5
+msgid "Recipe global settings saved successfully !!"
+msgstr ""
+
+#: assets/admin/components/global-settings/global-tabs/global-tabs-content.jsx:521
+#: assets/build/global.js:3
+#: assets/build/recipe.js:3
+msgid "Save Changes"
+msgstr ""
+
+#: assets/admin/components/global-settings/global-tabs/global-tabs.jsx:7
+#: assets/build/global.js:3
+msgid "General Settings"
+msgstr ""
+
+#: assets/admin/components/global-settings/global-tabs/global-tabs.jsx:29
+#: assets/blocks/details/block.js:32
+#: assets/blocks/recipe-card/block.js:280
+#: assets/build/blocks.js:1
+#: assets/build/global.js:1
+#: assets/build/global.js:3
+msgid "Recipe Details"
+msgstr ""
+
+#: assets/admin/components/global-settings/global-tabs/global-tabs.jsx:45
+#: assets/build/global.js:1
+#: assets/build/global.js:3
+msgid "Recipe Archive"
+msgstr ""
+
+#: assets/admin/components/global-settings/global-tabs/global-tabs.jsx:124
+#: assets/build/global.js:1
+#: assets/build/global.js:3
+msgid "Permalinks"
+msgstr ""
+
+#: assets/admin/components/global-settings/global-tabs/global-tabs.jsx:147
+#: assets/build/global.js:1
+#: assets/build/global.js:3
+msgid "Social Sharing"
+msgstr ""
+
+#: assets/admin/components/global-settings/global-tabs/global-tabs.jsx:163
+#: assets/build/global.js:1
+#: assets/build/global.js:3
+msgid "Review Ratings"
+msgstr ""
+
+#: assets/admin/components/global-settings/global-tabs/global-tabs.jsx:199
+#: assets/build/global.js:1
+#: assets/build/global.js:3
+msgid "Print Settings"
+msgstr ""
+
+#: assets/admin/components/global-settings/global-tabs/global-tabs.jsx:282
+#: assets/build/global.js:1
+#: assets/build/global.js:3
+msgid "Search Settings"
+msgstr ""
+
+#: assets/admin/components/global-settings/global-tabs/global-tabs.jsx:311
+#: assets/build/global.js:1
+#: assets/build/global.js:3
+msgid "Miscellaneous"
+msgstr ""
+
+#: assets/admin/components/global-settings/global-tabs/global-tabs.jsx:338
+#: assets/build/global.js:3
+msgid "User Dashboard"
+msgstr ""
+
+#: assets/admin/components/onboarding/endBanner.jsx:8
+#: assets/build/onboard.js:3
+msgid "Congratulations!"
+msgstr ""
+
+#: assets/admin/components/onboarding/endBanner.jsx:10
+#: assets/build/onboard.js:3
+msgid "You have successfully finished setting up the plugin. You can now enjoy the incredible features and start creating your delicious recipes."
+msgstr ""
+
+#: assets/admin/components/onboarding/endBanner.jsx:14
+#: assets/build/onboard.js:3
+msgid "Spread The Word"
+msgstr ""
+
+#: assets/admin/components/onboarding/endBanner.jsx:28
+#: assets/admin/components/whatsNew/recipeWhatsNew.jsx:135
+#: assets/build/onboard.js:3
+#: assets/build/whatsNew.js:3
+msgid "Create a Recipe"
+msgstr ""
+
+#: assets/admin/components/onboarding/endBanner.jsx:29
+#: assets/build/onboard.js:3
+msgid "Go to Settings"
+msgstr ""
+
+#: assets/admin/components/onboarding/startBanner.jsx:25
+#: assets/admin/components/whatsNew/Banner.jsx:7
+#: assets/build/onboard.js:1
+#: assets/build/whatsNew.js:1
+msgid "Thank you for using"
+msgstr ""
+
+#: assets/admin/components/onboarding/startBanner.jsx:28
+#: assets/build/onboard.js:1
+msgid "Let’s get started to set-up a few settings that will help you configure your recipe blog and quickly get started."
+msgstr ""
+
+#. translators: %1$s: permalink options page link
+#: assets/admin/components/onboarding/startBanner.jsx:38
+#: assets/build/onboard.js:3
+msgid "<strong>Delicious Recipes</strong> plugin uses <b>WordPress Core REST API</b> interface for creating and managing recipes and does not support the plain permalink structure. Please <a target=\"_blank\" href=%s>change your permalinks settings</a> to other structure to use Delicious Recipes plugin. We recommend to use \"Post name\"."
+msgstr ""
+
+#. translators: %1$s: permalink options page link
+#: assets/admin/components/onboarding/startBanner.jsx:55
+#: assets/build/onboard.js:3
+msgid "I've changed the permalink structure in permalinks settings."
+msgstr ""
+
+#: assets/admin/components/onboarding/startBanner.jsx:63
+#: assets/build/onboard.js:3
+msgid "Proceed To Set Up"
+msgstr ""
+
+#: assets/admin/components/onboarding/startBanner.jsx:64
+#: assets/build/onboard.js:3
+#: assets/build/onboard.js:5
+msgid "Skip to Dashboard"
+msgstr ""
+
+#: assets/admin/components/onboarding/steps/additionalStep.jsx:22
+#: assets/build/onboard.js:5
+msgid "3. Additional Settings"
+msgstr ""
+
+#: assets/admin/components/onboarding/steps/additionalStep.jsx:24
+#: assets/build/onboard.js:5
+msgid "Additional Settings to optimize your experience with Delicious Recipes plugin"
+msgstr ""
+
+#: assets/admin/components/onboarding/steps/additionalStep.jsx:27
+#: assets/build/global.js:1
+#: assets/build/onboard.js:5
+msgid "Display Recipes On Homepage"
+msgstr ""
+
+#: assets/admin/components/onboarding/steps/additionalStep.jsx:38
+#: assets/build/global.js:1
+#: assets/build/onboard.js:5
+msgid "Enable this option to display the recipes on the homepage."
+msgstr ""
+
+#: assets/admin/components/onboarding/steps/additionalStep.jsx:43
+#: assets/build/global.js:1
+#: assets/build/onboard.js:5
+msgid "Recipe Search Page"
+msgstr ""
+
+#: assets/admin/components/onboarding/steps/additionalStep.jsx:47
+#: assets/build/global.js:1
+#: assets/build/global.js:3
+#: assets/build/onboard.js:5
+msgid "Select a page.."
+msgstr ""
+
+#: assets/admin/components/onboarding/steps/additionalStep.jsx:55
+#: assets/build/onboard.js:5
+msgid "Select a page to display recipe search results."
+msgstr ""
+
+#: assets/admin/components/onboarding/steps/appreanceStep.jsx:8
+#: assets/build/onboard.js:3
+msgid "1. Appearance Settings"
+msgstr ""
+
+#: assets/admin/components/onboarding/steps/permalinksStep.jsx:8
+#: assets/build/onboard.js:3
+msgid "2. Permalinks Settings"
+msgstr ""
+
+#. translators: placeholder here are the bold open and close tags
+#: assets/admin/components/onboarding/steps/permalinksStep.jsx:15
+#: assets/build/onboard.js:5
+msgid "If you are using SSL in your website, please ensure your website link in the backend %1$s matches precisely with Site URL settings in %2$s Dashboard > Settings > General %3$s."
+msgstr ""
+
+#. translators: placeholder here are the bold open and close tags
+#: assets/admin/components/onboarding/steps/permalinksStep.jsx:22
+#: assets/build/onboard.js:5
+msgid "You can also change recipe page slugs and permalinks as follows."
+msgstr ""
+
+#: assets/admin/components/onboarding/steps/permalinksStep.jsx:26
+#: assets/build/global.js:1
+#: assets/build/onboard.js:5
+msgid "Recipe Base"
+msgstr ""
+
+#: assets/admin/components/onboarding/steps/permalinksStep.jsx:35
+#: assets/build/global.js:1
+#: assets/build/onboard.js:5
+msgid "Enter custom URL structure for your Recipe Base. Default, recipe."
+msgstr ""
+
+#: assets/admin/components/onboarding/steps/permalinksStep.jsx:39
+#: assets/build/global.js:1
+#: assets/build/onboard.js:5
+msgid "Course Base"
+msgstr ""
+
+#: assets/admin/components/onboarding/steps/permalinksStep.jsx:48
+#: assets/build/onboard.js:5
+msgid "Enter custom URL structure for your Recipe Course Base. Default recipe-course."
+msgstr ""
+
+#: assets/admin/components/onboarding/steps/permalinksStep.jsx:52
+#: assets/build/global.js:1
+#: assets/build/onboard.js:5
+msgid "Cuisine Base"
+msgstr ""
+
+#: assets/admin/components/onboarding/steps/permalinksStep.jsx:61
+#: assets/build/global.js:1
+#: assets/build/onboard.js:5
+msgid "Enter custom URL structure for your Recipe Cuisine Base. Default, recipe-cuisine."
+msgstr ""
+
+#: assets/admin/components/onboarding/steps/permalinksStep.jsx:65
+#: assets/build/global.js:1
+#: assets/build/onboard.js:5
+msgid "Cooking Method Base"
+msgstr ""
+
+#: assets/admin/components/onboarding/steps/permalinksStep.jsx:74
+#: assets/build/global.js:1
+#: assets/build/onboard.js:5
+msgid "Enter custom URL structure for your Recipe Cooking Method Base. Default, recipe-cooking-method."
+msgstr ""
+
+#: assets/admin/components/onboarding/steps/permalinksStep.jsx:78
+#: assets/build/global.js:1
+#: assets/build/onboard.js:5
+msgid "Key Base"
+msgstr ""
+
+#: assets/admin/components/onboarding/steps/permalinksStep.jsx:87
+#: assets/build/global.js:1
+#: assets/build/onboard.js:5
+msgid "Enter custom URL structure for your Recipe Key Base. Default, recipe-key."
+msgstr ""
+
+#: assets/admin/components/onboarding/steps/permalinksStep.jsx:91
+#: assets/build/global.js:1
+#: assets/build/onboard.js:5
+msgid "Tag Base"
+msgstr ""
+
+#: assets/admin/components/onboarding/steps/permalinksStep.jsx:100
+#: assets/build/global.js:1
+#: assets/build/onboard.js:5
+msgid "Enter custom URL structure for your Recipe Tag Base. Default, recipe-tag."
+msgstr ""
+
+#: assets/admin/components/onboarding/steps/permalinksStep.jsx:104
+#: assets/build/global.js:1
+#: assets/build/onboard.js:5
+msgid "Badge Base"
+msgstr ""
+
+#: assets/admin/components/onboarding/steps/permalinksStep.jsx:113
+#: assets/build/onboard.js:5
+msgid "Enter custom URL structure for your Recipe badge Base. Default, recipe-badge."
+msgstr ""
+
+#: assets/admin/components/onboarding/steps/stepsHeader.jsx:12
+#: assets/build/onboard.js:3
+msgid "Step"
+msgstr ""
+
+#: assets/admin/components/onboarding/steps/stepsHeader.jsx:14
+#: assets/build/onboard.js:3
+msgid "Appearance Settings"
+msgstr ""
+
+#: assets/admin/components/onboarding/steps/stepsHeader.jsx:15
+#: assets/build/onboard.js:3
+msgid "Permalinks Settings"
+msgstr ""
+
+#: assets/admin/components/onboarding/steps/stepsHeader.jsx:16
+#: assets/build/onboard.js:3
+msgid "Additional Settings"
+msgstr ""
+
+#: assets/admin/components/recipe-settings/tabs/recipe-faqs.jsx:26
+#: assets/admin/components/recipe-settings/tabs/recipe-faqs.jsx:48
+#: assets/admin/components/recipe-settings/tabs/recipe-tabs.jsx:245
+#: assets/build/recipe.js:1
+#: assets/build/recipe.js:3
+msgid "FAQs"
+msgstr ""
+
+#: assets/admin/components/recipe-settings/tabs/recipe-faqs.jsx:32
+#: assets/build/recipe.js:3
+msgid "Section Title"
+msgstr ""
+
+#: assets/admin/components/recipe-settings/tabs/recipe-faqs.jsx:37
+#: assets/build/recipe.js:3
+msgid "Enter FAQs section title"
+msgstr ""
+
+#: assets/admin/components/recipe-settings/tabs/recipe-faqs.jsx:40
+#: assets/build/recipe.js:3
+msgid "Enter title for the FAQ section."
+msgstr ""
+
+#: assets/admin/components/recipe-settings/tabs/recipe-faqs.jsx:51
+#: assets/build/recipe.js:3
+msgid "You can add the FAQ sections and related answers for the recipe."
+msgstr ""
+
+#: assets/admin/components/recipe-settings/tabs/recipe-faqs.jsx:93
+#: assets/build/recipe.js:3
+msgid "Enter the FAQ title."
+msgstr ""
+
+#: assets/admin/components/recipe-settings/tabs/recipe-faqs.jsx:103
+#: assets/build/recipe.js:3
+msgid "FAQ Answer"
+msgstr ""
+
+#: assets/admin/components/recipe-settings/tabs/recipe-faqs.jsx:118
+#: assets/build/recipe.js:3
+msgid "Enter FAQ answer here."
+msgstr ""
+
+#: assets/admin/components/recipe-settings/tabs/recipe-faqs.jsx:138
+#: assets/build/recipe.js:3
+msgid "Sure to delete the FAQ? This action cannot be reverted."
+msgstr ""
+
+#: assets/admin/components/recipe-settings/tabs/recipe-faqs.jsx:164
+#: assets/build/recipe.js:3
+msgid "Add FAQ"
+msgstr ""
+
+#: assets/admin/components/recipe-settings/tabs/recipe-tabs.jsx:7
+#: assets/build/recipe.js:1
+#: assets/build/recipe.js:3
+msgid "Recipe Info"
+msgstr ""
+
+#: assets/admin/components/recipe-settings/tabs/recipe-tabs.jsx:146
+#: assets/build/recipe.js:1
+msgid "Gallery"
+msgstr ""
+
+#: assets/admin/components/whatsNew/Banner.jsx:8
+#: assets/build/whatsNew.js:1
+msgid "Delicious Recipes!"
+msgstr ""
+
+#: assets/admin/components/whatsNew/Banner.jsx:11
+#: assets/build/whatsNew.js:1
+msgid "With Delicious Recipes, you can create and share your recipes easily with your readers. If you haven’t already, head over to the Settings page to configure and customize the plugin."
+msgstr ""
+
+#. translators: placeholder here means the actual version.
+#: assets/admin/components/whatsNew/recipeWhatsNew.jsx:37
+#: assets/build/whatsNew.js:2
+msgid "Version: %s"
+msgstr ""
+
+#. translators: placeholder here means the actual date.
+#: assets/admin/components/whatsNew/recipeWhatsNew.jsx:43
+#: assets/build/whatsNew.js:3
+msgid "Released on %s"
+msgstr ""
+
+#. translators: placeholder here means the actual date.
+#: assets/admin/components/whatsNew/recipeWhatsNew.jsx:65
+#: assets/build/whatsNew.js:3
+msgid "New Feature"
+msgstr ""
+
+#: assets/admin/components/whatsNew/recipeWhatsNew.jsx:69
+#: assets/build/whatsNew.js:3
+msgid "Enhancement"
+msgstr ""
+
+#: assets/admin/components/whatsNew/recipeWhatsNew.jsx:73
+#: assets/build/whatsNew.js:3
+msgid "Fixes"
+msgstr ""
+
+#: assets/admin/components/whatsNew/recipeWhatsNew.jsx:125
+#: assets/build/whatsNew.js:3
+msgid "Check out the links and information below to see what’s new."
+msgstr ""
+
+#: assets/admin/components/whatsNew/recipeWhatsNew.jsx:128
+#: assets/build/whatsNew.js:3
+msgid "Quick Links"
+msgstr ""
+
+#: assets/admin/components/whatsNew/recipeWhatsNew.jsx:131
+#: assets/build/whatsNew.js:3
+msgid "Documentation"
+msgstr ""
+
+#: assets/admin/components/whatsNew/recipeWhatsNew.jsx:133
+#: assets/build/whatsNew.js:3
+msgid "Roadmap"
+msgstr ""
+
+#: assets/admin/components/whatsNew/recipeWhatsNew.jsx:134
+#: assets/build/whatsNew.js:3
+msgid "Translate"
+msgstr ""
+
+#: assets/admin/components/whatsNew/recipeWhatsNew.jsx:140
+#: assets/build/whatsNew.js:3
+msgid "What's new in Delicious Recipes?"
+msgstr ""
+
+#: assets/admin/components/whatsNew/recipeWhatsNew.jsx:156
+#: assets/build/whatsNew.js:3
+msgid "No changelog present at the moment."
+msgstr ""
+
+#: assets/blocks/common/LayoutOne.js:232
+#: assets/blocks/common/LayoutTwo.js:240
+#: assets/blocks/common/RecipeCard.js:178
+#: assets/build/blocks.js:1
+msgid "Difficulty:"
+msgstr ""
+
+#: assets/blocks/common/LayoutOne.js:241
+#: assets/blocks/common/LayoutTwo.js:249
+#: assets/blocks/common/RecipeCard.js:255
+#: assets/build/blocks.js:1
+msgid "Servings:"
+msgstr ""
+
+#: assets/blocks/common/LayoutOne.js:250
+#: assets/blocks/common/LayoutTwo.js:258
+#: assets/blocks/common/RecipeCard.js:264
+#: assets/build/blocks.js:1
+msgid "Calories:"
+msgstr ""
+
+#: assets/blocks/common/LayoutOne.js:259
+#: assets/blocks/common/LayoutTwo.js:267
+#: assets/blocks/common/RecipeCard.js:273
+#: assets/build/blocks.js:1
+msgid "Best Season:"
+msgstr ""
+
+#: assets/blocks/common/RecipeList.js:104
+#: assets/build/blocks.js:1
+msgid " Comments"
+msgstr ""
+
+#: assets/blocks/details/block.js:33
+#: assets/build/blocks.js:1
+msgid "A block to list the recipe details."
+msgstr ""
+
+#: assets/blocks/details/block.js:40
+#: assets/build/blocks.js:1
+msgid "details"
+msgstr ""
+
+#: assets/blocks/details/block.js:41
+#: assets/blocks/handpicked-recipes/block.js:168
+#: assets/blocks/ingredients/block.js:40
+#: assets/blocks/nutrition/block.js:39
+#: assets/blocks/recipe-by-tax/index.js:40
+#: assets/blocks/recipe-card/block.js:273
+#: assets/build/blocks.js:1
+msgid "delicious"
+msgstr ""
+
+#: assets/blocks/details/block.js:42
+#: assets/blocks/handpicked-recipes/block.js:169
+#: assets/blocks/ingredients/block.js:41
+#: assets/blocks/nutrition/block.js:40
+#: assets/blocks/recipe-by-tax/index.js:41
+#: assets/blocks/recipe-card/block.js:274
+#: assets/build/blocks.js:1
+msgid "recipes"
+msgstr ""
+
+#: assets/blocks/details/block.js:46
+#: assets/blocks/recipe-card-dynamic/block.js:65
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:54
+#: assets/build/blocks.js:1
+msgid "Main"
+msgstr ""
+
+#: assets/blocks/details/block.js:47
+#: assets/blocks/details/Inspector.js:220
+#: assets/blocks/recipe-card-dynamic/block.js:66
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:66
+#: assets/build/blocks.js:1
+msgid "Italian"
+msgstr ""
+
+#: assets/blocks/details/block.js:48
+#: assets/blocks/recipe-card-dynamic/block.js:68
+#: assets/build/blocks.js:1
+msgid "Medium"
+msgstr ""
+
+#: assets/blocks/details/block.js:58
+#: assets/blocks/details/block.js:94
+#: assets/blocks/recipe-card-dynamic/components/DetailItem.js:129
+#: assets/build/blocks.js:1
+msgid "Cooking time"
+msgstr ""
+
+#: assets/blocks/details/block.js:99
+#: assets/build/blocks.js:1
+msgid "Resting time"
+msgstr ""
+
+#: assets/blocks/details/Inspector.js:206
+#: assets/build/blocks.js:1
+msgid "Appetizer & Snacks"
+msgstr ""
+
+#: assets/blocks/details/Inspector.js:207
+#: assets/build/blocks.js:1
+msgid "Breakfast & Brunch"
+msgstr ""
+
+#: assets/blocks/details/Inspector.js:208
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:51
+#: assets/build/blocks.js:1
+msgid "Dessert"
+msgstr ""
+
+#: assets/blocks/details/Inspector.js:209
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:52
+#: assets/build/blocks.js:1
+msgid "Drinks"
+msgstr ""
+
+#: assets/blocks/details/Inspector.js:210
+#: assets/build/blocks.js:1
+msgid "Main Course"
+msgstr ""
+
+#: assets/blocks/details/Inspector.js:211
+#: assets/build/blocks.js:1
+msgid "Salad"
+msgstr ""
+
+#: assets/blocks/details/Inspector.js:212
+#: assets/build/blocks.js:1
+msgid "Soup"
+msgstr ""
+
+#: assets/blocks/details/Inspector.js:216
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:62
+#: assets/build/blocks.js:1
+msgid "American"
+msgstr ""
+
+#: assets/blocks/details/Inspector.js:217
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:63
+#: assets/build/blocks.js:1
+msgid "Chinese"
+msgstr ""
+
+#: assets/blocks/details/Inspector.js:218
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:64
+#: assets/build/blocks.js:1
+msgid "French"
+msgstr ""
+
+#: assets/blocks/details/Inspector.js:219
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:65
+#: assets/build/blocks.js:1
+msgid "Indian"
+msgstr ""
+
+#: assets/blocks/details/Inspector.js:221
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:67
+#: assets/build/blocks.js:1
+msgid "Japanese"
+msgstr ""
+
+#: assets/blocks/details/Inspector.js:222
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:68
+#: assets/build/blocks.js:1
+msgid "Mediterranean"
+msgstr ""
+
+#: assets/blocks/details/Inspector.js:223
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:69
+#: assets/build/blocks.js:1
+msgid "Mexican"
+msgstr ""
+
+#: assets/blocks/details/Inspector.js:224
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:70
+#: assets/build/blocks.js:1
+msgid "Southern"
+msgstr ""
+
+#: assets/blocks/details/Inspector.js:225
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:71
+#: assets/build/blocks.js:1
+msgid "Thai"
+msgstr ""
+
+#: assets/blocks/details/Inspector.js:226
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:72
+#: assets/build/blocks.js:1
+msgid "Other world cuisine"
+msgstr ""
+
+#: assets/blocks/details/Inspector.js:235
+#: assets/build/blocks.js:1
+msgid "Details Settings"
+msgstr ""
+
+#: assets/blocks/details/Inspector.js:239
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:846
+#: assets/build/blocks.js:1
+msgid "Display Difficulty"
+msgstr ""
+
+#: assets/blocks/details/Inspector.js:252
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:859
+#: assets/build/blocks.js:1
+msgid "Difficulty Label"
+msgstr ""
+
+#: assets/blocks/details/Inspector.js:295
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:902
+#: assets/build/blocks.js:1
+msgid "Display Preparation Time"
+msgstr ""
+
+#: assets/blocks/details/Inspector.js:311
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:918
+#: assets/build/blocks.js:1
+msgid "Prep Time Label"
+msgstr ""
+
+#: assets/blocks/details/Inspector.js:332
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:939
+#: assets/build/blocks.js:1
+msgid "Prep Time Value"
+msgstr ""
+
+#: assets/blocks/details/Inspector.js:350
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:957
+#: assets/build/blocks.js:1
+msgid "Display Cooking Time"
+msgstr ""
+
+#: assets/blocks/details/Inspector.js:363
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:970
+#: assets/build/blocks.js:1
+msgid "Cook Time Label"
+msgstr ""
+
+#: assets/blocks/details/Inspector.js:367
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:974
+#: assets/build/blocks.js:1
+#: assets/build/recipe.js:3
+msgid "Cooking Time"
+msgstr ""
+
+#: assets/blocks/details/Inspector.js:384
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:991
+#: assets/build/blocks.js:1
+msgid "Cook Time Value"
+msgstr ""
+
+#: assets/blocks/details/Inspector.js:402
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:1009
+#: assets/build/blocks.js:1
+msgid "Display Resting Time"
+msgstr ""
+
+#: assets/blocks/details/Inspector.js:415
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:1022
+#: assets/build/blocks.js:1
+msgid "Rest Time Label"
+msgstr ""
+
+#: assets/blocks/details/Inspector.js:419
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:1026
+#: assets/build/blocks.js:1
+msgid "Resting Time"
+msgstr ""
+
+#: assets/blocks/details/Inspector.js:436
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:1043
+#: assets/build/blocks.js:1
+msgid "Rest Time Value"
+msgstr ""
+
+#: assets/blocks/details/Inspector.js:454
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:1061
+#: assets/build/blocks.js:1
+msgid "Display Total Time"
+msgstr ""
+
+#: assets/blocks/details/Inspector.js:467
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:1074
+#: assets/build/blocks.js:1
+msgid "Total Time Label"
+msgstr ""
+
+#: assets/blocks/details/Inspector.js:488
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:1095
+#: assets/build/blocks.js:1
+msgid "Total Time Value"
+msgstr ""
+
+#: assets/blocks/details/Inspector.js:512
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:1119
+#: assets/build/blocks.js:1
+msgid "Calculate Total Time"
+msgstr ""
+
+#: assets/blocks/details/Inspector.js:518
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:1125
+#: assets/build/blocks.js:1
+msgid "Default value: prepTime + cookTime + restTime"
+msgstr ""
+
+#: assets/blocks/details/Inspector.js:527
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:1134
+#: assets/build/blocks.js:1
+msgid "Display Servings"
+msgstr ""
+
+#: assets/blocks/details/Inspector.js:540
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:1147
+#: assets/build/blocks.js:1
+msgid "Servings Label"
+msgstr ""
+
+#: assets/blocks/details/Inspector.js:561
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:1168
+#: assets/build/blocks.js:1
+msgid "Servings Value"
+msgstr ""
+
+#: assets/blocks/details/Inspector.js:578
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:1185
+#: assets/build/blocks.js:1
+msgid "Servings Unit"
+msgstr ""
+
+#: assets/blocks/details/Inspector.js:591
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:1198
+#: assets/build/blocks.js:1
+msgid "Display Calories"
+msgstr ""
+
+#: assets/blocks/details/Inspector.js:604
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:1211
+#: assets/build/blocks.js:1
+msgid "Calories Label"
+msgstr ""
+
+#: assets/blocks/details/Inspector.js:625
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:1232
+#: assets/build/blocks.js:1
+msgid "Calories Value"
+msgstr ""
+
+#: assets/blocks/details/Inspector.js:643
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:1250
+#: assets/build/blocks.js:1
+msgid "Display Best Season"
+msgstr ""
+
+#: assets/blocks/details/Inspector.js:656
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:1263
+#: assets/build/blocks.js:1
+msgid "Best Season Label"
+msgstr ""
+
+#: assets/blocks/handpicked-recipes/block.js:160
+#: assets/build/blocks.js:1
+msgid "A block to list the handpicked recipes."
+msgstr ""
+
+#: assets/blocks/handpicked-recipes/block.js:167
+#: assets/build/blocks.js:1
+msgid "handpicked"
+msgstr ""
+
+#: assets/blocks/handpicked-recipes/block.js:192
+#: assets/blocks/recipe-by-tax/index.js:72
+#: assets/blocks/recipe-card/block.js:297
+#: assets/build/blocks.js:1
+msgid "Content of the block"
+msgstr ""
+
+#: assets/blocks/handpicked-recipes/BlockInspectorControls.js:18
+#: assets/build/blocks.js:1
+msgid "Handpicked Recipes Settings"
+msgstr ""
+
+#: assets/blocks/handpicked-recipes/BlockInspectorControls.js:28
+#: assets/blocks/recipe-by-tax/BlockInspectorControls.js:39
+#: assets/blocks/recipe-card/block.js:180
+#: assets/build/blocks.js:1
+msgid "Heading"
+msgstr ""
+
+#: assets/blocks/handpicked-recipes/BlockInspectorControls.js:60
+#: assets/blocks/recipe-by-tax/BlockInspectorControls.js:88
+#: assets/build/blocks.js:1
+msgid "Layout"
+msgstr ""
+
+#: assets/blocks/handpicked-recipes/BlockInspectorControls.js:63
+#: assets/blocks/recipe-by-tax/BlockInspectorControls.js:92
+#: assets/build/blocks.js:1
+#: assets/build/global.js:1
+msgid "Grid View"
+msgstr ""
+
+#: assets/blocks/handpicked-recipes/BlockInspectorControls.js:64
+#: assets/blocks/recipe-by-tax/BlockInspectorControls.js:96
+#: assets/build/blocks.js:1
+#: assets/build/global.js:1
+msgid "List View"
+msgstr ""
+
+#: assets/blocks/ingredients/block.js:31
+#: assets/build/blocks.js:1
+msgid "Recipe Ingredients"
+msgstr ""
+
+#: assets/blocks/ingredients/block.js:32
+#: assets/build/blocks.js:1
+msgid "A block to list the recipe ingredients."
+msgstr ""
+
+#: assets/blocks/ingredients/block.js:39
+#: assets/build/blocks.js:1
+msgid "ingredients"
+msgstr ""
+
+#: assets/blocks/instructions/block.js:31
+#: assets/build/blocks.js:1
+msgid "Recipe Instructions"
+msgstr ""
+
+#: assets/blocks/instructions/block.js:32
+#: assets/build/blocks.js:1
+msgid "A block to list the recipe instructions."
+msgstr ""
+
+#: assets/blocks/instructions/block.js:39
+#: assets/build/blocks.js:1
+msgid "directions"
+msgstr ""
+
+#: assets/blocks/instructions/block.js:40
+#: assets/build/blocks.js:1
+msgid "instructions"
+msgstr ""
+
+#: assets/blocks/instructions/block.js:41
+#: assets/build/blocks.js:1
+msgid "recipe"
+msgstr ""
+
+#: assets/blocks/nutrition/block.js:30
+#: assets/build/blocks.js:1
+msgid "Recipe Nutrition"
+msgstr ""
+
+#: assets/blocks/nutrition/block.js:31
+#: assets/build/blocks.js:1
+msgid "A block to display nutrition facts for your recipe."
+msgstr ""
+
+#: assets/blocks/nutrition/block.js:38
+#: assets/build/blocks.js:1
+msgid "nutrition"
+msgstr ""
+
+#: assets/blocks/nutrition/Nutrition.js:154
+#: assets/build/blocks.js:1
+msgid "%"
+msgstr ""
+
+#: assets/blocks/nutrition/Nutrition.js:255
+#: assets/blocks/nutrition/Nutrition.js:282
+#: assets/blocks/nutrition/Nutrition.js:309
+#: assets/blocks/nutrition/Nutrition.js:403
+#: assets/blocks/nutrition/Nutrition.js:432
+#: assets/blocks/nutrition/Nutrition.js:459
+#: assets/blocks/nutrition/Nutrition.js:474
+#: assets/build/blocks.js:1
+#: assets/build/global.js:3
+msgid "g"
+msgstr ""
+
+#: assets/blocks/nutrition/Nutrition.js:501
+#: assets/build/blocks.js:1
+#: assets/build/recipe.js:3
+msgid "* Percent Daily Values are based on a 2,000 calorie diet. Your daily value may be higher or lower depending on your calorie needs."
+msgstr ""
+
+#: assets/blocks/nutrition/Nutrition.js:533
+#: assets/build/blocks.js:1
+#: assets/build/recipe.js:3
+msgid "Nutrition Information"
+msgstr ""
+
+#: assets/blocks/nutrition/Nutrition.js:536
+#: assets/build/blocks.js:1
+#: assets/build/recipe.js:3
+msgid "Enter nutrition details values for the recipe. A preview of nutrition chart will be shown according to the values."
+msgstr ""
+
+#: assets/blocks/nutrition/Nutrition.js:552
+#: assets/build/blocks.js:1
+msgid "In case you made some changes to Recipe Card, press button to Reload values."
+msgstr ""
+
+#: assets/blocks/nutrition/Nutrition.js:564
+#: assets/build/blocks.js:1
+msgid "Reload Values"
+msgstr ""
+
+#: assets/blocks/recipe-buttons/block.js:32
+#: assets/build/blocks.js:1
+msgid "Recipe Buttons"
+msgstr ""
+
+#: assets/blocks/recipe-buttons/block.js:33
+#: assets/build/blocks.js:1
+msgid "A Jump to Recipe, Jump to Video and Print Recipe button."
+msgstr ""
+
+#: assets/blocks/recipe-buttons/block.js:41
+#: assets/build/blocks.js:1
+msgid "recipe card"
+msgstr ""
+
+#: assets/blocks/recipe-buttons/block.js:42
+#: assets/blocks/recipe-card-dynamic/block.js:51
+#: assets/build/blocks.js:1
+msgid "block recipe card"
+msgstr ""
+
+#: assets/blocks/recipe-buttons/block.js:43
+#: assets/build/blocks.js:1
+msgid "recipes button"
+msgstr ""
+
+#: assets/blocks/recipe-buttons/RecipeButtons.js:87
+#: assets/build/blocks.js:1
+msgid "Recipe Buttons Settings"
+msgstr ""
+
+#: assets/blocks/recipe-buttons/RecipeButtons.js:95
+#: assets/build/blocks.js:1
+msgid "Display Jump to Recipe"
+msgstr ""
+
+#: assets/blocks/recipe-buttons/RecipeButtons.js:109
+#: assets/build/blocks.js:1
+msgid "Jump to Recipes Label"
+msgstr ""
+
+#: assets/blocks/recipe-buttons/RecipeButtons.js:113
+#: assets/build/blocks.js:1
+msgid "Jump to Recipes"
+msgstr ""
+
+#: assets/blocks/recipe-buttons/RecipeButtons.js:129
+#: assets/build/blocks.js:1
+msgid "Display Jump to Video"
+msgstr ""
+
+#: assets/blocks/recipe-buttons/RecipeButtons.js:143
+#: assets/build/blocks.js:1
+msgid "Jump to Video Label"
+msgstr ""
+
+#: assets/blocks/recipe-buttons/RecipeButtons.js:160
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:600
+#: assets/build/blocks.js:1
+msgid "Print Button"
+msgstr ""
+
+#: assets/blocks/recipe-buttons/RecipeButtons.js:163
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:603
+#: assets/build/blocks.js:1
+msgid "Display Print Button"
+msgstr ""
+
+#: assets/blocks/recipe-buttons/RecipeButtons.js:177
+#: assets/build/blocks.js:1
+msgid "Print Recipe Label"
+msgstr ""
+
+#: assets/blocks/recipe-by-tax/BlockInspectorControls.js:31
+#: assets/build/blocks.js:1
+msgid "Recipes by Taxonomy Settings"
+msgstr ""
+
+#: assets/blocks/recipe-by-tax/BlockInspectorControls.js:53
+#: assets/build/blocks.js:1
+msgid "Taxonomy"
+msgstr ""
+
+#: assets/blocks/recipe-by-tax/BlockInspectorControls.js:82
+#: assets/build/blocks.js:1
+msgid "Term"
+msgstr ""
+
+#: assets/blocks/recipe-by-tax/BlockInspectorControls.js:103
+#: assets/build/blocks.js:1
+msgid "No. of recipe to show"
+msgstr ""
+
+#: assets/blocks/recipe-by-tax/index.js:31
+#: assets/build/blocks.js:1
+msgid "Recipes by Taxonomy"
+msgstr ""
+
+#: assets/blocks/recipe-by-tax/index.js:32
+#: assets/build/blocks.js:1
+msgid "A block to list the recipes by taxonomy."
+msgstr ""
+
+#: assets/blocks/recipe-by-tax/index.js:39
+#: assets/build/blocks.js:1
+msgid "taxonomy"
+msgstr ""
+
+#: assets/blocks/recipe-by-tax/index.js:47
+#: assets/build/blocks.js:1
+msgid "Recipes by Type"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/block.js:32
+#: assets/build/blocks.js:1
+msgid "Dynamic Recipe Card"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/block.js:33
+#: assets/build/blocks.js:1
+msgid "Display a Recipe Card box with recipe metadata."
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/block.js:50
+#: assets/build/blocks.js:1
+msgid "dynamic recipe card"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/block.js:52
+#: assets/build/blocks.js:1
+msgid "delicious recipes"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/block.js:56
+#: assets/build/blocks.js:1
+msgid "Your recipe title goes here"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/block.js:67
+#: assets/build/blocks.js:1
+msgid "Frying"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/Direction.js:135
+#: assets/build/blocks.js:1
+msgid "New step added"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/Direction.js:383
+#: assets/build/blocks.js:1
+msgid "Add instruction"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/Direction.js:392
+#: assets/build/blocks.js:1
+msgid "Add instruction section"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/Direction.js:425
+#: assets/build/blocks.js:1
+msgid "Write Instructions title"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/DirectionStep.js:173
+#: assets/build/blocks.js:1
+msgid "Delete step"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/DirectionStep.js:179
+#: assets/build/blocks.js:1
+msgid "Insert step"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/DirectionStep.js:198
+#: assets/build/blocks.js:1
+msgid "Move step up"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/DirectionStep.js:205
+#: assets/build/blocks.js:1
+msgid "Move step down"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/DirectionStep.js:315
+#: assets/build/blocks.js:1
+msgid "Enter instruction description"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/DirectionStep.js:331
+#: assets/blocks/recipe-card-dynamic/components/IngredientItem.js:295
+#: assets/build/blocks.js:1
+msgid "Enter section title"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/Ingredient.js:137
+#: assets/build/blocks.js:1
+msgid "New ingredient added"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/Ingredient.js:208
+#: assets/build/blocks.js:1
+msgid "Ingredient removed"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/Ingredient.js:390
+#: assets/build/blocks.js:1
+msgid "Add ingredient"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/Ingredient.js:399
+#: assets/build/blocks.js:1
+msgid "Add ingredient section"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/Ingredient.js:433
+#: assets/build/blocks.js:1
+msgid "Write Ingredients title"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/IngredientItem.js:169
+#: assets/build/blocks.js:1
+msgid "Delete ingredient"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/IngredientItem.js:175
+#: assets/build/blocks.js:1
+msgid "Insert ingredient"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/IngredientItem.js:194
+#: assets/build/blocks.js:1
+msgid "Move item up"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/IngredientItem.js:201
+#: assets/build/blocks.js:1
+msgid "Move item down"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/IngredientItem.js:279
+#: assets/build/blocks.js:1
+msgid "Enter ingredient name"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:41
+#: assets/blocks/recipe-card-dynamic/components/RecipeCard.js:467
+#: assets/blocks/recipe-card-dynamic/components/RecipeCard.js:484
+#: assets/blocks/recipe-card-dynamic/components/RecipeCard.js:501
+#: assets/blocks/recipe-card-dynamic/components/RecipeCard.js:518
+#: assets/blocks/recipe-card-dynamic/components/RecipeCard.js:682
+#: assets/build/blocks.js:1
+msgid "Not added"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:43
+#: assets/build/blocks.js:1
+msgid "Not displayed"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:47
+#: assets/build/blocks.js:1
+msgid "Appetizers"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:48
+#: assets/build/blocks.js:1
+msgid "Snacks"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:49
+#: assets/build/blocks.js:1
+msgid "Breakfast"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:50
+#: assets/build/blocks.js:1
+msgid "Brunch"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:53
+#: assets/build/blocks.js:1
+msgid "Dinner"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:55
+#: assets/build/blocks.js:1
+msgid "Lunch"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:56
+#: assets/build/blocks.js:1
+msgid "Salads"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:57
+#: assets/build/blocks.js:1
+msgid "Sides"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:58
+#: assets/build/blocks.js:1
+msgid "Soups"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:76
+#: assets/build/blocks.js:1
+msgid "Sautéing"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:77
+#: assets/build/blocks.js:1
+msgid "Stir-frying"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:78
+#: assets/build/blocks.js:1
+msgid "Searing"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:79
+#: assets/build/blocks.js:1
+msgid "Braising"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:80
+#: assets/build/blocks.js:1
+msgid "Stewing"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:81
+#: assets/build/blocks.js:1
+msgid "Steaming"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:82
+#: assets/build/blocks.js:1
+msgid "Baking"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:83
+#: assets/build/blocks.js:1
+msgid "Roasting"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:84
+#: assets/build/blocks.js:1
+msgid "Broiling"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:85
+#: assets/build/blocks.js:1
+msgid "Grilling"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:92
+#: assets/build/blocks.js:1
+msgid "Vegetarian"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:504
+#: assets/blocks/recipe-card/block.js:170
+#: assets/build/blocks.js:1
+msgid "Recipe Card Settings"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:509
+#: assets/build/blocks.js:1
+msgid "Recipe Card Image (required)"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:513
+#: assets/build/blocks.js:1
+msgid "Upload image for Recipe Card."
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:528
+#: assets/build/blocks.js:1
+msgid "Add Recipe Image"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:577
+#: assets/build/blocks.js:1
+msgid "Replace Image"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:589
+#: assets/build/blocks.js:1
+msgid "Remove Recipe Image"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:615
+#: assets/build/blocks.js:1
+msgid "Pinterest Button"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:618
+#: assets/build/blocks.js:1
+msgid "Display Pinterest Button"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:634
+#: assets/build/blocks.js:1
+msgid "Display Author"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:645
+#: assets/build/blocks.js:1
+msgid "Custom author name"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:649
+#: assets/build/blocks.js:1
+msgid "Default: Post author name"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:668
+#: assets/build/blocks.js:1
+msgid "Recipe Card SEO Settings"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:672
+#: assets/build/blocks.js:1
+msgid "Course (required)"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:673
+#: assets/build/blocks.js:1
+msgid "The post category is added by default."
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:679
+#: assets/build/blocks.js:1
+msgid "Display Course"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:687
+#: assets/build/blocks.js:1
+msgid "Add course"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:693
+#: assets/build/blocks.js:1
+msgid "Type course and press Enter"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:702
+#: assets/build/blocks.js:1
+msgid "Cuisine (required)"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:705
+#: assets/build/blocks.js:1
+msgid "Display Cuisine"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:713
+#: assets/build/blocks.js:1
+msgid "Add cuisine"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:719
+#: assets/build/blocks.js:1
+msgid "Type cuisine and press Enter"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:728
+#: assets/build/blocks.js:1
+msgid "Cooking Method (required)"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:734
+#: assets/build/blocks.js:1
+msgid "Display Cooking Method"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:748
+#: assets/build/blocks.js:1
+msgid "Add method"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:754
+#: assets/build/blocks.js:1
+msgid "Type cooking method and press Enter"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:763
+#: assets/build/blocks.js:1
+msgid "Recipe Key (required)"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:766
+#: assets/build/blocks.js:1
+msgid "Display Recipe Key"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:780
+#: assets/build/blocks.js:1
+msgid "Add recipe keys"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:789
+#: assets/build/blocks.js:1
+msgid "Type recipe keys and press Enter"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:798
+#: assets/build/blocks.js:1
+msgid "Keywords (recommended)"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:802
+#: assets/build/blocks.js:1
+msgid "For multiple keywords add `,` after each keyword (ex: keyword, keyword, keyword). Note: The post tags is added by default."
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:808
+#: assets/build/blocks.js:1
+msgid "Add keywords"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:814
+#: assets/build/blocks.js:1
+msgid "Type recipe keywords"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:824
+#: assets/build/blocks.js:1
+msgid "Recipe Card Details"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:838
+#: assets/build/blocks.js:1
+msgid "The following details are used for Schema Markup (Rich Snippets). If you want to hide some details in the post, just turn them off below."
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:1301
+#: assets/build/blocks.js:1
+msgid "Structured Data Testing"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:1305
+#: assets/build/blocks.js:1
+msgid "Automatically check Structured Data errors and warnings."
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:1313
+#: assets/build/blocks.js:1
+msgid "Please enter value for required fields: "
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:1324
+#: assets/build/blocks.js:1
+msgid "We recommend to add value for following fields: "
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:1336
+#: assets/build/blocks.js:1
+msgid "We recommend to display following fields: "
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/Inspector.js:1599
+#: assets/build/blocks.js:1
+msgid "Steps"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/RecipeCard.js:369
+#: assets/build/blocks.js:1
+msgid "Recipe Image"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/RecipeCard.js:373
+#: assets/build/blocks.js:1
+msgid "Select an image file from your library."
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/RecipeCard.js:387
+#: assets/build/blocks.js:1
+msgid "Media Library"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/RecipeCard.js:440
+#: assets/build/blocks.js:1
+msgid "Enter the title of your recipe."
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/RecipeCard.js:546
+#: assets/build/blocks.js:1
+msgid "Write Summary title"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/RecipeCard.js:566
+#: assets/build/blocks.js:1
+msgid "Enter a short recipe description."
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/RecipeCard.js:596
+#: assets/build/blocks.js:1
+msgid "Write Recipe Video title"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/RecipeCard.js:605
+#: assets/build/blocks.js:1
+msgid "You can add a video here from Recipe Card Video Settings in the right sidebar"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/RecipeCard.js:609
+#: assets/blocks/recipe-card-dynamic/components/VideoUpload.js:262
+#: assets/build/blocks.js:1
+msgid "Recipe Card Video"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/RecipeCard.js:648
+#: assets/build/blocks.js:1
+msgid "Write Notes title"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/RecipeCard.js:665
+#: assets/build/blocks.js:1
+msgid "Enter Note text for your recipe."
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/RecipeCard.js:671
+#: assets/build/blocks.js:1
+msgid "Press Enter to add new note."
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/VideoUpload.js:156
+#: assets/build/blocks.js:1
+msgid "Note: Many browsers can only autoplay the videos with sound off, so you'll need to enable muted attribute to the video too."
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/VideoUpload.js:257
+#: assets/build/blocks.js:1
+msgid "Recipe Card Video Settings"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/VideoUpload.js:285
+#: assets/build/blocks.js:1
+msgid "Edit URL"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/VideoUpload.js:298
+#: assets/build/blocks.js:1
+msgid "Apply"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/VideoUpload.js:312
+#: assets/blocks/recipe-card-dynamic/components/VideoUpload.js:348
+#: assets/build/blocks.js:1
+msgid "Remove Recipe Video"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/VideoUpload.js:336
+#: assets/build/blocks.js:1
+msgid "Replace Video"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/VideoUpload.js:356
+#: assets/build/blocks.js:1
+msgid "Autoplay"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/VideoUpload.js:362
+#: assets/build/blocks.js:1
+msgid "Loop"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/VideoUpload.js:367
+#: assets/build/blocks.js:1
+msgid "Muted"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/VideoUpload.js:372
+#: assets/build/blocks.js:1
+msgid "Playback Controls"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/VideoUpload.js:381
+#: assets/build/blocks.js:1
+msgid "Video Poster"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/VideoUpload.js:395
+#: assets/build/blocks.js:1
+msgid "Replace Poster"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/VideoUpload.js:399
+#: assets/build/blocks.js:1
+msgid "Select Poster Image"
+msgstr ""
+
+#: assets/blocks/recipe-card-dynamic/components/VideoUpload.js:412
+#: assets/build/blocks.js:1
+msgid "Remove Poster Image"
+msgstr ""
+
+#: assets/blocks/recipe-card/block.js:198
+#: assets/build/blocks.js:1
+msgid "Recipe"
+msgstr ""
+
+#: assets/blocks/recipe-card/block.js:243
+#: assets/build/blocks.js:1
+msgid "Please Select the recipe for recipe card."
+msgstr ""
+
+#: assets/blocks/recipe-card/block.js:268
+#: assets/build/blocks.js:1
+msgid "A block to show recipe card."
+msgstr ""
+
+#: assets/blocks/recipe-card/block.js:272
+#: assets/build/blocks.js:1
+msgid "recipecard"
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Global Settings"
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Recipe Page"
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Recipe Per Page"
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Enter number of recipes to show per page."
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Select the number of recipes to display per page. Set default via the Settings > Reading panel."
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Show Nutrition Facts"
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "This option will enable/disable the nutrition facts on the recipe post."
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Nutrition Facts Text"
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Enter nutrition facts label"
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Add the default label for Nutrition Facts."
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Daily Value Disclaimer"
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Daily Value Disclaimer text here..."
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Add the default daily value disclaimer for the nutrition facts chart."
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Display Nutrition Facts in Standard mode."
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "By default, the nutrition chart is displayed in primary color. Enable this option to switch to\tstandard color mode."
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Display Nutrition with 0 values"
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Enable this option to display the nutrition with 0 value. If the nutrition field is blank, it will not show that nutrition."
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Enter custom URL structure for your Recipe Course Base. Default, recipe-course."
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Enter custom URL structure for your Recipe Badge Base. Default, recipe-badge."
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Print Recipe Button"
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Enable this option to allow readers to print the recipes."
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Print Recipe Button Text"
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Enter Recipe print button text"
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "This is the text that will be displayed on Print Recipe Button."
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Print Options"
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Allow Users To Customize"
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Enable this option if you want your readers to enable/disable information in the print template."
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Default Print Options"
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Select the default Print Option settings."
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Embed Recipe Link"
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "This will add the recipe URL in the print template."
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Recipe Link Label"
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Enter recipe link label"
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Enter the recipe URL to display in the print template."
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Display Social Sharing Info"
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "This option will embed the social sharing information. Only works, if you have configured the Social Sharing Settings."
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Embed Author Information"
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "This option will add a short information about you. Please make sure that you have configured Author Settings."
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Thank You Message"
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Enter Thankyou Message here.."
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "The Thank You Message will be added at the end of your print template."
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Upload Your Logo"
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Upload your logo to display in the print template. Leave it blank, if you don't want to display in the template."
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Choose Image"
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Add/replace Image"
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Numeric"
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Infinite"
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Enable Archive Header"
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Enable this option to display header on archive pages. Disable this option if your theme already contains headers."
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Default Archive Layout"
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Select the default archive view for recipe listings."
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Pagination Style"
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Select the pagination style for recipe listings."
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Recipe Archive Title"
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Enter recipe archive title text"
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "This is the text that will be displayed on Recipe Archive Title."
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Archive Description"
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Recipe Archive Description here..."
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Enter Recipe Archive description."
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Recipe Taxonomy Subtitle"
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Enter title for the terms box in taxonomy archive page templates."
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "This is the default label on recipe archive page templates such as recipe keys, courses, cooking methods etc."
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Enable Recipe Details Header"
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Enable this option to display recipe title <H1> and metas in recipe single page."
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Enable Recipe Featured Image"
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Enable this option to display recipe featured image, before recipe card, in recipe single page."
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Ingredient line format"
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Enter recipe ingredient format string"
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Enter recipe string text format for ingredient on recipe single page. Available Tags: {qty} : Quantity, {unit} : Ingredient unit, {ingredient} : Ingredient name, {notes} : Ingredient notes."
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Global Recipe Toggles"
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "You can quickly hide or show different recipe elements (site-wide) with these checkboxes."
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Click on the pencil icon to edit the default text."
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Enter label"
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Recipe Navigation"
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Enable this option to display Previous/Next navigation on your recipe posts."
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Display Powered By"
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Enable this option to display the Powered by Delicious Recipes on your recipe posts."
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Affiliate Link"
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Enter the URL for Affiliate Signup."
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Sign up for the affiliate program <a target=\"_blank\" href=%s>here</a>."
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Display Recipe Author"
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Enable this option to display the recipe author below the post title."
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Display Recipe Published Date"
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Enable this option to display the recipe published date."
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Display Comments"
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Enable this option to display the comment section for your recipe posts."
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Single Recipe Image Crop"
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Enable this option to auto crop featured image in recipe single."
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Recipe Archive Image Crop"
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Enable this option to auto crop featured image in recipe home, archive and search pages."
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Enable Pinit Button"
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Enable this option to display Pinit button in recipe, archive and search pages."
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Enable Ratings"
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Enable this option to allow your readers to rate your recipes."
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Default Rating Label"
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Enter the label for the rating section."
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Enter the default rating label."
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Select a page to display recipe search results. The [recipe_search] shortcode must be on this page."
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Show Search Bar"
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Enable this option to display the search form on the search page."
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Search Filter Fields"
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Select the fields that you want to display in the search filters."
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Default Filter Labels"
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Add the default label text for the search filters."
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Enter seatch filter label"
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Enable Social Share Options"
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Enable this option to allow Social Sharing."
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Social Share Title"
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Enter the social share title"
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Enter the title text to show on the recipe social share section."
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Enter text for social share.."
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Enter the content for the social share. The content section will be displayed on the recipe single page."
+msgstr ""
+
+#: assets/build/global.js:1
+#: assets/build/recipe.js:1
+msgid "Choose Images"
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Custom Icons"
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Upload your custom icon(s) to choose for the Taxonomy Icons. Recommended format is PNG of size 40x40px."
+msgstr ""
+
+#: assets/build/global.js:1
+msgid "Add Custom Icon(s)"
+msgstr ""
+
+#. translators: placeholder here is the max file upload size
+#: assets/build/global.js:3
+msgid "Max. file size %s Supports: PNG, JPEG"
+msgstr ""
+
+#. translators: placeholder here is the max file upload size
+#: assets/build/global.js:3
+msgid "Custom Units"
+msgstr ""
+
+#: assets/build/global.js:3
+msgid "Enter the custom quantity units for your ingredients."
+msgstr ""
+
+#: assets/build/global.js:3
+#: assets/build/recipe.js:3
+msgid "Unit"
+msgstr ""
+
+#: assets/build/global.js:3
+msgid "Singular"
+msgstr ""
+
+#: assets/build/global.js:3
+msgid "Singular abbr"
+msgstr ""
+
+#: assets/build/global.js:3
+msgid "Plural"
+msgstr ""
+
+#: assets/build/global.js:3
+msgid "Plural abbr"
+msgstr ""
+
+#: assets/build/global.js:3
+msgid "Add Custom Unit"
+msgstr ""
+
+#: assets/build/global.js:3
+msgid "Disable FontAwesome Icons JS"
+msgstr ""
+
+#: assets/build/global.js:3
+msgid "Enable this option if you are having icon conflicts ( fontawesome icons not shown ) with other plugins. If checked, FontAwesome icons JS SVG replacement will be disabled."
+msgstr ""
+
+#: assets/build/global.js:3
+msgid "Are you sure to delete the custom unit?"
+msgstr ""
+
+#: assets/build/global.js:3
+msgid "User Dashboard Settings"
+msgstr ""
+
+#: assets/build/global.js:3
+msgid "Recipe Dashboard Page"
+msgstr ""
+
+#: assets/build/global.js:3
+msgid "Select a page to display recipe dashboard. The [dr_user_dashboard] shortcode must be on this page."
+msgstr ""
+
+#: assets/build/global.js:3
+msgid "User Registration"
+msgstr ""
+
+#: assets/build/global.js:3
+msgid "Enable this option to allow user registration on the 'Recipe Dashboard' page."
+msgstr ""
+
+#: assets/build/global.js:3
+msgid "Generate Username"
+msgstr ""
+
+#: assets/build/global.js:3
+msgid "Enable this option to allow automatic generation of username from user email."
+msgstr ""
+
+#: assets/build/global.js:3
+msgid "Generate Password"
+msgstr ""
+
+#: assets/build/global.js:3
+msgid "Enable this option to allow automatic generation of user password."
+msgstr ""
+
+#: assets/build/global.js:3
+msgid "Terms and Conditions"
+msgstr ""
+
+#: assets/build/global.js:3
+msgid "Enable this option to require terms and conditions in Registration form."
+msgstr ""
+
+#: assets/build/global.js:3
+msgid "Terms and Conditions Message"
+msgstr ""
+
+#: assets/build/global.js:3
+msgid "Enter Terms and Conditions here.."
+msgstr ""
+
+#: assets/build/global.js:3
+msgid "Upload Your Login Form Photo"
+msgstr ""
+
+#: assets/build/global.js:3
+msgid "Upload your photo to display in the Login Form. Leave it blank, if you want to display the default image."
+msgstr ""
+
+#: assets/build/global.js:3
+msgid "Upload Your Registration Form Photo"
+msgstr ""
+
+#: assets/build/global.js:3
+msgid "Upload your photo to display in the Registration Form. Leave it blank, if you want to display the default image."
+msgstr ""
+
+#: assets/build/onboard.js:5
+msgid "Finish"
+msgstr ""
+
+#: assets/build/onboard.js:5
+msgid "Next Step"
+msgstr ""
+
+#: assets/build/recipe.js:1
+msgid "invalid URL supplied."
+msgstr ""
+
+#: assets/build/recipe.js:1
+msgid "No URL supplied. Please enter valid YouTube or Vimeo URL."
+msgstr ""
+
+#: assets/build/recipe.js:1
+msgid "Enable Video Gallery"
+msgstr ""
+
+#: assets/build/recipe.js:1
+msgid "Add YouTube or Vimeo video URLs"
+msgstr ""
+
+#: assets/build/recipe.js:1
+msgid "Enter YouTube/Vimeo video URL."
+msgstr ""
+
+#: assets/build/recipe.js:1
+#: assets/build/recipe.js:3
+msgid "Add Video"
+msgstr ""
+
+#: assets/build/recipe.js:1
+msgid "Enable Image Gallery"
+msgstr ""
+
+#: assets/build/recipe.js:1
+msgid "Add New Image"
+msgstr ""
+
+#. translators: placeholder here is the max file upload size
+#: assets/build/recipe.js:3
+msgid "Max. file size %s Supports: JPG, PNG"
+msgstr ""
+
+#: assets/build/recipe.js:3
+msgid " hour(s) "
+msgstr ""
+
+#: assets/build/recipe.js:3
+msgid " minute(s)."
+msgstr ""
+
+#: assets/build/recipe.js:3
+msgid "Minutes"
+msgstr ""
+
+#: assets/build/recipe.js:3
+msgid "Hours"
+msgstr ""
+
+#: assets/build/recipe.js:3
+msgid "Recipe Subtitle"
+msgstr ""
+
+#: assets/build/recipe.js:3
+msgid "Enter text for recipe subtitle"
+msgstr ""
+
+#: assets/build/recipe.js:3
+msgid "Enter the subtitle text for the recipe. The text will be displayed below recipe title."
+msgstr ""
+
+#: assets/build/recipe.js:3
+msgid "Recipe Description"
+msgstr ""
+
+#: assets/build/recipe.js:3
+msgid "Enter text for recipe description"
+msgstr ""
+
+#: assets/build/recipe.js:3
+msgid "Enter the description text for the recipe. The text will be displayed in recipe card section."
+msgstr ""
+
+#: assets/build/recipe.js:3
+msgid "Recipe Keywords"
+msgstr ""
+
+#: assets/build/recipe.js:3
+msgid "Enter comma separated recipe keywords. The keywords will be used in recipe card and for SEO Schema."
+msgstr ""
+
+#: assets/build/recipe.js:3
+msgid "Difficulty Level"
+msgstr ""
+
+#: assets/build/recipe.js:3
+msgid "Select Difficulty Level"
+msgstr ""
+
+#: assets/build/recipe.js:3
+msgid "Select the difficulty level for this recipe."
+msgstr ""
+
+#: assets/build/recipe.js:3
+msgid "Preparation Time"
+msgstr ""
+
+#: assets/build/recipe.js:3
+msgid "Enter the preperation time ( number ) for the recipe and choose desired unit."
+msgstr ""
+
+#: assets/build/recipe.js:3
+msgid "Enter the cooking time ( number ) for the recipe and choose desired unit."
+msgstr ""
+
+#: assets/build/recipe.js:3
+msgid "Enter the rest time ( number ) for the recipe and choose desired unit."
+msgstr ""
+
+#: assets/build/recipe.js:3
+msgid "Total Duration:"
+msgstr ""
+
+#: assets/build/recipe.js:3
+msgid "Eg. 120 kcal"
+msgstr ""
+
+#: assets/build/recipe.js:3
+msgid "Enter number of calories for this recipe."
+msgstr ""
+
+#: assets/build/recipe.js:3
+msgid "Select best season for the recipe"
+msgstr ""
+
+#: assets/build/recipe.js:3
+msgid "Select the available seasons for the recipe."
+msgstr ""
+
+#: assets/build/recipe.js:3
+msgid "Add Ingredient Section"
+msgstr ""
+
+#: assets/build/recipe.js:3
+msgid "Sure to delete the ingredient section? This action cannot be reverted."
+msgstr ""
+
+#: assets/build/recipe.js:3
+msgid "Enter the title for recipe ingredients section."
+msgstr ""
+
+#: assets/build/recipe.js:3
+msgid "Quantity"
+msgstr ""
+
+#: assets/build/recipe.js:3
+msgid "Ingredient"
+msgstr ""
+
+#: assets/build/recipe.js:3
+msgid "Add Ingredient"
+msgstr ""
+
+#: assets/build/recipe.js:3
+msgid "Grams"
+msgstr ""
+
+#: assets/build/recipe.js:3
+msgid "Kilograms"
+msgstr ""
+
+#: assets/build/recipe.js:3
+msgid "Milligrams"
+msgstr ""
+
+#: assets/build/recipe.js:3
+msgid "Ounces"
+msgstr ""
+
+#: assets/build/recipe.js:3
+msgid "Fluid ounces"
+msgstr ""
+
+#: assets/build/recipe.js:3
+msgid "Cups"
+msgstr ""
+
+#: assets/build/recipe.js:3
+msgid "Teaspoons"
+msgstr ""
+
+#: assets/build/recipe.js:3
+msgid "Tablespoons"
+msgstr ""
+
+#: assets/build/recipe.js:3
+msgid "Milliliters"
+msgstr ""
+
+#: assets/build/recipe.js:3
+msgid "Liters"
+msgstr ""
+
+#: assets/build/recipe.js:3
+msgid "Sticks"
+msgstr ""
+
+#: assets/build/recipe.js:3
+msgid "Pounds"
+msgstr ""
+
+#: assets/build/recipe.js:3
+msgid "Dashes"
+msgstr ""
+
+#: assets/build/recipe.js:3
+msgid "Drops"
+msgstr ""
+
+#: assets/build/recipe.js:3
+msgid "Gallons"
+msgstr ""
+
+#: assets/build/recipe.js:3
+msgid "Pinches"
+msgstr ""
+
+#: assets/build/recipe.js:3
+msgid "Pints"
+msgstr ""
+
+#: assets/build/recipe.js:3
+msgid "Quarts"
+msgstr ""
+
+#: assets/build/recipe.js:3
+msgid "Enter Quantity"
+msgstr ""
+
+#: assets/build/recipe.js:3
+msgid "Select a Unit"
+msgstr ""
+
+#: assets/build/recipe.js:3
+msgid "Ingredient name"
+msgstr ""
+
+#: assets/build/recipe.js:3
+msgid "Ingredient notes"
+msgstr ""
+
+#: assets/build/recipe.js:3
+msgid "Sure to delete the ingredient?"
+msgstr ""
+
+#: assets/build/recipe.js:3
+msgid "Clove"
+msgstr ""
+
+#: assets/build/recipe.js:3
+msgid "Jar"
+msgstr ""
+
+#: assets/build/recipe.js:3
+msgid "Can"
+msgstr ""
+
+#: assets/build/recipe.js:3
+msgid "Ingredients section repeater content. Enter ingredients in the section below."
+msgstr ""
+
+#: assets/build/recipe.js:3
+msgid "No. Of Servings"
+msgstr ""
+
+#: assets/build/recipe.js:3
+msgid "Enter no. of servings value for this recipe."
+msgstr ""
+
+#: assets/build/recipe.js:3
+msgid "Enter the number of Servings for the recipe."
+msgstr ""
+
+#: assets/build/recipe.js:3
+msgid "Ingredient Title"
+msgstr ""
+
+#: assets/build/recipe.js:3
+msgid "Ingredient section title"
+msgstr ""
+
+#: assets/build/recipe.js:3
+msgid "Enter title for the Ingredient section."
+msgstr ""
+
+#: assets/build/recipe.js:3
+msgid "Enter instructions section title"
+msgstr ""
+
+#: assets/build/recipe.js:3
+msgid "Enter title for the Instruction section."
+msgstr ""
+
+#: assets/build/recipe.js:3
+msgid "You can add the instructions sections and related contents for the recipe."
+msgstr ""
+
+#: assets/build/recipe.js:3
+msgid "Add Instruction Section"
+msgstr ""
+
+#: assets/build/recipe.js:3
+msgid "Sure to delete the instruction section? This action cannot be reverted."
+msgstr ""
+
+#: assets/build/recipe.js:3
+msgid "Enter instructions section title here"
+msgstr ""
+
+#: assets/build/recipe.js:3
+msgid "Instruction Title"
+msgstr ""
+
+#: assets/build/recipe.js:3
+msgid "Enter the title of the instruction."
+msgstr ""
+
+#: assets/build/recipe.js:3
+msgid "Instruction"
+msgstr ""
+
+#: assets/build/recipe.js:3
+msgid "Enter recipe instruction description here."
+msgstr ""
+
+#: assets/build/recipe.js:3
+msgid "Sure to delete the instruction? This action cannot be reverted."
+msgstr ""
+
+#: assets/build/recipe.js:3
+msgid "Add Notes"
+msgstr ""
+
+#: assets/build/recipe.js:3
+msgid "Video URL (YouTube or Vimeo)"
+msgstr ""
+
+#: assets/build/recipe.js:3
+msgid "Enter YouTube or Vimeo video URL."
+msgstr ""
+
+#: assets/build/recipe.js:3
+msgid "Enter recipe instruction notes"
+msgstr ""
+
+#: assets/build/recipe.js:3
+msgid "Add Instruction"
+msgstr ""
+
+#: assets/build/recipe.js:3
+msgid "Recipe Notes"
+msgstr ""
+
+#: assets/build/recipe.js:3
+msgid "Enter text for recipe notes."
+msgstr ""
+
+#: assets/build/recipe.js:3
+msgid "Enter the notes for the recipe. The text will be displayed below recipe card section."
+msgstr ""
+
+#: assets/build/recipe.js:3
+msgid "Recipe settings saved successfully !!"
+msgstr ""
+
+#: assets/build/recipe.js:3
+msgid "Recipe settings has been changed. Please save the changes from Recipe Settings section before updating the recipe."
+msgstr ""

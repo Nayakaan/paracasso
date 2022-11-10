@@ -1,0 +1,3073 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Makeover Assistance\n"
+"POT-Creation-Date: 2020-10-20 21:26+0600\n"
+"PO-Revision-Date: 2020-10-20 21:26+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: makeover-assistance.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: makeover-assistance.php:168
+msgid "0 View"
+msgstr ""
+
+#: makeover-assistance.php:168
+msgid " Views"
+msgstr ""
+
+#: inc/elementor/controls/tw-icon.php:1785
+#: inc/elementor/controls/tw-icon.php:1786
+msgid "Select Icon"
+msgstr ""
+
+#: inc/elementor/style/post/style1.php:50
+#: inc/elementor/style/post/style2.php:52
+msgid "0 Comments"
+msgstr ""
+
+#: inc/elementor/style/post/style1.php:50
+#: inc/elementor/style/post/style2.php:52
+msgid "1 Comment"
+msgstr ""
+
+#: inc/elementor/style/post/style1.php:50
+#: inc/elementor/style/post/style2.php:52
+msgid "Comments"
+msgstr ""
+
+#: inc/elementor/style/product-gallery/style3.php:16
+#: inc/elementor/tw-case-grid.php:87 inc/elementor/tw-case-grid.php:201
+msgid "All"
+msgstr ""
+
+#: inc/elementor/style/product-gallery/style5.php:4
+msgid "New"
+msgstr ""
+
+#: inc/elementor/style/product-gallery/style5.php:5
+#: inc/elementor/tw-pricing.php:371
+msgid "Featured"
+msgstr ""
+
+#: inc/elementor/style/product-gallery/style5.php:6
+msgid "Sale"
+msgstr ""
+
+#: inc/elementor/style/product-gallery/style5.php:7
+msgid "Popular"
+msgstr ""
+
+#: inc/elementor/style/product-gallery/style5.php:8
+msgid "Best Seller"
+msgstr ""
+
+#: inc/elementor/style/product-gallery/style5.php:9
+msgid "Top Rated"
+msgstr ""
+
+#: inc/elementor/style/product-gallery/style5.php:10
+#: inc/elementor/tw-case-grid.php:149 inc/elementor/tw-case-slide.php:167
+#: inc/elementor/tw-latest-blog.php:187 inc/elementor/tw-services.php:82
+#: inc/elementor/tw-team.php:159 inc/widgets/tw-recentpost-widgets.php:109
+msgid "Random"
+msgstr ""
+
+#: inc/elementor/tw-about-img.php:15
+msgid "About Image"
+msgstr ""
+
+#: inc/elementor/tw-about-img.php:30 inc/elementor/tw-about-img.php:36
+#: inc/elementor/tw-icon-box.php:53 inc/elementor/tw-image-box.php:35
+#: inc/elementor/tw-product-gallery.php:45
+#: inc/elementor/tw-stratch-image.php:30 inc/elementor/tw-stratch-image.php:36
+msgid "Image"
+msgstr ""
+
+#: inc/elementor/tw-about-img.php:38 inc/elementor/tw-image-box.php:37
+#: inc/elementor/tw-stratch-image.php:38
+msgid "Upload image here."
+msgstr ""
+
+#: inc/elementor/tw-about-img.php:44 inc/elementor/tw-services.php:31
+msgid "Style"
+msgstr ""
+
+#: inc/elementor/tw-about-img.php:48
+msgid "With Video BTN"
+msgstr ""
+
+#: inc/elementor/tw-about-img.php:49
+msgid "With Exp Label"
+msgstr ""
+
+#: inc/elementor/tw-about-img.php:56
+msgid "Video URL"
+msgstr ""
+
+#: inc/elementor/tw-about-img.php:58
+msgid "Insert your video embed url here."
+msgstr ""
+
+#: inc/elementor/tw-about-img.php:73 inc/elementor/tw-pricing.php:197
+#: inc/elementor/tw-team.php:277
+msgid "BTN Label"
+msgstr ""
+
+#: inc/elementor/tw-about-img.php:75
+msgid "Insert your video play button label."
+msgstr ""
+
+#: inc/elementor/tw-about-img.php:76 inc/elementor/tw-about-img.php:360
+msgid "Play"
+msgstr ""
+
+#: inc/elementor/tw-about-img.php:91 inc/elementor/tw-about-img.php:114
+msgid "Years of Experience"
+msgstr ""
+
+#: inc/elementor/tw-about-img.php:111
+msgid "Experience Label"
+msgstr ""
+
+#: inc/elementor/tw-about-img.php:113
+msgid "Insert experience label."
+msgstr ""
+
+#: inc/elementor/tw-about-img.php:130
+#: inc/elementor/tw-post-featured-image.php:106
+#: inc/elementor/tw-testimonial.php:209
+msgid "Image Styling"
+msgstr ""
+
+#: inc/elementor/tw-about-img.php:137 inc/elementor/tw-about-img.php:305
+#: inc/elementor/tw-button.php:216 inc/elementor/tw-case-slide.php:223
+#: inc/elementor/tw-icon-box.php:483 inc/elementor/tw-icon-box.php:605
+#: inc/elementor/tw-image-box.php:123 inc/elementor/tw-product-gallery.php:289
+#: inc/elementor/tw-services.php:255 inc/elementor/tw-testimonial.php:260
+msgid "Border Radius"
+msgstr ""
+
+#: inc/elementor/tw-about-img.php:149 inc/elementor/tw-about-img.php:298
+#: inc/elementor/tw-case-slide.php:278 inc/elementor/tw-case-slide.php:325
+#: inc/elementor/tw-icon-box.php:227 inc/elementor/tw-icon-box.php:283
+#: inc/elementor/tw-product-gallery.php:338
+#: inc/elementor/tw-product-gallery.php:381 inc/elementor/tw-services.php:307
+#: inc/elementor/tw-services.php:352 inc/elementor/tw-testimonial.php:190
+msgid "Box Shadow"
+msgstr ""
+
+#: inc/elementor/tw-about-img.php:157
+msgid "Video BTN Styling"
+msgstr ""
+
+#: inc/elementor/tw-about-img.php:174 inc/elementor/tw-accordion.php:135
+#: inc/elementor/tw-button.php:107 inc/elementor/tw-clients-slider.php:145
+#: inc/elementor/tw-clients-slider.php:272
+#: inc/elementor/tw-clients-slider.php:413
+#: inc/elementor/tw-contact-form.php:224 inc/elementor/tw-icon-box.php:203
+#: inc/elementor/tw-icon-box.php:392 inc/elementor/tw-icon-box.php:536
+#: inc/elementor/tw-icon-box.php:795 inc/elementor/tw-icon.php:112
+#: inc/elementor/tw-latest-blog.php:240 inc/elementor/tw-latest-blog.php:381
+#: inc/elementor/tw-mailchimp-form.php:144 inc/elementor/tw-pricing.php:286
+#: inc/elementor/tw-pricing.php:570 inc/elementor/tw-quote-form.php:483
+#: inc/elementor/tw-team.php:479 inc/elementor/tw-team.php:633
+#: inc/elementor/tw-testimonial.php:399 inc/elementor/tw-testimonial.php:539
+msgid "Normal"
+msgstr ""
+
+#: inc/elementor/tw-about-img.php:180 inc/elementor/tw-about-img.php:227
+#: inc/elementor/tw-icon-box.php:407 inc/elementor/tw-icon-box.php:441
+#: inc/elementor/tw-icon.php:125 inc/elementor/tw-icon.php:174
+msgid "Icon BG Color"
+msgstr ""
+
+#: inc/elementor/tw-about-img.php:190 inc/elementor/tw-about-img.php:237
+#: inc/elementor/tw-accordion.php:149 inc/elementor/tw-accordion.php:184
+#: inc/elementor/tw-accordion.php:219 inc/elementor/tw-icon-box.php:396
+#: inc/elementor/tw-icon-box.php:430 inc/elementor/tw-icon.php:116
+#: inc/elementor/tw-icon.php:165
+msgid "Icon Color"
+msgstr ""
+
+#: inc/elementor/tw-about-img.php:200 inc/elementor/tw-about-img.php:247
+msgid "Label BG Color"
+msgstr ""
+
+#: inc/elementor/tw-about-img.php:210 inc/elementor/tw-about-img.php:257
+#: inc/elementor/tw-about-img.php:326 inc/elementor/tw-button.php:113
+#: inc/elementor/tw-mailchimp-form.php:150
+#: inc/elementor/tw-timer-counter.php:175
+#: inc/elementor/tw-timer-counter.php:215
+msgid "Label Color"
+msgstr ""
+
+#: inc/elementor/tw-about-img.php:221 inc/elementor/tw-accordion.php:170
+#: inc/elementor/tw-button.php:134 inc/elementor/tw-clients-slider.php:192
+#: inc/elementor/tw-clients-slider.php:315
+#: inc/elementor/tw-clients-slider.php:446
+#: inc/elementor/tw-contact-form.php:281 inc/elementor/tw-icon-box.php:259
+#: inc/elementor/tw-icon-box.php:426 inc/elementor/tw-icon-box.php:559
+#: inc/elementor/tw-icon-box.php:817 inc/elementor/tw-icon.php:161
+#: inc/elementor/tw-latest-blog.php:283 inc/elementor/tw-latest-blog.php:414
+#: inc/elementor/tw-mailchimp-form.php:171 inc/elementor/tw-pricing.php:595
+#: inc/elementor/tw-quote-form.php:507 inc/elementor/tw-team.php:522
+#: inc/elementor/tw-team.php:666 inc/elementor/tw-testimonial.php:442
+#: inc/elementor/tw-testimonial.php:564
+msgid "Hover"
+msgstr ""
+
+#: inc/elementor/tw-about-img.php:271
+msgid "Exp Box Styling"
+msgstr ""
+
+#: inc/elementor/tw-about-img.php:287
+msgid "BG"
+msgstr ""
+
+#: inc/elementor/tw-about-img.php:316
+msgid "Years Color"
+msgstr ""
+
+#: inc/elementor/tw-about-img.php:336 inc/elementor/tw-testimonial.php:173
+msgid "Area Styling"
+msgstr ""
+
+#: inc/elementor/tw-about-img.php:343
+#: inc/elementor/tw-post-featured-image.php:177
+#: inc/elementor/tw-quote-form.php:159
+msgid "Area Margin"
+msgstr ""
+
+#: inc/elementor/tw-accordion.php:15 inc/elementor/tw-accordion.php:29
+msgid "Makeover Accordion"
+msgstr ""
+
+#: inc/elementor/tw-accordion.php:36 inc/elementor/tw-accordion.php:38
+msgid "Accordion Title"
+msgstr ""
+
+#: inc/elementor/tw-accordion.php:40
+msgid "Insert accordion title"
+msgstr ""
+
+#: inc/elementor/tw-accordion.php:46
+msgid "Accordion Content"
+msgstr ""
+
+#: inc/elementor/tw-accordion.php:48
+msgid "Insert accordion content here."
+msgstr ""
+
+#: inc/elementor/tw-accordion.php:49
+msgid "Insert accordion content"
+msgstr ""
+
+#: inc/elementor/tw-accordion.php:55 inc/elementor/tw-work-process.php:69
+msgid "Accordion Item"
+msgstr ""
+
+#: inc/elementor/tw-accordion.php:73 inc/elementor/tw-work-process.php:87
+msgid "Accordion Card Style"
+msgstr ""
+
+#: inc/elementor/tw-accordion.php:80
+msgid "Card Margin"
+msgstr ""
+
+#: inc/elementor/tw-accordion.php:92
+msgid "Card Border"
+msgstr ""
+
+#: inc/elementor/tw-accordion.php:100
+msgid "Card Shadow"
+msgstr ""
+
+#: inc/elementor/tw-accordion.php:108
+msgid "Card Head Style"
+msgstr ""
+
+#: inc/elementor/tw-accordion.php:116
+msgid "Card Heading Typo"
+msgstr ""
+
+#: inc/elementor/tw-accordion.php:123
+msgid "Card Heading Padding"
+msgstr ""
+
+#: inc/elementor/tw-accordion.php:140 inc/elementor/tw-accordion.php:175
+#: inc/elementor/tw-accordion.php:210 inc/elementor/tw-image-box.php:182
+#: inc/elementor/tw-work-process.php:147
+msgid "Heading Color"
+msgstr ""
+
+#: inc/elementor/tw-accordion.php:159 inc/elementor/tw-accordion.php:194
+#: inc/elementor/tw-accordion.php:229
+msgid "Heading BG"
+msgstr ""
+
+#: inc/elementor/tw-accordion.php:205
+msgid "Active"
+msgstr ""
+
+#: inc/elementor/tw-accordion.php:242
+msgid "Card Body Style"
+msgstr ""
+
+#: inc/elementor/tw-accordion.php:250
+msgid "Card Global Typo"
+msgstr ""
+
+#: inc/elementor/tw-accordion.php:256
+msgid "Card Global Color"
+msgstr ""
+
+#: inc/elementor/tw-accordion.php:267
+msgid "Card Headings Typo"
+msgstr ""
+
+#: inc/elementor/tw-accordion.php:273
+msgid "Card Headings Color"
+msgstr ""
+
+#: inc/elementor/tw-accordion.php:288
+msgid "Card Body Padding"
+msgstr ""
+
+#: inc/elementor/tw-blockquote.php:15
+msgid "Blockquote"
+msgstr ""
+
+#: inc/elementor/tw-blockquote.php:30
+msgid "Blockquote Settings"
+msgstr ""
+
+#: inc/elementor/tw-blockquote.php:36
+msgid "Quote"
+msgstr ""
+
+#: inc/elementor/tw-blockquote.php:40
+msgid "Insert blockquote content here."
+msgstr ""
+
+#: inc/elementor/tw-blockquote.php:46
+msgid "Author"
+msgstr ""
+
+#: inc/elementor/tw-blockquote.php:50
+msgid "Insert blockquote author name here."
+msgstr ""
+
+#: inc/elementor/tw-blockquote.php:57 inc/elementor/tw-quote-form.php:113
+msgid "Area Style"
+msgstr ""
+
+#: inc/elementor/tw-blockquote.php:65
+msgid "Area Background"
+msgstr ""
+
+#: inc/elementor/tw-blockquote.php:74
+#: inc/elementor/tw-post-featured-image.php:124
+msgid "Area Border"
+msgstr ""
+
+#: inc/elementor/tw-blockquote.php:81 inc/elementor/tw-quote-form.php:148
+msgid "Area Padding"
+msgstr ""
+
+#: inc/elementor/tw-blockquote.php:92
+msgid "Area Margins"
+msgstr ""
+
+#: inc/elementor/tw-blockquote.php:103
+msgid "Quote Style"
+msgstr ""
+
+#: inc/elementor/tw-blockquote.php:109
+msgid "Quote Color"
+msgstr ""
+
+#: inc/elementor/tw-blockquote.php:120 inc/elementor/tw-testimonial.php:300
+msgid "Quote Typography"
+msgstr ""
+
+#: inc/elementor/tw-blockquote.php:127
+msgid "Quote Margins"
+msgstr ""
+
+#: inc/elementor/tw-blockquote.php:140
+msgid "Author Style"
+msgstr ""
+
+#: inc/elementor/tw-blockquote.php:146
+msgid "Author Color"
+msgstr ""
+
+#: inc/elementor/tw-blockquote.php:157
+msgid "Author Typography"
+msgstr ""
+
+#: inc/elementor/tw-blockquote.php:164
+msgid "Author Margins"
+msgstr ""
+
+#: inc/elementor/tw-button.php:14
+msgid "Makeover Button"
+msgstr ""
+
+#: inc/elementor/tw-button.php:26
+msgid "Makeover Button "
+msgstr ""
+
+#: inc/elementor/tw-button.php:31 inc/elementor/tw-image-box.php:70
+msgid "Button Label"
+msgstr ""
+
+#: inc/elementor/tw-button.php:35
+msgid "Inser Button Label"
+msgstr ""
+
+#: inc/elementor/tw-button.php:41
+msgid "Button Icon"
+msgstr ""
+
+#: inc/elementor/tw-button.php:49 inc/elementor/tw-button.php:266
+msgid "Icon Position"
+msgstr ""
+
+#: inc/elementor/tw-button.php:53 inc/elementor/tw-button.php:78
+#: inc/elementor/tw-free-call.php:65 inc/elementor/tw-funfact.php:57
+#: inc/elementor/tw-headings.php:59 inc/elementor/tw-hr.php:79
+#: inc/elementor/tw-icon-box.php:141 inc/elementor/tw-icon-box.php:172
+#: inc/elementor/tw-image-box.php:96 inc/elementor/tw-notes.php:64
+#: inc/elementor/tw-pricing.php:224 inc/elementor/tw-services.php:220
+#: inc/elementor/tw-stratch-image.php:49 inc/elementor/tw-sub-title.php:54
+#: inc/elementor/tw-testimonial.php:105 inc/elementor/tw-text.php:47
+msgid "Left"
+msgstr ""
+
+#: inc/elementor/tw-button.php:54 inc/elementor/tw-button.php:86
+#: inc/elementor/tw-free-call.php:73 inc/elementor/tw-funfact.php:65
+#: inc/elementor/tw-headings.php:67 inc/elementor/tw-hr.php:87
+#: inc/elementor/tw-icon-box.php:149 inc/elementor/tw-icon-box.php:176
+#: inc/elementor/tw-image-box.php:104 inc/elementor/tw-notes.php:72
+#: inc/elementor/tw-pricing.php:232 inc/elementor/tw-services.php:228
+#: inc/elementor/tw-stratch-image.php:50 inc/elementor/tw-sub-title.php:62
+#: inc/elementor/tw-testimonial.php:113 inc/elementor/tw-text.php:55
+msgid "Right"
+msgstr ""
+
+#: inc/elementor/tw-button.php:60 inc/elementor/tw-notes.php:46
+msgid "URL"
+msgstr ""
+
+#: inc/elementor/tw-button.php:63 inc/elementor/tw-clients-slider.php:108
+#: inc/elementor/tw-icon-box.php:126 inc/elementor/tw-image-box.php:81
+#: inc/elementor/tw-notes.php:49 inc/elementor/tw-pricing.php:209
+#: inc/elementor/tw-team.php:302
+msgid "https://your-link.com"
+msgstr ""
+
+#: inc/elementor/tw-button.php:74 inc/elementor/tw-free-call.php:60
+#: inc/elementor/tw-funfact.php:53 inc/elementor/tw-headings.php:55
+#: inc/elementor/tw-hr.php:75 inc/elementor/tw-image-box.php:92
+#: inc/elementor/tw-notes.php:60 inc/elementor/tw-services.php:216
+#: inc/elementor/tw-sub-title.php:50 inc/elementor/tw-text.php:42
+msgid "Alignment"
+msgstr ""
+
+#: inc/elementor/tw-button.php:82 inc/elementor/tw-free-call.php:69
+#: inc/elementor/tw-funfact.php:61 inc/elementor/tw-headings.php:63
+#: inc/elementor/tw-hr.php:83 inc/elementor/tw-icon-box.php:145
+#: inc/elementor/tw-image-box.php:100 inc/elementor/tw-notes.php:68
+#: inc/elementor/tw-pricing.php:228 inc/elementor/tw-services.php:224
+#: inc/elementor/tw-sub-title.php:58 inc/elementor/tw-testimonial.php:109
+#: inc/elementor/tw-text.php:51
+msgid "Center"
+msgstr ""
+
+#: inc/elementor/tw-button.php:99 inc/elementor/tw-contact-form.php:208
+#: inc/elementor/tw-mailchimp-form.php:136
+msgid "Button Style"
+msgstr ""
+
+#: inc/elementor/tw-button.php:123 inc/elementor/tw-case-slide.php:257
+#: inc/elementor/tw-case-slide.php:304 inc/elementor/tw-case-slide.php:430
+#: inc/elementor/tw-case-slide.php:448 inc/elementor/tw-product-gallery.php:319
+#: inc/elementor/tw-product-gallery.php:362
+#: inc/elementor/tw-product-gallery.php:481
+#: inc/elementor/tw-product-gallery.php:498 inc/elementor/tw-services.php:287
+#: inc/elementor/tw-services.php:332 inc/elementor/tw-services.php:452
+#: inc/elementor/tw-services.php:469
+msgid "BG Color"
+msgstr ""
+
+#: inc/elementor/tw-button.php:140 inc/elementor/tw-mailchimp-form.php:177
+msgid "Label Hover Color"
+msgstr ""
+
+#: inc/elementor/tw-button.php:150
+msgid "BG Hover Color"
+msgstr ""
+
+#: inc/elementor/tw-button.php:162 inc/elementor/tw-hr.php:31
+#: inc/elementor/tw-icon.php:60 inc/elementor/tw-testimonial.php:216
+msgid "Width"
+msgstr ""
+
+#: inc/elementor/tw-button.php:185 inc/elementor/tw-icon.php:86
+#: inc/elementor/tw-testimonial.php:238
+msgid "Height"
+msgstr ""
+
+#: inc/elementor/tw-button.php:209 inc/elementor/tw-quote-form.php:478
+msgid "Button Typography"
+msgstr ""
+
+#: inc/elementor/tw-button.php:227 inc/elementor/tw-icon-box.php:340
+#: inc/elementor/tw-mailchimp-form.php:122 inc/elementor/tw-skill-bar.php:73
+#: inc/elementor/tw-skill-bar.php:206
+msgid "Paddings"
+msgstr ""
+
+#: inc/elementor/tw-button.php:238 inc/elementor/tw-free-call.php:158
+#: inc/elementor/tw-quote-form.php:616 inc/elementor/tw-testimonial.php:271
+#: inc/elementor/tw-testimonial.php:343 inc/elementor/tw-testimonial.php:379
+msgid "Margin"
+msgstr ""
+
+#: inc/elementor/tw-button.php:251 inc/elementor/tw-icon-box.php:367
+#: inc/elementor/tw-icon.php:44
+msgid "Icon Style"
+msgstr ""
+
+#: inc/elementor/tw-button.php:259 inc/elementor/tw-icon-box.php:385
+#: inc/elementor/tw-icon.php:53
+msgid "Icon Typography"
+msgstr ""
+
+#: inc/elementor/tw-button.php:278
+msgid "Icon Margin"
+msgstr ""
+
+#: inc/elementor/tw-button.php:293
+msgid "Click Me"
+msgstr ""
+
+#: inc/elementor/tw-case-grid.php:15 inc/elementor/tw-case-grid.php:44
+msgid "Portfolio Grid"
+msgstr ""
+
+#: inc/elementor/tw-case-grid.php:35 inc/elementor/tw-latest-blog.php:35
+#: inc/elementor/tw-product-gallery.php:35
+msgid "All Category"
+msgstr ""
+
+#: inc/elementor/tw-case-grid.php:50 inc/elementor/tw-latest-blog.php:50
+msgid "Specific Category"
+msgstr ""
+
+#: inc/elementor/tw-case-grid.php:52 inc/elementor/tw-latest-blog.php:52
+msgid "Select category to show specific category items."
+msgstr ""
+
+#: inc/elementor/tw-case-grid.php:61 inc/elementor/tw-case-slide.php:68
+#: inc/elementor/tw-latest-blog.php:61
+msgid "Featured Only?"
+msgstr ""
+
+#: inc/elementor/tw-case-grid.php:63 inc/elementor/tw-case-slide.php:70
+#: inc/elementor/tw-case-slide.php:82 inc/elementor/tw-case-slide.php:94
+#: inc/elementor/tw-case-slide.php:106 inc/elementor/tw-case-slide.php:139
+#: inc/elementor/tw-clients-slider.php:39
+#: inc/elementor/tw-clients-slider.php:51
+#: inc/elementor/tw-clients-slider.php:63
+#: inc/elementor/tw-clients-slider.php:75 inc/elementor/tw-latest-blog.php:63
+#: inc/elementor/tw-latest-blog.php:87 inc/elementor/tw-latest-blog.php:108
+#: inc/elementor/tw-latest-blog.php:129 inc/elementor/tw-latest-blog.php:150
+#: inc/elementor/tw-mailchimp-form.php:55
+#: inc/elementor/tw-post-featured-image.php:38 inc/elementor/tw-pricing.php:37
+#: inc/elementor/tw-pricing.php:67 inc/elementor/tw-product-gallery.php:169
+#: inc/elementor/tw-product-gallery.php:190
+#: inc/elementor/tw-product-gallery.php:211
+#: inc/elementor/tw-product-gallery.php:232 inc/elementor/tw-quote-form.php:85
+#: inc/elementor/tw-services.php:45 inc/elementor/tw-services.php:135
+#: inc/elementor/tw-services.php:156 inc/elementor/tw-services.php:177
+#: inc/elementor/tw-services.php:198 inc/elementor/tw-sub-title.php:41
+#: inc/elementor/tw-team.php:58 inc/elementor/tw-team.php:70
+#: inc/elementor/tw-team.php:91 inc/elementor/tw-team.php:112
+#: inc/elementor/tw-team.php:133 inc/elementor/tw-team.php:192
+#: inc/elementor/tw-testimonial.php:126 inc/elementor/tw-testimonial.php:138
+#: inc/elementor/tw-testimonial.php:150 inc/elementor/tw-testimonial.php:162
+#: inc/elementor/tw-work-process.php:59
+msgid "Yes"
+msgstr ""
+
+#: inc/elementor/tw-case-grid.php:64 inc/elementor/tw-case-slide.php:71
+#: inc/elementor/tw-case-slide.php:83 inc/elementor/tw-case-slide.php:95
+#: inc/elementor/tw-case-slide.php:107 inc/elementor/tw-case-slide.php:140
+#: inc/elementor/tw-clients-slider.php:40
+#: inc/elementor/tw-clients-slider.php:52
+#: inc/elementor/tw-clients-slider.php:64
+#: inc/elementor/tw-clients-slider.php:76 inc/elementor/tw-latest-blog.php:64
+#: inc/elementor/tw-latest-blog.php:88 inc/elementor/tw-latest-blog.php:109
+#: inc/elementor/tw-latest-blog.php:130 inc/elementor/tw-latest-blog.php:151
+#: inc/elementor/tw-mailchimp-form.php:56
+#: inc/elementor/tw-post-featured-image.php:39 inc/elementor/tw-pricing.php:38
+#: inc/elementor/tw-pricing.php:68 inc/elementor/tw-product-gallery.php:170
+#: inc/elementor/tw-product-gallery.php:191
+#: inc/elementor/tw-product-gallery.php:212
+#: inc/elementor/tw-product-gallery.php:233 inc/elementor/tw-quote-form.php:86
+#: inc/elementor/tw-services.php:46 inc/elementor/tw-services.php:136
+#: inc/elementor/tw-services.php:157 inc/elementor/tw-services.php:178
+#: inc/elementor/tw-services.php:199 inc/elementor/tw-sub-title.php:42
+#: inc/elementor/tw-team.php:59 inc/elementor/tw-team.php:71
+#: inc/elementor/tw-team.php:92 inc/elementor/tw-team.php:113
+#: inc/elementor/tw-team.php:134 inc/elementor/tw-team.php:193
+#: inc/elementor/tw-testimonial.php:127 inc/elementor/tw-testimonial.php:139
+#: inc/elementor/tw-testimonial.php:151 inc/elementor/tw-testimonial.php:163
+#: inc/elementor/tw-work-process.php:60
+msgid "No"
+msgstr ""
+
+#: inc/elementor/tw-case-grid.php:65 inc/elementor/tw-case-slide.php:72
+#: inc/elementor/tw-latest-blog.php:65
+msgid "Do you want to show featured Posts only? Then please turn it to yes."
+msgstr ""
+
+#: inc/elementor/tw-case-grid.php:73
+msgid "Is Filter?"
+msgstr ""
+
+#: inc/elementor/tw-case-grid.php:75 inc/elementor/tw-case-grid.php:96
+#: inc/elementor/tw-google-map.php:69 inc/elementor/tw-pricing.php:173
+msgid "Show"
+msgstr ""
+
+#: inc/elementor/tw-case-grid.php:76 inc/elementor/tw-case-grid.php:97
+#: inc/elementor/tw-google-map.php:70 inc/elementor/tw-pricing.php:174
+msgid "Hide"
+msgstr ""
+
+#: inc/elementor/tw-case-grid.php:84
+msgid "All Label"
+msgstr ""
+
+#: inc/elementor/tw-case-grid.php:86
+msgid "Insert \"All\" link label here."
+msgstr ""
+
+#: inc/elementor/tw-case-grid.php:94
+msgid "Is Masonry?"
+msgstr ""
+
+#: inc/elementor/tw-case-grid.php:105 inc/elementor/tw-product-gallery.php:154
+msgid "Column Per Row"
+msgstr ""
+
+#: inc/elementor/tw-case-grid.php:107
+msgid "Select how many column you want to show per row."
+msgstr ""
+
+#: inc/elementor/tw-case-grid.php:110 inc/elementor/tw-product-gallery.php:157
+msgid "3 Column"
+msgstr ""
+
+#: inc/elementor/tw-case-grid.php:111 inc/elementor/tw-product-gallery.php:158
+msgid "4 Column"
+msgstr ""
+
+#: inc/elementor/tw-case-grid.php:118
+msgid "Item Style"
+msgstr ""
+
+#: inc/elementor/tw-case-grid.php:120
+msgid "Select your portfolio item view style"
+msgstr ""
+
+#: inc/elementor/tw-case-grid.php:123 inc/elementor/tw-case-slide.php:50
+#: inc/elementor/tw-icon-box.php:39 inc/elementor/tw-services.php:35
+msgid "Style 01"
+msgstr ""
+
+#: inc/elementor/tw-case-grid.php:124 inc/elementor/tw-case-slide.php:51
+#: inc/elementor/tw-icon-box.php:40 inc/elementor/tw-services.php:36
+msgid "Style 02"
+msgstr ""
+
+#: inc/elementor/tw-case-grid.php:131 inc/elementor/tw-case-slide.php:149
+#: inc/elementor/tw-latest-blog.php:169
+#: inc/elementor/tw-product-gallery.php:142 inc/elementor/tw-services.php:64
+msgid "Number Of Item"
+msgstr ""
+
+#: inc/elementor/tw-case-grid.php:142 inc/elementor/tw-case-slide.php:161
+#: inc/elementor/tw-latest-blog.php:181 inc/elementor/tw-services.php:76
+#: inc/elementor/tw-team.php:152
+msgid "Order By"
+msgstr ""
+
+#: inc/elementor/tw-case-grid.php:146 inc/elementor/tw-team.php:156
+#: inc/widgets/tw-recentpost-widgets.php:107
+msgid "ID"
+msgstr ""
+
+#: inc/elementor/tw-case-grid.php:147 inc/elementor/tw-case-slide.php:165
+#: inc/elementor/tw-latest-blog.php:185 inc/elementor/tw-services.php:80
+#: inc/elementor/tw-team.php:158 inc/widgets/tw-recentpost-widgets.php:106
+msgid "Date"
+msgstr ""
+
+#: inc/elementor/tw-case-grid.php:148 inc/elementor/tw-case-slide.php:166
+#: inc/elementor/tw-latest-blog.php:186 inc/elementor/tw-services.php:81
+#: inc/elementor/tw-team.php:157 inc/elementor/tw-team.php:255
+#: inc/widgets/tw-gallery-widgets.php:58 inc/widgets/tw-mchimp-widgets.php:63
+#: inc/widgets/tw-recentpost-widgets.php:108
+msgid "Title"
+msgstr ""
+
+#: inc/elementor/tw-case-grid.php:156 inc/elementor/tw-case-slide.php:174
+#: inc/elementor/tw-latest-blog.php:195 inc/elementor/tw-services.php:89
+#: inc/elementor/tw-team.php:166
+msgid "Order"
+msgstr ""
+
+#: inc/elementor/tw-case-grid.php:160 inc/elementor/tw-case-slide.php:178
+#: inc/elementor/tw-latest-blog.php:199 inc/elementor/tw-services.php:93
+#: inc/elementor/tw-team.php:170
+msgid "Ascending"
+msgstr ""
+
+#: inc/elementor/tw-case-grid.php:161 inc/elementor/tw-case-slide.php:179
+#: inc/elementor/tw-latest-blog.php:200 inc/elementor/tw-services.php:94
+#: inc/elementor/tw-team.php:171
+msgid "Descending"
+msgstr ""
+
+#: inc/elementor/tw-case-grid.php:168 inc/elementor/tw-case-slide.php:186
+msgid "Description Length"
+msgstr ""
+
+#: inc/elementor/tw-case-grid.php:179 inc/elementor/tw-case-slide.php:197
+#: inc/elementor/tw-icon-box.php:115 inc/elementor/tw-latest-blog.php:207
+#: inc/elementor/tw-services.php:113
+msgid "Read More Label"
+msgstr ""
+
+#: inc/elementor/tw-case-grid.php:181 inc/elementor/tw-case-grid.php:204
+#: inc/elementor/tw-case-slide.php:199 inc/elementor/tw-case-slide.php:481
+#: inc/elementor/tw-icon-box.php:117 inc/elementor/tw-latest-blog.php:209
+#: inc/elementor/tw-latest-blog.php:498 inc/elementor/tw-services.php:115
+#: inc/elementor/tw-services.php:491
+msgid "Read More"
+msgstr ""
+
+#: inc/elementor/tw-case-grid.php:182 inc/elementor/tw-case-slide.php:200
+msgid "Insert your read more button label here."
+msgstr ""
+
+#: inc/elementor/tw-case-meta.php:15
+msgid "Case Meta"
+msgstr ""
+
+#: inc/elementor/tw-case-meta.php:29
+#: inc/elementor/tw-post-details-gallery.php:15
+#: inc/elementor/tw-post-details-gallery.php:29
+msgid "Post Details Gallery"
+msgstr ""
+
+#: inc/elementor/tw-case-meta.php:35
+#: inc/elementor/tw-post-featured-image.php:48
+msgid "Important Note"
+msgstr ""
+
+#: inc/elementor/tw-case-meta.php:37
+msgid ""
+"Please use this only for case details page. And esch time insert only 3 "
+"items."
+msgstr ""
+
+#: inc/elementor/tw-case-meta.php:44 inc/elementor/tw-case-meta.php:66
+msgid "Meta Title"
+msgstr ""
+
+#: inc/elementor/tw-case-meta.php:46
+msgid "Meta Name"
+msgstr ""
+
+#: inc/elementor/tw-case-meta.php:52 inc/elementor/tw-case-meta.php:54
+#: inc/elementor/tw-case-meta.php:67
+msgid "Meta Value"
+msgstr ""
+
+#: inc/elementor/tw-case-meta.php:61
+msgid "Meta List"
+msgstr ""
+
+#: inc/elementor/tw-case-slide.php:14 inc/elementor/tw-case-slide.php:40
+msgid "Portfolio Slider"
+msgstr ""
+
+#: inc/elementor/tw-case-slide.php:32
+msgid "All Categories"
+msgstr ""
+
+#: inc/elementor/tw-case-slide.php:46 inc/elementor/tw-latest-blog.php:73
+#: inc/elementor/tw-team.php:32
+msgid "View Style"
+msgstr ""
+
+#: inc/elementor/tw-case-slide.php:58
+msgid "Categories"
+msgstr ""
+
+#: inc/elementor/tw-case-slide.php:80 inc/elementor/tw-clients-slider.php:37
+#: inc/elementor/tw-latest-blog.php:85 inc/elementor/tw-product-gallery.php:167
+#: inc/elementor/tw-services.php:133 inc/elementor/tw-team.php:68
+#: inc/elementor/tw-testimonial.php:124
+msgid "Is Autoplay?"
+msgstr ""
+
+#: inc/elementor/tw-case-slide.php:84 inc/elementor/tw-clients-slider.php:41
+#: inc/elementor/tw-latest-blog.php:89 inc/elementor/tw-product-gallery.php:171
+#: inc/elementor/tw-services.php:137 inc/elementor/tw-team.php:72
+#: inc/elementor/tw-testimonial.php:128
+msgid "Do you want to make this slider auto play?"
+msgstr ""
+
+#: inc/elementor/tw-case-slide.php:92 inc/elementor/tw-clients-slider.php:49
+#: inc/elementor/tw-latest-blog.php:106
+#: inc/elementor/tw-product-gallery.php:188 inc/elementor/tw-services.php:154
+#: inc/elementor/tw-team.php:89 inc/elementor/tw-testimonial.php:136
+msgid "Is Loop?"
+msgstr ""
+
+#: inc/elementor/tw-case-slide.php:96 inc/elementor/tw-clients-slider.php:53
+#: inc/elementor/tw-latest-blog.php:110
+#: inc/elementor/tw-product-gallery.php:192 inc/elementor/tw-services.php:158
+#: inc/elementor/tw-team.php:93 inc/elementor/tw-testimonial.php:140
+msgid "Do you want to make this slider item loop?"
+msgstr ""
+
+#: inc/elementor/tw-case-slide.php:104 inc/elementor/tw-clients-slider.php:61
+#: inc/elementor/tw-latest-blog.php:127
+#: inc/elementor/tw-product-gallery.php:209 inc/elementor/tw-services.php:175
+#: inc/elementor/tw-team.php:110 inc/elementor/tw-testimonial.php:148
+msgid "Is Nav?"
+msgstr ""
+
+#: inc/elementor/tw-case-slide.php:108 inc/elementor/tw-clients-slider.php:65
+#: inc/elementor/tw-latest-blog.php:131
+#: inc/elementor/tw-product-gallery.php:213 inc/elementor/tw-services.php:179
+#: inc/elementor/tw-team.php:114 inc/elementor/tw-testimonial.php:152
+msgid "Do you want to show slider arrow navigation?"
+msgstr ""
+
+#: inc/elementor/tw-case-slide.php:116
+msgid "Nav Position"
+msgstr ""
+
+#: inc/elementor/tw-case-slide.php:120
+msgid "In Top Right"
+msgstr ""
+
+#: inc/elementor/tw-case-slide.php:121 inc/elementor/tw-stratch-image.php:48
+msgid "Default"
+msgstr ""
+
+#: inc/elementor/tw-case-slide.php:137 inc/elementor/tw-clients-slider.php:73
+#: inc/elementor/tw-latest-blog.php:148
+#: inc/elementor/tw-product-gallery.php:230 inc/elementor/tw-services.php:196
+#: inc/elementor/tw-team.php:131 inc/elementor/tw-testimonial.php:160
+msgid "Is Dots?"
+msgstr ""
+
+#: inc/elementor/tw-case-slide.php:141 inc/elementor/tw-clients-slider.php:77
+#: inc/elementor/tw-latest-blog.php:152
+#: inc/elementor/tw-product-gallery.php:234 inc/elementor/tw-services.php:200
+#: inc/elementor/tw-team.php:135 inc/elementor/tw-testimonial.php:164
+msgid "Do you want to show slider bullets item?"
+msgstr ""
+
+#: inc/elementor/tw-case-slide.php:155 inc/elementor/tw-latest-blog.php:175
+#: inc/elementor/tw-services.php:70
+msgid "How many item you want to show."
+msgstr ""
+
+#: inc/elementor/tw-case-slide.php:207 inc/elementor/tw-product-gallery.php:273
+#: inc/elementor/tw-services.php:239
+msgid "Nav Style"
+msgstr ""
+
+#: inc/elementor/tw-case-slide.php:239 inc/elementor/tw-product-gallery.php:303
+#: inc/elementor/tw-services.php:270
+msgid "Arrow BTN Normal"
+msgstr ""
+
+#: inc/elementor/tw-case-slide.php:245 inc/elementor/tw-case-slide.php:292
+#: inc/elementor/tw-free-call.php:136 inc/elementor/tw-headings.php:84
+#: inc/elementor/tw-icon-box.php:799 inc/elementor/tw-icon-box.php:821
+#: inc/elementor/tw-lists.php:62 inc/elementor/tw-product-gallery.php:309
+#: inc/elementor/tw-product-gallery.php:352 inc/elementor/tw-quote-form.php:596
+#: inc/elementor/tw-services.php:276 inc/elementor/tw-services.php:321
+#: inc/elementor/tw-sub-title.php:79 inc/elementor/tw-testimonial.php:325
+#: inc/elementor/tw-testimonial.php:361 inc/elementor/tw-text.php:74
+msgid "Color"
+msgstr ""
+
+#: inc/elementor/tw-case-slide.php:270 inc/elementor/tw-case-slide.php:317
+#: inc/elementor/tw-clients-slider.php:184
+#: inc/elementor/tw-clients-slider.php:231
+#: inc/elementor/tw-clients-slider.php:307
+#: inc/elementor/tw-clients-slider.php:350
+#: inc/elementor/tw-clients-slider.php:438
+#: inc/elementor/tw-clients-slider.php:472 inc/elementor/tw-latest-blog.php:275
+#: inc/elementor/tw-latest-blog.php:318 inc/elementor/tw-latest-blog.php:406
+#: inc/elementor/tw-latest-blog.php:440
+#: inc/elementor/tw-product-gallery.php:330
+#: inc/elementor/tw-product-gallery.php:373 inc/elementor/tw-services.php:299
+#: inc/elementor/tw-services.php:344 inc/elementor/tw-team.php:514
+#: inc/elementor/tw-team.php:557 inc/elementor/tw-team.php:658
+#: inc/elementor/tw-team.php:692 inc/elementor/tw-testimonial.php:434
+#: inc/elementor/tw-testimonial.php:477 inc/elementor/tw-testimonial.php:556
+#: inc/elementor/tw-testimonial.php:582
+msgid "Border"
+msgstr ""
+
+#: inc/elementor/tw-case-slide.php:286 inc/elementor/tw-product-gallery.php:346
+#: inc/elementor/tw-services.php:315
+msgid "Arrow BTN Hover"
+msgstr ""
+
+#: inc/elementor/tw-case-slide.php:335
+msgid "Dots Style"
+msgstr ""
+
+#: inc/elementor/tw-case-slide.php:351 inc/elementor/tw-product-gallery.php:406
+#: inc/elementor/tw-services.php:377
+msgid "Bullets Area Margin"
+msgstr ""
+
+#: inc/elementor/tw-case-slide.php:363 inc/elementor/tw-product-gallery.php:417
+#: inc/elementor/tw-services.php:388
+msgid "Bullets Width"
+msgstr ""
+
+#: inc/elementor/tw-case-slide.php:386 inc/elementor/tw-product-gallery.php:439
+#: inc/elementor/tw-services.php:410
+msgid "Bullets Height"
+msgstr ""
+
+#: inc/elementor/tw-case-slide.php:409 inc/elementor/tw-product-gallery.php:461
+#: inc/elementor/tw-services.php:432
+msgid "Bullets Border Radius"
+msgstr ""
+
+#: inc/elementor/tw-case-slide.php:424 inc/elementor/tw-product-gallery.php:475
+#: inc/elementor/tw-services.php:446
+msgid "Bullets Normal"
+msgstr ""
+
+#: inc/elementor/tw-case-slide.php:442 inc/elementor/tw-product-gallery.php:492
+#: inc/elementor/tw-services.php:463
+msgid "Bullets Hover"
+msgstr ""
+
+#: inc/elementor/tw-clients-slider.php:15
+msgid "Client Logo Slider"
+msgstr ""
+
+#: inc/elementor/tw-clients-slider.php:30
+#: inc/elementor/tw-clients-slider.php:98
+#: inc/elementor/tw-clients-slider.php:120
+msgid "Client Logo"
+msgstr ""
+
+#: inc/elementor/tw-clients-slider.php:85
+msgid "Items Gapping"
+msgstr ""
+
+#: inc/elementor/tw-clients-slider.php:91
+msgid "Insert items gapping if you want."
+msgstr ""
+
+#: inc/elementor/tw-clients-slider.php:100
+msgid "Upload your client logo."
+msgstr ""
+
+#: inc/elementor/tw-clients-slider.php:105
+msgid "Client URL"
+msgstr ""
+
+#: inc/elementor/tw-clients-slider.php:125
+#: inc/elementor/tw-clients-slider.php:126
+msgid "Single Client"
+msgstr ""
+
+#: inc/elementor/tw-clients-slider.php:137
+msgid "Item Styling"
+msgstr ""
+
+#: inc/elementor/tw-clients-slider.php:151
+#: inc/elementor/tw-clients-slider.php:198
+msgid "IMG Opacity"
+msgstr ""
+
+#: inc/elementor/tw-clients-slider.php:165
+#: inc/elementor/tw-clients-slider.php:212
+msgid "Item BG Color"
+msgstr ""
+
+#: inc/elementor/tw-clients-slider.php:176
+#: inc/elementor/tw-clients-slider.php:223
+#: inc/elementor/tw-clients-slider.php:299
+#: inc/elementor/tw-clients-slider.php:342 inc/elementor/tw-latest-blog.php:267
+#: inc/elementor/tw-latest-blog.php:310 inc/elementor/tw-team.php:506
+#: inc/elementor/tw-team.php:549 inc/elementor/tw-testimonial.php:426
+#: inc/elementor/tw-testimonial.php:469
+msgid "Boxs Shadow"
+msgstr ""
+
+#: inc/elementor/tw-clients-slider.php:240
+msgid "Item Padding"
+msgstr ""
+
+#: inc/elementor/tw-clients-slider.php:251
+msgid "Item Margin"
+msgstr ""
+
+#: inc/elementor/tw-clients-slider.php:263 inc/elementor/tw-latest-blog.php:220
+#: inc/elementor/tw-team.php:457 inc/elementor/tw-testimonial.php:390
+msgid "Nav Styling"
+msgstr ""
+
+#: inc/elementor/tw-clients-slider.php:278
+#: inc/elementor/tw-clients-slider.php:321 inc/elementor/tw-latest-blog.php:246
+#: inc/elementor/tw-latest-blog.php:289 inc/elementor/tw-team.php:485
+#: inc/elementor/tw-team.php:528 inc/elementor/tw-testimonial.php:405
+#: inc/elementor/tw-testimonial.php:448
+msgid "Nav Color"
+msgstr ""
+
+#: inc/elementor/tw-clients-slider.php:288
+#: inc/elementor/tw-clients-slider.php:331 inc/elementor/tw-latest-blog.php:256
+#: inc/elementor/tw-latest-blog.php:299 inc/elementor/tw-team.php:495
+#: inc/elementor/tw-team.php:538 inc/elementor/tw-testimonial.php:415
+#: inc/elementor/tw-testimonial.php:458
+msgid "Nav BG Color"
+msgstr ""
+
+#: inc/elementor/tw-clients-slider.php:360 inc/elementor/tw-latest-blog.php:328
+#: inc/elementor/tw-team.php:567 inc/elementor/tw-testimonial.php:486
+msgid "Dots Styling"
+msgstr ""
+
+#: inc/elementor/tw-clients-slider.php:368 inc/elementor/tw-latest-blog.php:336
+#: inc/elementor/tw-team.php:588 inc/elementor/tw-testimonial.php:494
+msgid "Dots Width"
+msgstr ""
+
+#: inc/elementor/tw-clients-slider.php:390 inc/elementor/tw-latest-blog.php:358
+#: inc/elementor/tw-team.php:610 inc/elementor/tw-testimonial.php:516
+msgid "Dots Height"
+msgstr ""
+
+#: inc/elementor/tw-clients-slider.php:419
+#: inc/elementor/tw-clients-slider.php:452 inc/elementor/tw-latest-blog.php:387
+#: inc/elementor/tw-latest-blog.php:420 inc/elementor/tw-team.php:639
+#: inc/elementor/tw-team.php:672 inc/elementor/tw-testimonial.php:545
+#: inc/elementor/tw-testimonial.php:570
+msgid "Dots BG Color"
+msgstr ""
+
+#: inc/elementor/tw-clients-slider.php:430
+#: inc/elementor/tw-clients-slider.php:464 inc/elementor/tw-latest-blog.php:398
+#: inc/elementor/tw-latest-blog.php:432 inc/elementor/tw-team.php:650
+#: inc/elementor/tw-team.php:684
+msgid "Dots Shadow"
+msgstr ""
+
+#: inc/elementor/tw-clients-slider.php:481 inc/elementor/tw-latest-blog.php:460
+#: inc/elementor/tw-team.php:701 inc/elementor/tw-testimonial.php:591
+msgid "Dots  Gapping"
+msgstr ""
+
+#: inc/elementor/tw-clients-slider.php:492 inc/elementor/tw-latest-blog.php:471
+#: inc/elementor/tw-team.php:712 inc/elementor/tw-testimonial.php:602
+msgid "Dot Area Margins"
+msgstr ""
+
+#: inc/elementor/tw-clients-slider.php:545
+msgid "Please insert some client item first."
+msgstr ""
+
+#: inc/elementor/tw-contact-form.php:15
+msgid "Contact From"
+msgstr ""
+
+#: inc/elementor/tw-contact-form.php:38
+msgid "Contact Form"
+msgstr ""
+
+#: inc/elementor/tw-contact-form.php:44 inc/elementor/tw-mailchimp-form.php:44
+#: inc/elementor/tw-quote-form.php:74
+msgid "Select Form"
+msgstr ""
+
+#: inc/elementor/tw-contact-form.php:54
+msgid "Form Field Style"
+msgstr ""
+
+#: inc/elementor/tw-contact-form.php:62
+msgid "Field Typography"
+msgstr ""
+
+#: inc/elementor/tw-contact-form.php:69 inc/elementor/tw-notes.php:89
+msgid "Text Color"
+msgstr ""
+
+#: inc/elementor/tw-contact-form.php:90 inc/elementor/tw-contact-form.php:241
+#: inc/elementor/tw-contact-form.php:298
+msgid "Background Color"
+msgstr ""
+
+#: inc/elementor/tw-contact-form.php:103 inc/elementor/tw-contact-form.php:253
+#: inc/elementor/tw-contact-form.php:310
+msgid "Field Border"
+msgstr ""
+
+#: inc/elementor/tw-contact-form.php:110
+msgid "Field Radius"
+msgstr ""
+
+#: inc/elementor/tw-contact-form.php:124 inc/elementor/tw-contact-form.php:273
+#: inc/elementor/tw-contact-form.php:330
+msgid "Field Shadow"
+msgstr ""
+
+#: inc/elementor/tw-contact-form.php:131
+msgid "Field Padding"
+msgstr ""
+
+#: inc/elementor/tw-contact-form.php:144
+msgid "Field Margin"
+msgstr ""
+
+#: inc/elementor/tw-contact-form.php:157
+msgid "Input/Select Height"
+msgstr ""
+
+#: inc/elementor/tw-contact-form.php:185
+msgid "Textarea Height"
+msgstr ""
+
+#: inc/elementor/tw-contact-form.php:216
+msgid "BTN Typography"
+msgstr ""
+
+#: inc/elementor/tw-contact-form.php:230 inc/elementor/tw-contact-form.php:287
+#: inc/elementor/tw-pricing.php:575 inc/elementor/tw-pricing.php:600
+msgid "BTN Color"
+msgstr ""
+
+#: inc/elementor/tw-contact-form.php:260 inc/elementor/tw-contact-form.php:317
+msgid "BTN Radius"
+msgstr ""
+
+#: inc/elementor/tw-contact-form.php:339
+msgid "BTN Padding"
+msgstr ""
+
+#: inc/elementor/tw-contact-form.php:351
+msgid "BTN Margin"
+msgstr ""
+
+#: inc/elementor/tw-contact-form.php:363
+msgid "Button Width"
+msgstr ""
+
+#: inc/elementor/tw-contact-form.php:391 inc/elementor/tw-quote-form.php:454
+msgid "Button Height"
+msgstr ""
+
+#: inc/elementor/tw-contact-form.php:425
+msgid "Please Select Contact From."
+msgstr ""
+
+#: inc/elementor/tw-elementor.php:72
+msgid "Makeover"
+msgstr ""
+
+#: inc/elementor/tw-free-call.php:15
+msgid "Free Call"
+msgstr ""
+
+#: inc/elementor/tw-free-call.php:29 inc/elementor/tw-text.php:15
+#: inc/elementor/tw-text.php:29
+msgid "Paragraph"
+msgstr ""
+
+#: inc/elementor/tw-free-call.php:35 inc/elementor/tw-icon-box.php:52
+#: inc/elementor/tw-icon-box.php:60 inc/elementor/tw-icon.php:15
+#: inc/elementor/tw-icon.php:35
+msgid "Icon"
+msgstr ""
+
+#: inc/elementor/tw-free-call.php:42
+msgid "Prefix Text"
+msgstr ""
+
+#: inc/elementor/tw-free-call.php:45
+msgid "Free Call:"
+msgstr ""
+
+#: inc/elementor/tw-free-call.php:46
+msgid "Insert prefix label"
+msgstr ""
+
+#: inc/elementor/tw-free-call.php:51
+msgid "Phone Number"
+msgstr ""
+
+#: inc/elementor/tw-free-call.php:54
+msgid "+00 123 456 789"
+msgstr ""
+
+#: inc/elementor/tw-free-call.php:55
+msgid "Insert phone number here."
+msgstr ""
+
+#: inc/elementor/tw-free-call.php:85
+msgid "Content Styling"
+msgstr ""
+
+#: inc/elementor/tw-free-call.php:93 inc/elementor/tw-free-call.php:129
+#: inc/elementor/tw-headings.php:95 inc/elementor/tw-lists.php:73
+#: inc/elementor/tw-notes.php:100 inc/elementor/tw-quote-form.php:589
+#: inc/elementor/tw-sub-title.php:90 inc/elementor/tw-testimonial.php:336
+#: inc/elementor/tw-testimonial.php:372 inc/elementor/tw-text.php:85
+msgid "Typography"
+msgstr ""
+
+#: inc/elementor/tw-free-call.php:100
+msgid "Prefix Color"
+msgstr ""
+
+#: inc/elementor/tw-free-call.php:110 inc/elementor/tw-funfact.php:84
+#: inc/elementor/tw-timer-counter.php:145
+msgid "Number Color"
+msgstr ""
+
+#: inc/elementor/tw-free-call.php:121
+msgid "Icon Styling"
+msgstr ""
+
+#: inc/elementor/tw-free-call.php:146
+msgid "Position"
+msgstr ""
+
+#: inc/elementor/tw-funfact.php:15 inc/elementor/tw-funfact.php:29
+msgid "Fun Fact"
+msgstr ""
+
+#: inc/elementor/tw-funfact.php:35 inc/elementor/tw-funfact.php:39
+msgid "Fact Title"
+msgstr ""
+
+#: inc/elementor/tw-funfact.php:45
+msgid "Fact Amount"
+msgstr ""
+
+#: inc/elementor/tw-funfact.php:48
+msgid "9999"
+msgstr ""
+
+#: inc/elementor/tw-funfact.php:77
+msgid "Fact Content Style"
+msgstr ""
+
+#: inc/elementor/tw-funfact.php:95 inc/elementor/tw-timer-counter.php:138
+msgid "Number Typography"
+msgstr ""
+
+#: inc/elementor/tw-funfact.php:102
+msgid "Number Marign"
+msgstr ""
+
+#: inc/elementor/tw-funfact.php:119 inc/elementor/tw-icon-box.php:641
+#: inc/elementor/tw-quote-form.php:195 inc/elementor/tw-skill-bar.php:141
+#: inc/elementor/tw-team.php:389
+msgid "Title Color"
+msgstr ""
+
+#: inc/elementor/tw-funfact.php:130 inc/elementor/tw-icon-box.php:673
+#: inc/elementor/tw-quote-form.php:206 inc/elementor/tw-skill-bar.php:152
+msgid "Title Typography"
+msgstr ""
+
+#: inc/elementor/tw-funfact.php:137
+msgid "Title Marign"
+msgstr ""
+
+#: inc/elementor/tw-google-map.php:15 inc/elementor/tw-google-map.php:29
+msgid "Google Map"
+msgstr ""
+
+#: inc/elementor/tw-google-map.php:35
+msgid "Map Mode"
+msgstr ""
+
+#: inc/elementor/tw-google-map.php:40
+msgid "Ifram"
+msgstr ""
+
+#: inc/elementor/tw-google-map.php:41
+msgid "Custom"
+msgstr ""
+
+#: inc/elementor/tw-google-map.php:48
+msgid "Address"
+msgstr ""
+
+#: inc/elementor/tw-google-map.php:52
+msgid "Insert a valid address"
+msgstr ""
+
+#: inc/elementor/tw-google-map.php:67
+msgid "Show Grayscale"
+msgstr ""
+
+#: inc/elementor/tw-google-map.php:78
+msgid "Location Latitude"
+msgstr ""
+
+#: inc/elementor/tw-google-map.php:82
+msgid "Insert your location latitude"
+msgstr ""
+
+#: inc/elementor/tw-google-map.php:89
+msgid "Location Longitude"
+msgstr ""
+
+#: inc/elementor/tw-google-map.php:93
+msgid "Insert your location longitude"
+msgstr ""
+
+#: inc/elementor/tw-google-map.php:100
+msgid "Zoom"
+msgstr ""
+
+#: inc/elementor/tw-google-map.php:111
+msgid "Map Marker"
+msgstr ""
+
+#: inc/elementor/tw-google-map.php:113
+msgid "Upload your map marker. Map marker shold be smallar image."
+msgstr ""
+
+#: inc/elementor/tw-google-map.php:120
+msgid "Map Height"
+msgstr ""
+
+#: inc/elementor/tw-google-map.php:130
+msgid "Insert your map height. Default height is 500px."
+msgstr ""
+
+#: inc/elementor/tw-google-map.php:162
+msgid "Please Select Map Style and fill up all related fields."
+msgstr ""
+
+#: inc/elementor/tw-headings.php:13
+msgid "Headings"
+msgstr ""
+
+#: inc/elementor/tw-headings.php:25 inc/elementor/tw-image-box.php:52
+msgid "Heading"
+msgstr ""
+
+#: inc/elementor/tw-headings.php:31
+msgid "Tag"
+msgstr ""
+
+#: inc/elementor/tw-headings.php:33
+msgid "Select HTML tag that you want to use."
+msgstr ""
+
+#: inc/elementor/tw-headings.php:36
+msgid "H1"
+msgstr ""
+
+#: inc/elementor/tw-headings.php:37
+msgid "H2"
+msgstr ""
+
+#: inc/elementor/tw-headings.php:38
+msgid "H3"
+msgstr ""
+
+#: inc/elementor/tw-headings.php:39
+msgid "H4"
+msgstr ""
+
+#: inc/elementor/tw-headings.php:40
+msgid "H5"
+msgstr ""
+
+#: inc/elementor/tw-headings.php:41
+msgid "H6"
+msgstr ""
+
+#: inc/elementor/tw-headings.php:47
+msgid "Heading Text"
+msgstr ""
+
+#: inc/elementor/tw-headings.php:50
+msgid "Add Heading"
+msgstr ""
+
+#: inc/elementor/tw-headings.php:78
+msgid "Heading Style"
+msgstr ""
+
+#: inc/elementor/tw-headings.php:102 inc/elementor/tw-hr.php:65
+#: inc/elementor/tw-sub-title.php:97
+msgid "Marign"
+msgstr ""
+
+#: inc/elementor/tw-headings.php:117
+msgid "Goru Heading"
+msgstr ""
+
+#: inc/elementor/tw-hr.php:13 inc/elementor/tw-hr.php:25
+msgid "HR Devider"
+msgstr ""
+
+#: inc/elementor/tw-hr.php:55 inc/elementor/tw-sub-title.php:114
+msgid "Bars Color"
+msgstr ""
+
+#: inc/elementor/tw-icon-box.php:15 inc/elementor/tw-icon-box.php:29
+#: inc/elementor/tw-icon.php:29
+msgid "Icon Box"
+msgstr ""
+
+#: inc/elementor/tw-icon-box.php:35 inc/elementor/tw-icon-box.php:197
+msgid "Box Style"
+msgstr ""
+
+#: inc/elementor/tw-icon-box.php:41
+msgid "Style 03"
+msgstr ""
+
+#: inc/elementor/tw-icon-box.php:48
+msgid "Icon or Image"
+msgstr ""
+
+#: inc/elementor/tw-icon-box.php:77
+msgid "Choose Image"
+msgstr ""
+
+#: inc/elementor/tw-icon-box.php:80
+msgid "Default image size is 50x40px."
+msgstr ""
+
+#: inc/elementor/tw-icon-box.php:96 inc/elementor/tw-icon-box.php:100
+#: inc/elementor/tw-icon-box.php:859
+msgid "Box Title"
+msgstr ""
+
+#: inc/elementor/tw-icon-box.php:106
+msgid "Box Content"
+msgstr ""
+
+#: inc/elementor/tw-icon-box.php:109
+msgid "Insert Content Here"
+msgstr ""
+
+#: inc/elementor/tw-icon-box.php:118
+msgid "Insert read more button label here."
+msgstr ""
+
+#: inc/elementor/tw-icon-box.php:124
+msgid "Box URL"
+msgstr ""
+
+#: inc/elementor/tw-icon-box.php:137 inc/elementor/tw-icon-box.php:168
+#: inc/elementor/tw-pricing.php:220
+msgid "Box Alignment"
+msgstr ""
+
+#: inc/elementor/tw-icon-box.php:209 inc/elementor/tw-icon-box.php:265
+msgid "Box Background"
+msgstr ""
+
+#: inc/elementor/tw-icon-box.php:244 inc/elementor/tw-icon-box.php:300
+msgid "Box Border"
+msgstr ""
+
+#: inc/elementor/tw-icon-box.php:319
+msgid "Radius"
+msgstr ""
+
+#: inc/elementor/tw-icon-box.php:353 inc/elementor/tw-icon-box.php:507
+#: inc/elementor/tw-icon-box.php:621 inc/elementor/tw-image-box.php:135
+#: inc/elementor/tw-skill-bar.php:62 inc/elementor/tw-skill-bar.php:159
+#: inc/elementor/tw-skill-bar.php:195
+msgid "Margins"
+msgstr ""
+
+#: inc/elementor/tw-icon-box.php:460
+msgid "Icon Border Color"
+msgstr ""
+
+#: inc/elementor/tw-icon-box.php:521 inc/elementor/tw-image-box.php:116
+msgid "Image Style"
+msgstr ""
+
+#: inc/elementor/tw-icon-box.php:540 inc/elementor/tw-icon-box.php:563
+msgid "Image BG Color"
+msgstr ""
+
+#: inc/elementor/tw-icon-box.php:582
+msgid "Image Border Color"
+msgstr ""
+
+#: inc/elementor/tw-icon-box.php:635 inc/elementor/tw-quote-form.php:171
+msgid "Title Style"
+msgstr ""
+
+#: inc/elementor/tw-icon-box.php:652
+msgid "Linked Title Hover Color"
+msgstr ""
+
+#: inc/elementor/tw-icon-box.php:680 inc/elementor/tw-team.php:399
+msgid "Title Margin"
+msgstr ""
+
+#: inc/elementor/tw-icon-box.php:694
+msgid "Bar Style"
+msgstr ""
+
+#: inc/elementor/tw-icon-box.php:709 inc/elementor/tw-icon-box.php:808
+#: inc/elementor/tw-icon-box.php:830 inc/elementor/tw-work-process.php:174
+msgid "Bar Color"
+msgstr ""
+
+#: inc/elementor/tw-icon-box.php:719
+msgid "Bar Margin"
+msgstr ""
+
+#: inc/elementor/tw-icon-box.php:731
+msgid "Box Content Style"
+msgstr ""
+
+#: inc/elementor/tw-icon-box.php:737
+msgid "Content Color"
+msgstr ""
+
+#: inc/elementor/tw-icon-box.php:750
+msgid "Content Typography"
+msgstr ""
+
+#: inc/elementor/tw-icon-box.php:758
+msgid "Content Margin"
+msgstr ""
+
+#: inc/elementor/tw-icon-box.php:772
+msgid "Read More Link Style"
+msgstr ""
+
+#: inc/elementor/tw-icon-box.php:789 inc/elementor/tw-image-box.php:253
+msgid "Link Typography"
+msgstr ""
+
+#: inc/elementor/tw-icon-box.php:842
+msgid "Read More Link Margin"
+msgstr ""
+
+#: inc/elementor/tw-icon.php:136 inc/elementor/tw-icon.php:185
+msgid "Icon Border"
+msgstr ""
+
+#: inc/elementor/tw-icon.php:144 inc/elementor/tw-icon.php:193
+msgid "Icon Box Shadow"
+msgstr ""
+
+#: inc/elementor/tw-icon.php:151 inc/elementor/tw-icon.php:200
+msgid "Icon Border Radius"
+msgstr ""
+
+#: inc/elementor/tw-icon.php:214
+msgid "Icon Padding"
+msgstr ""
+
+#: inc/elementor/tw-icon.php:226
+msgid "Icon Margins"
+msgstr ""
+
+#: inc/elementor/tw-image-box.php:15 inc/elementor/tw-image-box.php:29
+msgid "Image Box"
+msgstr ""
+
+#: inc/elementor/tw-image-box.php:55
+msgid "Insert box heading here."
+msgstr ""
+
+#: inc/elementor/tw-image-box.php:61 inc/elementor/tw-text.php:34
+msgid "Content"
+msgstr ""
+
+#: inc/elementor/tw-image-box.php:64
+msgid "Insert box content here."
+msgstr ""
+
+#: inc/elementor/tw-image-box.php:73
+msgid "Insert box read more button label here."
+msgstr ""
+
+#: inc/elementor/tw-image-box.php:78
+msgid "Button URL"
+msgstr ""
+
+#: inc/elementor/tw-image-box.php:147
+msgid "Content Style"
+msgstr ""
+
+#: inc/elementor/tw-image-box.php:154
+msgid "Content Area Padding"
+msgstr ""
+
+#: inc/elementor/tw-image-box.php:165
+msgid "Content Area Margin"
+msgstr ""
+
+#: inc/elementor/tw-image-box.php:193 inc/elementor/tw-work-process.php:140
+msgid "Heading Typography"
+msgstr ""
+
+#: inc/elementor/tw-image-box.php:200 inc/elementor/tw-work-process.php:157
+msgid "Heading Margin"
+msgstr ""
+
+#: inc/elementor/tw-image-box.php:217
+msgid "Description Color"
+msgstr ""
+
+#: inc/elementor/tw-image-box.php:228
+msgid "Description Typography"
+msgstr ""
+
+#: inc/elementor/tw-image-box.php:235
+msgid "Description Margin"
+msgstr ""
+
+#: inc/elementor/tw-image-box.php:260 inc/elementor/tw-notes.php:108
+#: inc/elementor/tw-notes.php:128
+msgid "Link Color"
+msgstr ""
+
+#: inc/elementor/tw-image-box.php:270
+msgid "Link Bar Color"
+msgstr ""
+
+#: inc/elementor/tw-image-box.php:280
+msgid "Link Hover Color"
+msgstr ""
+
+#: inc/elementor/tw-image-box.php:290
+msgid "Link Bar Hover Color"
+msgstr ""
+
+#: inc/elementor/tw-latest-blog.php:15
+msgid "Latest Blog Post"
+msgstr ""
+
+#: inc/elementor/tw-latest-blog.php:44
+msgid "Blog Post"
+msgstr ""
+
+#: inc/elementor/tw-latest-blog.php:77
+msgid "Fixed"
+msgstr ""
+
+#: inc/elementor/tw-latest-blog.php:78
+msgid "Slide"
+msgstr ""
+
+#: inc/elementor/tw-latest-blog.php:188
+msgid "Comment"
+msgstr ""
+
+#: inc/elementor/tw-latest-blog.php:212
+msgid "Insert your post Read More BTN Label."
+msgstr ""
+
+#: inc/elementor/tw-latest-blog.php:228
+msgid "Nav  Radius"
+msgstr ""
+
+#: inc/elementor/tw-latest-blog.php:449
+msgid "Dots  Radius"
+msgstr ""
+
+#: inc/elementor/tw-lists.php:13 inc/elementor/tw-lists.php:25
+#: inc/elementor/tw-lists.php:40
+msgid "List Items"
+msgstr ""
+
+#: inc/elementor/tw-lists.php:31
+msgid "Item"
+msgstr ""
+
+#: inc/elementor/tw-lists.php:33
+msgid "List Title Text"
+msgstr ""
+
+#: inc/elementor/tw-lists.php:55
+msgid "List Styling"
+msgstr ""
+
+#: inc/elementor/tw-lists.php:80
+msgid "Item Marign"
+msgstr ""
+
+#: inc/elementor/tw-mailchimp-form.php:15
+msgid "Mail Chimp From"
+msgstr ""
+
+#: inc/elementor/tw-mailchimp-form.php:30 inc/elementor/tw-quote-form.php:30
+msgid "None"
+msgstr ""
+
+#: inc/elementor/tw-mailchimp-form.php:38
+msgid "Mail Form"
+msgstr ""
+
+#: inc/elementor/tw-mailchimp-form.php:53
+msgid "Is Note?"
+msgstr ""
+
+#: inc/elementor/tw-mailchimp-form.php:57
+msgid "Do you want to sow a note after form?"
+msgstr ""
+
+#: inc/elementor/tw-mailchimp-form.php:64
+msgid "Note"
+msgstr ""
+
+#: inc/elementor/tw-mailchimp-form.php:68
+msgid "Inser note here"
+msgstr ""
+
+#: inc/elementor/tw-mailchimp-form.php:84
+msgid "Mail From Style"
+msgstr ""
+
+#: inc/elementor/tw-mailchimp-form.php:91
+msgid "Email Field Color"
+msgstr ""
+
+#: inc/elementor/tw-mailchimp-form.php:104
+msgid "Email Field BG Color"
+msgstr ""
+
+#: inc/elementor/tw-mailchimp-form.php:115
+msgid "Email From Typography"
+msgstr ""
+
+#: inc/elementor/tw-mailchimp-form.php:160
+msgid "Btn BG Color"
+msgstr ""
+
+#: inc/elementor/tw-mailchimp-form.php:187
+msgid "Btn Hover BG Color"
+msgstr ""
+
+#: inc/elementor/tw-mailchimp-form.php:200
+msgid "Note Style"
+msgstr ""
+
+#: inc/elementor/tw-mailchimp-form.php:216
+msgid "Note Color"
+msgstr ""
+
+#: inc/elementor/tw-mailchimp-form.php:226
+msgid "Note Highlighted Color"
+msgstr ""
+
+#: inc/elementor/tw-mailchimp-form.php:237
+msgid "Note Typography"
+msgstr ""
+
+#: inc/elementor/tw-mailchimp-form.php:244
+msgid "Note Margins"
+msgstr ""
+
+#: inc/elementor/tw-mailchimp-form.php:271
+msgid "Please Select Mail Chimp From."
+msgstr ""
+
+#: inc/elementor/tw-notes.php:13
+msgid "Linked Notes"
+msgstr ""
+
+#: inc/elementor/tw-notes.php:25
+msgid "Notes Settings"
+msgstr ""
+
+#: inc/elementor/tw-notes.php:30
+msgid "Notes Text"
+msgstr ""
+
+#: inc/elementor/tw-notes.php:38
+msgid "Linke Label"
+msgstr ""
+
+#: inc/elementor/tw-notes.php:83
+msgid "Notes Style"
+msgstr ""
+
+#: inc/elementor/tw-notes.php:105
+msgid "Note Link Normal"
+msgstr ""
+
+#: inc/elementor/tw-notes.php:117 inc/elementor/tw-notes.php:137
+msgid "Link Bar BG"
+msgstr ""
+
+#: inc/elementor/tw-notes.php:125
+msgid "Note Link Hover"
+msgstr ""
+
+#: inc/elementor/tw-post-details-gallery.php:35
+msgid "Choose Images"
+msgstr ""
+
+#: inc/elementor/tw-post-details-gallery.php:42
+msgid "No of Thumbnail"
+msgstr ""
+
+#: inc/elementor/tw-post-details-gallery.php:52
+#: inc/elementor/tw-post-featured-image.php:83
+msgid "Image Width"
+msgstr ""
+
+#: inc/elementor/tw-post-details-gallery.php:63
+#: inc/elementor/tw-post-featured-image.php:94
+msgid "Image Height"
+msgstr ""
+
+#: inc/elementor/tw-post-details-gallery.php:74
+msgid "Thumb Width"
+msgstr ""
+
+#: inc/elementor/tw-post-details-gallery.php:85
+msgid "Thumb Height"
+msgstr ""
+
+#: inc/elementor/tw-post-featured-image.php:15
+msgid "Post Featured Image"
+msgstr ""
+
+#: inc/elementor/tw-post-featured-image.php:30
+msgid "Preview"
+msgstr ""
+
+#: inc/elementor/tw-post-featured-image.php:36
+msgid "Current Post Featured Image?"
+msgstr ""
+
+#: inc/elementor/tw-post-featured-image.php:40
+msgid "Do you want to show current post featured image?"
+msgstr ""
+
+#: inc/elementor/tw-post-featured-image.php:50
+msgid ""
+"This shortcode specialy build for <strong>Service, Case, Team Or Post</"
+"strong> details page content. If your using this outside of those page then "
+"please turn it to No and choose your Custom Image."
+msgstr ""
+
+#: inc/elementor/tw-post-featured-image.php:66
+msgid "Custom Image"
+msgstr ""
+
+#: inc/elementor/tw-post-featured-image.php:68
+msgid ""
+"Leave blank if you want to show current post featured image. Or upload your "
+"custom image"
+msgstr ""
+
+#: inc/elementor/tw-post-featured-image.php:113
+msgid "Area BG Color"
+msgstr ""
+
+#: inc/elementor/tw-post-featured-image.php:132
+msgid "Image Border"
+msgstr ""
+
+#: inc/elementor/tw-post-featured-image.php:139
+msgid "Area Border Radius"
+msgstr ""
+
+#: inc/elementor/tw-post-featured-image.php:150
+msgid "Image Border Radius"
+msgstr ""
+
+#: inc/elementor/tw-post-featured-image.php:162
+msgid "Image Shadow"
+msgstr ""
+
+#: inc/elementor/tw-post-featured-image.php:170
+msgid "Area Shadow"
+msgstr ""
+
+#: inc/elementor/tw-post-featured-image.php:209
+#: inc/elementor/tw-post-featured-image.php:212
+msgid ""
+"This shortcode specialy build for <strong>Service, Case, Team Or Post</"
+"strong> details page content."
+msgstr ""
+
+#: inc/elementor/tw-pricing.php:15 inc/elementor/tw-pricing.php:29
+msgid "Pricing Table"
+msgstr ""
+
+#: inc/elementor/tw-pricing.php:35
+msgid "Is Featured?"
+msgstr ""
+
+#: inc/elementor/tw-pricing.php:39
+msgid "Do you want to make this pricing package featured?"
+msgstr ""
+
+#: inc/elementor/tw-pricing.php:47
+msgid "Featured Label"
+msgstr ""
+
+#: inc/elementor/tw-pricing.php:49
+msgid "Best Choice"
+msgstr ""
+
+#: inc/elementor/tw-pricing.php:50
+msgid "Insert featured package label."
+msgstr ""
+
+#: inc/elementor/tw-pricing.php:65
+msgid "Is Free?"
+msgstr ""
+
+#: inc/elementor/tw-pricing.php:69
+msgid "Do you want to make this pricing package free?"
+msgstr ""
+
+#: inc/elementor/tw-pricing.php:77
+msgid "Free Label"
+msgstr ""
+
+#: inc/elementor/tw-pricing.php:79 inc/elementor/tw-pricing.php:642
+msgid "Free"
+msgstr ""
+
+#: inc/elementor/tw-pricing.php:80
+msgid "Insert Free Package Label."
+msgstr ""
+
+#: inc/elementor/tw-pricing.php:95
+msgid "Currency"
+msgstr ""
+
+#: inc/elementor/tw-pricing.php:98
+msgid "Insert Currency"
+msgstr ""
+
+#: inc/elementor/tw-pricing.php:113
+msgid "Price"
+msgstr ""
+
+#: inc/elementor/tw-pricing.php:133 inc/elementor/tw-pricing.php:136
+msgid "Pricing Period"
+msgstr ""
+
+#: inc/elementor/tw-pricing.php:135
+msgid "mo"
+msgstr ""
+
+#: inc/elementor/tw-pricing.php:151
+msgid "Package Name"
+msgstr ""
+
+#: inc/elementor/tw-pricing.php:153 inc/elementor/tw-pricing.php:646
+msgid "Basic"
+msgstr ""
+
+#: inc/elementor/tw-pricing.php:154
+msgid "Insert Name"
+msgstr ""
+
+#: inc/elementor/tw-pricing.php:161 inc/elementor/tw-pricing.php:182
+msgid "Pricing List Item"
+msgstr ""
+
+#: inc/elementor/tw-pricing.php:164
+msgid "Insert Pricing Feature text."
+msgstr ""
+
+#: inc/elementor/tw-pricing.php:171
+msgid "Disabled"
+msgstr ""
+
+#: inc/elementor/tw-pricing.php:199 inc/elementor/tw-pricing.php:648
+msgid "Get Started"
+msgstr ""
+
+#: inc/elementor/tw-pricing.php:201
+msgid "Insert BTN Label"
+msgstr ""
+
+#: inc/elementor/tw-pricing.php:207 inc/elementor/tw-team.php:299
+msgid "BTN URL"
+msgstr ""
+
+#: inc/elementor/tw-pricing.php:245
+msgid "Package Style"
+msgstr ""
+
+#: inc/elementor/tw-pricing.php:251
+msgid "Package BG Color"
+msgstr ""
+
+#: inc/elementor/tw-pricing.php:262
+msgid "Package Border"
+msgstr ""
+
+#: inc/elementor/tw-pricing.php:270
+msgid "Package Boxs Shadow"
+msgstr ""
+
+#: inc/elementor/tw-pricing.php:278
+msgid "Package Header Style"
+msgstr ""
+
+#: inc/elementor/tw-pricing.php:291 inc/elementor/tw-pricing.php:376
+msgid "Head BG Color"
+msgstr ""
+
+#: inc/elementor/tw-pricing.php:301 inc/elementor/tw-pricing.php:386
+msgid "Head Padding"
+msgstr ""
+
+#: inc/elementor/tw-pricing.php:311 inc/elementor/tw-pricing.php:396
+msgid "Price Color"
+msgstr ""
+
+#: inc/elementor/tw-pricing.php:320 inc/elementor/tw-pricing.php:405
+msgid "Currency Color"
+msgstr ""
+
+#: inc/elementor/tw-pricing.php:329 inc/elementor/tw-pricing.php:414
+msgid "Period Color"
+msgstr ""
+
+#: inc/elementor/tw-pricing.php:338 inc/elementor/tw-pricing.php:423
+msgid "Package Name Color"
+msgstr ""
+
+#: inc/elementor/tw-pricing.php:348 inc/elementor/tw-pricing.php:433
+msgid "Pricing Margining"
+msgstr ""
+
+#: inc/elementor/tw-pricing.php:359 inc/elementor/tw-pricing.php:444
+msgid "Package Name Margining"
+msgstr ""
+
+#: inc/elementor/tw-pricing.php:458
+msgid "Price Typo"
+msgstr ""
+
+#: inc/elementor/tw-pricing.php:466
+msgid "Currency Typo"
+msgstr ""
+
+#: inc/elementor/tw-pricing.php:474
+msgid "Period Typo"
+msgstr ""
+
+#: inc/elementor/tw-pricing.php:482
+msgid "Package Name Typo"
+msgstr ""
+
+#: inc/elementor/tw-pricing.php:491
+msgid "Package Body Style"
+msgstr ""
+
+#: inc/elementor/tw-pricing.php:499
+msgid "Features Typo"
+msgstr ""
+
+#: inc/elementor/tw-pricing.php:505
+msgid "Features Color"
+msgstr ""
+
+#: inc/elementor/tw-pricing.php:514
+msgid "Disabled Features Color"
+msgstr ""
+
+#: inc/elementor/tw-pricing.php:523
+msgid "Features BG Color (odd)"
+msgstr ""
+
+#: inc/elementor/tw-pricing.php:532
+msgid "Features BG Color (even)"
+msgstr ""
+
+#: inc/elementor/tw-pricing.php:542
+msgid "Features Padding"
+msgstr ""
+
+#: inc/elementor/tw-pricing.php:554
+msgid "Package Footer Style"
+msgstr ""
+
+#: inc/elementor/tw-pricing.php:562
+msgid "BTN Typo"
+msgstr ""
+
+#: inc/elementor/tw-pricing.php:584 inc/elementor/tw-pricing.php:609
+msgid "BTN BG Color"
+msgstr ""
+
+#: inc/elementor/tw-pricing.php:622
+msgid "Footer Padding"
+msgstr ""
+
+#: inc/elementor/tw-pricing.php:643
+msgid "$"
+msgstr ""
+
+#: inc/elementor/tw-product-gallery.php:15
+msgid "Product Gallery"
+msgstr ""
+
+#: inc/elementor/tw-product-gallery.php:51
+msgid "Gallery Type"
+msgstr ""
+
+#: inc/elementor/tw-product-gallery.php:53
+msgid "Select product gallery type?"
+msgstr ""
+
+#: inc/elementor/tw-product-gallery.php:56 inc/elementor/tw-services.php:125
+msgid "Fixed Grid"
+msgstr ""
+
+#: inc/elementor/tw-product-gallery.php:57
+msgid "Carousel Slide"
+msgstr ""
+
+#: inc/elementor/tw-product-gallery.php:58
+msgid "Filter Grid"
+msgstr ""
+
+#: inc/elementor/tw-product-gallery.php:59
+msgid "Category Tabs"
+msgstr ""
+
+#: inc/elementor/tw-product-gallery.php:60
+msgid "Product Type Tabs"
+msgstr ""
+
+#: inc/elementor/tw-product-gallery.php:67
+msgid "Product Type"
+msgstr ""
+
+#: inc/elementor/tw-product-gallery.php:69
+msgid "Select which type of product you want to show."
+msgstr ""
+
+#: inc/elementor/tw-product-gallery.php:72
+#: inc/elementor/tw-product-gallery.php:100
+msgid "New Product"
+msgstr ""
+
+#: inc/elementor/tw-product-gallery.php:73
+#: inc/elementor/tw-product-gallery.php:101
+msgid "Featured Product"
+msgstr ""
+
+#: inc/elementor/tw-product-gallery.php:74
+#: inc/elementor/tw-product-gallery.php:102
+msgid "Sale Product"
+msgstr ""
+
+#: inc/elementor/tw-product-gallery.php:75
+#: inc/elementor/tw-product-gallery.php:103
+msgid "Popular Product"
+msgstr ""
+
+#: inc/elementor/tw-product-gallery.php:76
+#: inc/elementor/tw-product-gallery.php:104
+msgid "Best Seller Product"
+msgstr ""
+
+#: inc/elementor/tw-product-gallery.php:77
+#: inc/elementor/tw-product-gallery.php:105
+msgid "Top Rated Product"
+msgstr ""
+
+#: inc/elementor/tw-product-gallery.php:78
+#: inc/elementor/tw-product-gallery.php:106
+msgid "Random Product"
+msgstr ""
+
+#: inc/elementor/tw-product-gallery.php:94
+msgid "Product Types"
+msgstr ""
+
+#: inc/elementor/tw-product-gallery.php:96
+msgid "Select types."
+msgstr ""
+
+#: inc/elementor/tw-product-gallery.php:122
+msgid "Product Category"
+msgstr ""
+
+#: inc/elementor/tw-product-gallery.php:124
+msgid "Select category to show specific category product."
+msgstr ""
+
+#: inc/elementor/tw-product-gallery.php:148
+msgid "How many item you want to show?"
+msgstr ""
+
+#: inc/elementor/tw-product-gallery.php:161
+msgid "How many item you want to show per row?"
+msgstr ""
+
+#: inc/elementor/tw-product-gallery.php:251
+msgid "Item Gapping"
+msgstr ""
+
+#: inc/elementor/tw-product-gallery.php:257
+msgid "Insert Item gapping amount."
+msgstr ""
+
+#: inc/elementor/tw-product-gallery.php:390 inc/elementor/tw-services.php:361
+msgid "Dot Style"
+msgstr ""
+
+#: inc/elementor/tw-quote-form.php:15 inc/elementor/tw-quote-form.php:38
+msgid "Quote Form"
+msgstr ""
+
+#: inc/elementor/tw-quote-form.php:44
+msgid "Form Style"
+msgstr ""
+
+#: inc/elementor/tw-quote-form.php:46
+msgid "Select form style."
+msgstr ""
+
+#: inc/elementor/tw-quote-form.php:49
+msgid "Without Title"
+msgstr ""
+
+#: inc/elementor/tw-quote-form.php:50
+msgid "With Title"
+msgstr ""
+
+#: inc/elementor/tw-quote-form.php:57
+msgid "Form Title"
+msgstr ""
+
+#: inc/elementor/tw-quote-form.php:59
+msgid "Get a Quote"
+msgstr ""
+
+#: inc/elementor/tw-quote-form.php:83
+msgid "Show Discount Note?"
+msgstr ""
+
+#: inc/elementor/tw-quote-form.php:87
+msgid "Do you want show discount note? Please turn it to Yes."
+msgstr ""
+
+#: inc/elementor/tw-quote-form.php:95 inc/elementor/tw-quote-form.php:572
+msgid "Discount Note"
+msgstr ""
+
+#: inc/elementor/tw-quote-form.php:121
+msgid "Form BG"
+msgstr ""
+
+#: inc/elementor/tw-quote-form.php:130
+msgid "Form Box Shadow"
+msgstr ""
+
+#: inc/elementor/tw-quote-form.php:137
+msgid "Form Border Radius"
+msgstr ""
+
+#: inc/elementor/tw-quote-form.php:188
+msgid "Form Title BG"
+msgstr ""
+
+#: inc/elementor/tw-quote-form.php:213
+msgid "Form Title Radius"
+msgstr ""
+
+#: inc/elementor/tw-quote-form.php:224
+msgid "Title Position"
+msgstr ""
+
+#: inc/elementor/tw-quote-form.php:236
+msgid "Title Padding"
+msgstr ""
+
+#: inc/elementor/tw-quote-form.php:248
+msgid "Form Elements"
+msgstr ""
+
+#: inc/elementor/tw-quote-form.php:254
+msgid "Input BG Color"
+msgstr ""
+
+#: inc/elementor/tw-quote-form.php:274
+msgid "Input Color"
+msgstr ""
+
+#: inc/elementor/tw-quote-form.php:330
+msgid "Input Radius"
+msgstr ""
+
+#: inc/elementor/tw-quote-form.php:353
+msgid "Input Typography"
+msgstr ""
+
+#: inc/elementor/tw-quote-form.php:371
+msgid "Input Height"
+msgstr ""
+
+#: inc/elementor/tw-quote-form.php:404
+msgid "Input Padding"
+msgstr ""
+
+#: inc/elementor/tw-quote-form.php:426
+msgid "Input Margin"
+msgstr ""
+
+#: inc/elementor/tw-quote-form.php:487 inc/elementor/tw-quote-form.php:511
+#: inc/elementor/tw-team.php:426
+msgid "Button BG Color"
+msgstr ""
+
+#: inc/elementor/tw-quote-form.php:498 inc/elementor/tw-quote-form.php:522
+#: inc/elementor/tw-team.php:416
+msgid "Button Color"
+msgstr ""
+
+#: inc/elementor/tw-quote-form.php:536
+msgid "Button Border Radius"
+msgstr ""
+
+#: inc/elementor/tw-quote-form.php:548
+msgid "Button Margin"
+msgstr ""
+
+#: inc/elementor/tw-quote-form.php:560
+msgid "Button Padding"
+msgstr ""
+
+#: inc/elementor/tw-quote-form.php:606
+msgid "Span Color"
+msgstr ""
+
+#: inc/elementor/tw-rev-slider.php:15 inc/elementor/tw-rev-slider.php:38
+msgid "Rev Slider"
+msgstr ""
+
+#: inc/elementor/tw-rev-slider.php:44
+msgid "Select Slider"
+msgstr ""
+
+#: inc/elementor/tw-services.php:13
+msgid "Services"
+msgstr ""
+
+#: inc/elementor/tw-services.php:25
+msgid "Service Settings"
+msgstr ""
+
+#: inc/elementor/tw-services.php:43
+msgid "Hide Icon"
+msgstr ""
+
+#: inc/elementor/tw-services.php:47
+msgid "Show or hide icon from service item."
+msgstr ""
+
+#: inc/elementor/tw-services.php:101
+msgid "String Limit"
+msgstr ""
+
+#: inc/elementor/tw-services.php:107
+msgid "Setup your item description text limit."
+msgstr ""
+
+#: inc/elementor/tw-services.php:121
+msgid "Mode"
+msgstr ""
+
+#: inc/elementor/tw-services.php:126
+msgid "Slider"
+msgstr ""
+
+#: inc/elementor/tw-skill-bar.php:15 inc/elementor/tw-skill-bar.php:29
+msgid "Skill Bar"
+msgstr ""
+
+#: inc/elementor/tw-skill-bar.php:35 inc/elementor/tw-skill-bar.php:39
+msgid "Skill Title"
+msgstr ""
+
+#: inc/elementor/tw-skill-bar.php:45 inc/elementor/tw-skill-bar.php:48
+msgid "Precent"
+msgstr ""
+
+#: inc/elementor/tw-skill-bar.php:55
+msgid "Skill Area Style"
+msgstr ""
+
+#: inc/elementor/tw-skill-bar.php:85
+msgid "Skill Bar Style"
+msgstr ""
+
+#: inc/elementor/tw-skill-bar.php:92
+msgid "Bar Height"
+msgstr ""
+
+#: inc/elementor/tw-skill-bar.php:114
+msgid "Main Bar BG"
+msgstr ""
+
+#: inc/elementor/tw-skill-bar.php:124
+msgid "Progress Bar BG"
+msgstr ""
+
+#: inc/elementor/tw-skill-bar.php:135
+msgid "Skill Title Style"
+msgstr ""
+
+#: inc/elementor/tw-skill-bar.php:171
+msgid "Skill Percent Style"
+msgstr ""
+
+#: inc/elementor/tw-skill-bar.php:177
+msgid "Percent Color"
+msgstr ""
+
+#: inc/elementor/tw-skill-bar.php:188
+msgid "Percent Typography"
+msgstr ""
+
+#: inc/elementor/tw-skill-bar.php:232
+msgid "%"
+msgstr ""
+
+#: inc/elementor/tw-stratch-image.php:15
+msgid "Stratch Image"
+msgstr ""
+
+#: inc/elementor/tw-stratch-image.php:44
+msgid "Image Floating"
+msgstr ""
+
+#: inc/elementor/tw-sub-title.php:13 inc/elementor/tw-sub-title.php:25
+#: inc/elementor/tw-team.php:233
+msgid "Sub Title"
+msgstr ""
+
+#: inc/elementor/tw-sub-title.php:30
+msgid "Sub Title Text"
+msgstr ""
+
+#: inc/elementor/tw-sub-title.php:33 inc/elementor/tw-sub-title.php:141
+msgid "Add Sub Title"
+msgstr ""
+
+#: inc/elementor/tw-sub-title.php:39
+msgid "Show Bars"
+msgstr ""
+
+#: inc/elementor/tw-sub-title.php:43
+msgid "Do you want to show bars?"
+msgstr ""
+
+#: inc/elementor/tw-sub-title.php:73
+msgid "Sub Title Style"
+msgstr ""
+
+#: inc/elementor/tw-sub-title.php:108
+msgid "Bars Style"
+msgstr ""
+
+#: inc/elementor/tw-sub-title.php:125
+msgid "Margin Top"
+msgstr ""
+
+#: inc/elementor/tw-team.php:14
+msgid "Team"
+msgstr ""
+
+#: inc/elementor/tw-team.php:26
+msgid "Team Member"
+msgstr ""
+
+#: inc/elementor/tw-team.php:36
+msgid "Grid View"
+msgstr ""
+
+#: inc/elementor/tw-team.php:37
+msgid "Slide View"
+msgstr ""
+
+#: inc/elementor/tw-team.php:44
+msgid "Grid Column"
+msgstr ""
+
+#: inc/elementor/tw-team.php:48
+msgid "3 Columns"
+msgstr ""
+
+#: inc/elementor/tw-team.php:49
+msgid "4 Columns"
+msgstr ""
+
+#: inc/elementor/tw-team.php:56
+msgid "Is Details Page Exist?"
+msgstr ""
+
+#: inc/elementor/tw-team.php:60
+msgid ""
+"Do you want to linked team member with details page? Then turn it to Yes."
+msgstr ""
+
+#: inc/elementor/tw-team.php:178
+msgid "Number of Items"
+msgstr ""
+
+#: inc/elementor/tw-team.php:190
+msgid "Join Now BTN?"
+msgstr ""
+
+#: inc/elementor/tw-team.php:194
+msgid "Do you want to show join now button? Then please turn it to Yes"
+msgstr ""
+
+#: inc/elementor/tw-team.php:211
+msgid "Upload Join Us Image"
+msgstr ""
+
+#: inc/elementor/tw-team.php:213
+msgid ""
+"Upload an image 370x400px. This image will use as Background image of Join "
+"Button Area."
+msgstr ""
+
+#: inc/elementor/tw-team.php:235 inc/elementor/tw-team.php:279
+#: inc/elementor/tw-team.php:746 inc/widgets/tw-join-us-widgets.php:20
+#: inc/widgets/tw-join-us-widgets.php:59
+msgid "Join Us Now"
+msgstr ""
+
+#: inc/elementor/tw-team.php:257
+msgid "Be Apart Of Our Team."
+msgstr ""
+
+#: inc/elementor/tw-team.php:330
+msgid "Join Now Styling"
+msgstr ""
+
+#: inc/elementor/tw-team.php:351
+msgid "Sub Title Color"
+msgstr ""
+
+#: inc/elementor/tw-team.php:361
+msgid "Sub Title Bar Color"
+msgstr ""
+
+#: inc/elementor/tw-team.php:372
+msgid "Sub Title Margin"
+msgstr ""
+
+#: inc/elementor/tw-team.php:436
+msgid "Button Hover Color"
+msgstr ""
+
+#: inc/elementor/tw-team.php:446
+msgid "Button Hover BG Color"
+msgstr ""
+
+#: inc/elementor/tw-testimonial.php:14 inc/elementor/tw-testimonial.php:28
+#: inc/elementor/tw-testimonial.php:84
+msgid "Testimonial Slider"
+msgstr ""
+
+#: inc/elementor/tw-testimonial.php:35
+msgid "Testimonial Quote"
+msgstr ""
+
+#: inc/elementor/tw-testimonial.php:39
+msgid "Insert your testimony."
+msgstr ""
+
+#: inc/elementor/tw-testimonial.php:45
+msgid "Author Image"
+msgstr ""
+
+#: inc/elementor/tw-testimonial.php:47
+msgid "Upload square size image. Image size should be grater than 90x90px."
+msgstr ""
+
+#: inc/elementor/tw-testimonial.php:53 inc/elementor/tw-testimonial.php:57
+msgid "Author Name"
+msgstr ""
+
+#: inc/elementor/tw-testimonial.php:63 inc/elementor/tw-testimonial.php:67
+msgid "Designation or Organization"
+msgstr ""
+
+#: inc/elementor/tw-testimonial.php:73
+msgid "Rating"
+msgstr ""
+
+#: inc/elementor/tw-testimonial.php:101
+msgid "Item Alignment"
+msgstr ""
+
+#: inc/elementor/tw-testimonial.php:181
+msgid "Background"
+msgstr ""
+
+#: inc/elementor/tw-testimonial.php:197
+msgid "Padding"
+msgstr ""
+
+#: inc/elementor/tw-testimonial.php:282
+msgid "Quote Styling"
+msgstr ""
+
+#: inc/elementor/tw-testimonial.php:289
+msgid "Qotation Color"
+msgstr ""
+
+#: inc/elementor/tw-testimonial.php:307
+msgid "Quote Margin"
+msgstr ""
+
+#: inc/elementor/tw-testimonial.php:318
+msgid "Author Name Styling"
+msgstr ""
+
+#: inc/elementor/tw-testimonial.php:354
+msgid "Author Meta Styling"
+msgstr ""
+
+#: inc/elementor/tw-text.php:37 inc/elementor/tw-text.php:95
+msgid "Your text should gose here"
+msgstr ""
+
+#: inc/elementor/tw-text.php:67
+msgid "Pagraph Styling"
+msgstr ""
+
+#: inc/elementor/tw-timer-counter.php:14 inc/elementor/tw-timer-counter.php:26
+msgid "Comingsoon Timer"
+msgstr ""
+
+#: inc/elementor/tw-timer-counter.php:32
+msgid "Timer Style"
+msgstr ""
+
+#: inc/elementor/tw-timer-counter.php:34
+msgid "Select comingsoon timer style."
+msgstr ""
+
+#: inc/elementor/tw-timer-counter.php:37
+msgid "Counter View"
+msgstr ""
+
+#: inc/elementor/tw-timer-counter.php:38
+msgid "Progress Bar View"
+msgstr ""
+
+#: inc/elementor/tw-timer-counter.php:44
+msgid "Progress Bar Label"
+msgstr ""
+
+#: inc/elementor/tw-timer-counter.php:47
+msgid "Development"
+msgstr ""
+
+#: inc/elementor/tw-timer-counter.php:62
+msgid "Opening Date"
+msgstr ""
+
+#: inc/elementor/tw-timer-counter.php:81
+msgid "Start Date"
+msgstr ""
+
+#: inc/elementor/tw-timer-counter.php:100
+msgid "End Date"
+msgstr ""
+
+#: inc/elementor/tw-timer-counter.php:121
+msgid "Timer Styling"
+msgstr ""
+
+#: inc/elementor/tw-timer-counter.php:155
+msgid "Number Margin"
+msgstr ""
+
+#: inc/elementor/tw-timer-counter.php:168
+msgid "Label Typography"
+msgstr ""
+
+#: inc/elementor/tw-timer-counter.php:187
+msgid "Timer Box Margin"
+msgstr ""
+
+#: inc/elementor/tw-timer-counter.php:199
+msgid "Progress Bar Styling"
+msgstr ""
+
+#: inc/elementor/tw-timer-counter.php:226
+msgid "Progress BG Color"
+msgstr ""
+
+#: inc/elementor/tw-timer-counter.php:236
+msgid "Barr BG Color"
+msgstr ""
+
+#: inc/elementor/tw-timer-counter.php:272
+msgid "Insert date first."
+msgstr ""
+
+#: inc/elementor/tw-work-process.php:15 inc/elementor/tw-work-process.php:29
+msgid "Work Process"
+msgstr ""
+
+#: inc/elementor/tw-work-process.php:36
+msgid "Item Serial"
+msgstr ""
+
+#: inc/elementor/tw-work-process.php:47 inc/elementor/tw-work-process.php:49
+msgid "Item Title"
+msgstr ""
+
+#: inc/elementor/tw-work-process.php:51
+msgid "Insert process item title"
+msgstr ""
+
+#: inc/elementor/tw-work-process.php:57
+msgid "Show Bar?"
+msgstr ""
+
+#: inc/elementor/tw-work-process.php:61
+msgid "Do you want to show bar on right side? Then please turn it to Yes"
+msgstr ""
+
+#: inc/elementor/tw-work-process.php:94
+msgid "Serial Color"
+msgstr ""
+
+#: inc/elementor/tw-work-process.php:104
+msgid "Serial BG Color"
+msgstr ""
+
+#: inc/elementor/tw-work-process.php:115
+msgid "Sercial Border"
+msgstr ""
+
+#: inc/elementor/tw-work-process.php:122
+msgid "Serial Radius"
+msgstr ""
+
+#: inc/post/tw-custom-post.php:27 inc/taxonomies/tw-taxonomies.php:27
+msgid "Add New "
+msgstr ""
+
+#: inc/post/tw-custom-post.php:28 inc/taxonomies/tw-taxonomies.php:28
+msgid "Edit "
+msgstr ""
+
+#: inc/post/tw-custom-post.php:29 inc/taxonomies/tw-taxonomies.php:26
+msgid "New "
+msgstr ""
+
+#: inc/post/tw-custom-post.php:30
+msgid "View "
+msgstr ""
+
+#: inc/post/tw-custom-post.php:31 inc/taxonomies/tw-taxonomies.php:31
+msgid "Search "
+msgstr ""
+
+#: inc/post/tw-custom-post.php:32 inc/post/tw-custom-post.php:33
+msgid "No "
+msgstr ""
+
+#: inc/post/tw-custom-post.php:34 inc/taxonomies/tw-taxonomies.php:34
+#: inc/taxonomies/tw-taxonomies.php:36
+msgid "Parent "
+msgstr ""
+
+#: inc/taxonomies/tw-taxonomies.php:29
+msgid "Update "
+msgstr ""
+
+#: inc/taxonomies/tw-taxonomies.php:30
+msgid "Add or remove "
+msgstr ""
+
+#: inc/taxonomies/tw-taxonomies.php:32
+msgid "Popular "
+msgstr ""
+
+#: inc/taxonomies/tw-taxonomies.php:33
+msgid "All "
+msgstr ""
+
+#: inc/taxonomies/tw-taxonomies.php:35
+msgid "Choose from the most used "
+msgstr ""
+
+#: inc/widgets/tw-about-us-widgets.php:15
+msgid "Makeover About Us"
+msgstr ""
+
+#: inc/widgets/tw-about-us-widgets.php:137
+msgid "Company Logo:"
+msgstr ""
+
+#: inc/widgets/tw-about-us-widgets.php:145 inc/widgets/tw-mchimp-widgets.php:67
+#: inc/widgets/tw-our-company-widgets.php:79
+msgid "Description:"
+msgstr ""
+
+#: inc/widgets/tw-about-us-widgets.php:149
+msgid "Facebook:"
+msgstr ""
+
+#: inc/widgets/tw-about-us-widgets.php:153
+msgid "Twitter:"
+msgstr ""
+
+#: inc/widgets/tw-about-us-widgets.php:157
+msgid "Dribbble:"
+msgstr ""
+
+#: inc/widgets/tw-about-us-widgets.php:161
+msgid "Linkedin:"
+msgstr ""
+
+#: inc/widgets/tw-about-us-widgets.php:165
+msgid "Skype:"
+msgstr ""
+
+#: inc/widgets/tw-about-us-widgets.php:169
+msgid "RSS:"
+msgstr ""
+
+#: inc/widgets/tw-about-us-widgets.php:173
+msgid "Pinterest:"
+msgstr ""
+
+#: inc/widgets/tw-about-us-widgets.php:177
+msgid "Instagram:"
+msgstr ""
+
+#: inc/widgets/tw-about-us-widgets.php:181
+msgid "Behance:"
+msgstr ""
+
+#: inc/widgets/tw-about-us-widgets.php:185
+msgid "Github:"
+msgstr ""
+
+#: inc/widgets/tw-about-us-widgets.php:189
+msgid "Digg:"
+msgstr ""
+
+#: inc/widgets/tw-about-us-widgets.php:193
+msgid "VK:"
+msgstr ""
+
+#: inc/widgets/tw-about-us-widgets.php:197
+msgid "Vimeo:"
+msgstr ""
+
+#: inc/widgets/tw-about-us-widgets.php:201
+msgid "Tumblr:"
+msgstr ""
+
+#: inc/widgets/tw-about-us-widgets.php:205
+msgid "Youtube:"
+msgstr ""
+
+#: inc/widgets/tw-gallery-widgets.php:11
+msgid "Display gallery images."
+msgstr ""
+
+#: inc/widgets/tw-gallery-widgets.php:13
+msgid "Makeover Gallery"
+msgstr ""
+
+#: inc/widgets/tw-gallery-widgets.php:53
+msgid "Explore Our Gallery"
+msgstr ""
+
+#: inc/widgets/tw-gallery-widgets.php:71
+msgid "Upload Images"
+msgstr ""
+
+#: inc/widgets/tw-gallery-widgets.php:73
+msgid "Clear Images"
+msgstr ""
+
+#: inc/widgets/tw-join-us-widgets.php:12
+msgid "Makeover Request a Quote Widgets."
+msgstr ""
+
+#: inc/widgets/tw-join-us-widgets.php:15
+msgid "Makeover Request Quote"
+msgstr ""
+
+#: inc/widgets/tw-join-us-widgets.php:22 inc/widgets/tw-join-us-widgets.php:61
+msgid "Request a Quote"
+msgstr ""
+
+#: inc/widgets/tw-join-us-widgets.php:68
+msgid "Sub Title:"
+msgstr ""
+
+#: inc/widgets/tw-join-us-widgets.php:72
+#: inc/widgets/tw-our-company-widgets.php:75
+#: inc/widgets/tw-recentpost-widgets.php:96
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/tw-join-us-widgets.php:76
+msgid "Button Label:"
+msgstr ""
+
+#: inc/widgets/tw-join-us-widgets.php:80
+msgid "Button URL:"
+msgstr ""
+
+#: inc/widgets/tw-join-us-widgets.php:84
+msgid "Widget BG Image:"
+msgstr ""
+
+#: inc/widgets/tw-join-us-widgets.php:90
+msgid "Image size should be 350x400px."
+msgstr ""
+
+#: inc/widgets/tw-mchimp-widgets.php:15
+msgid "Makeover Mailchimp Extended"
+msgstr ""
+
+#: inc/widgets/tw-mchimp-widgets.php:71
+msgid "Form ID:"
+msgstr ""
+
+#: inc/widgets/tw-mchimp-widgets.php:73
+msgid "Please Select"
+msgstr ""
+
+#: inc/widgets/tw-mchimp-widgets.php:96
+msgid "Offer Note:"
+msgstr ""
+
+#: inc/widgets/tw-our-company-widgets.php:15
+msgid "Makeover Our Company"
+msgstr ""
+
+#: inc/widgets/tw-our-company-widgets.php:83
+msgid "Button Set 01:"
+msgstr ""
+
+#: inc/widgets/tw-our-company-widgets.php:91
+msgid "Button Set 02:"
+msgstr ""
+
+#: inc/widgets/tw-our-company-widgets.php:99
+msgid "Button Set 03:"
+msgstr ""
+
+#: inc/widgets/tw-recentpost-widgets.php:15
+msgid "Makeover Recent Post"
+msgstr ""
+
+#: inc/widgets/tw-recentpost-widgets.php:20
+#: inc/widgets/tw-recentpost-widgets.php:90
+msgid "Recent Posts"
+msgstr ""
+
+#: inc/widgets/tw-recentpost-widgets.php:100
+msgid "Number Of Posts:"
+msgstr ""
+
+#: inc/widgets/tw-recentpost-widgets.php:104
+msgid "Order By:"
+msgstr ""
+
+#: inc/widgets/tw-recentpost-widgets.php:110
+msgid "Comment Count"
+msgstr ""
+
+#: inc/widgets/tw-recentpost-widgets.php:111
+msgid "View Count"
+msgstr ""
+
+#: inc/widgets/tw-recentpost-widgets.php:115
+msgid "Order:"
+msgstr ""
+
+#: inc/widgets/tw-recentpost-widgets.php:117
+msgid "ASC"
+msgstr ""
+
+#: inc/widgets/tw-recentpost-widgets.php:118
+msgid "DESC"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Makeover Assistance"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://themewar.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Assistance plugin for all Makeover Assistance."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "themewar"
+msgstr ""
