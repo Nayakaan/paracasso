@@ -1,0 +1,53 @@
+.customizer_label{
+    position: relative;
+    background: #FFF;
+    font-size: 14px;
+    text-transform: capitalize;
+    color: #000;
+    line-height: 1;
+    font-weight: 700;
+    letter-spacing: 0;
+    text-align: left;
+    padding: 12px 15px;
+    border-left: 3px solid #0073aa;
+}
+.mt40{
+    margin-top: 40px;
+}
+.cml{
+    line-height: 24px;
+}
+.customizer_devider {
+    height: 2px;
+    background: #FFF;
+    margin: 15px 0 10px;
+}
+.displayBlocks{
+    display: block;
+    width: 100%;
+}
+
+/*-- Easy Mailchimp Overwrite ---*/
+.postbox .fw-options-tabs-wrapper > .fw-options-tabs-list {
+    padding: 0;
+}
+.ui-widget-header {
+    border: none;
+    background: transparent;
+    color: inherit;
+    font-weight: bold;
+    border: none;
+    border-radius: 0 !important;
+}
+.ui-state-active, .ui-widget-content .ui-state-active, .ui-widget-header .ui-state-active{
+    background: transparent !important;
+    border: none !important;
+}
+.ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default{
+    background: transparent;
+    border: none;
+}
+.ui-widget-content{
+    border: none;
+}
+/*-- Easy Mailchimp Overwrite ---*/
